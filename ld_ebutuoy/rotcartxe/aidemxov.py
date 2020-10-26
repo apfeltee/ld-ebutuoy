@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -213,4 +210,6 @@ di_oediv_redivorp % ]epyt_oediv_redivorp[}
 ))'emulov' ,diuu_emulov(yrtne_etaerc(dneppa.seirtne            
 
 :1 == )seirtne(nel fi        
-]0[seirtne nruter            ))egapbew(noitpircsed_hcraes_go_.fles ,)egapbew(eltit_hcraes_go_.fles ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter            :esle        
+]0[seirtne nruter            
+:esle        
+))egapbew(noitpircsed_hcraes_go_.fles ,)egapbew(eltit_hcraes_go_.fles ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter            

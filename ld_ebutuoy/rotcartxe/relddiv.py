@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -136,4 +133,6 @@ eunitnoc
 ,)'rohtua'(teg.atad :'redaolpu'            
 ,))'htgnel'(teg.atad(enon_ro_taolf :'noitarud'            
 ,))'tnuoc_weiv'(teg.atad(enon_ro_tni :'tnuoc_weiv'            
-,))'tnuoc_tnemmoc'(teg.atad(enon_ro_tni :'tnuoc_tnemmoc'            }        ,seirogetac :'seirogetac'            
+,))'tnuoc_tnemmoc'(teg.atad(enon_ro_tni :'tnuoc_tnemmoc'            
+,seirogetac :'seirogetac'            
+}        

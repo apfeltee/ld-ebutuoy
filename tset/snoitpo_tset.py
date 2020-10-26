@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -24,4 +21,6 @@ ofni_nigol_edih_ tropmi snoitpo.ld_ebutuoy morf
 ,)]'oof=emanresu--'[(ofni_nigol_edih_(lauqEtressa.fles        
 )]'ETAVIRP=emanresu--'[                         
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

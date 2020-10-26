@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -57,4 +54,6 @@ mgc83sqk_1_reyalp_arutlak=di htiw vid #
 (xeger_hcraes_.fles(nosj_esrap_.fles ro )'di'=puorg ,enoN=tluafed            
 ,)'di arutlak' ,egapbew ,';]\)+.([\*s\=*s\soediv.\ofnIegap'r                
 ]'di_arutlak_div'[)di_yalpsid            
-))(yek_ei.EIarutlaK ,)di_arutlak ,di_rentrap( % 's%:s%:arutlak'            (tluser_lru.fles nruter        
+
+(tluser_lru.fles nruter        
+))(yek_ei.EIarutlaK ,)di_arutlak ,di_rentrap( % 's%:s%:arutlak'            

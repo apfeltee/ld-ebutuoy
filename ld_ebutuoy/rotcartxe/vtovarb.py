@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -82,4 +79,6 @@ dip_esaeler + '/1599740412/diug/aidem' = htap_pt
 (yreuq_lru_etadpu(lru_elggums :'lru'            
 ,)htap_pt ,dip_tnuocca( % 's%/s%/s/moc.mroftalpeht.knil//:ptth'                
 ,)}eurT :'lru_lims_ecrof'{ ,)yreuq                
-,'mroftalPehT' :'yek_ei'            ofni nruter        )}        
+,'mroftalPehT' :'yek_ei'            
+)}        
+ofni nruter        

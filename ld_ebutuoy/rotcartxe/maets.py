@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -147,4 +144,6 @@ eunitnoc
 stamrof = ]'stamrof'[yrtne                
 )yrtne(dneppa.seirtne                
 :seirtne ton fi        
-)'soediv yna dnif ton dluoC'(rorrErotcartxE esiar            )eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)'soediv yna dnif ton dluoC'(rorrErotcartxE esiar            
+
+)eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

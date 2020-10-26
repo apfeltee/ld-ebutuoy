@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -74,4 +71,6 @@ sedosipe/)+]/^[>2_lennahc<P?(/stsacdop/moc.\citamodop?).\www:?(
 ,eltit :'eltit'            
 ,redaolpu :'redaolpu'            
 ,lennahc :'di_redaolpu'            
-,lianbmuht :'lianbmuht'            }        ,noitarud :'noitarud'            
+,lianbmuht :'lianbmuht'            
+,noitarud :'noitarud'            
+}        

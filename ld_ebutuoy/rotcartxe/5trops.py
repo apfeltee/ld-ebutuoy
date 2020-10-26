@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -90,4 +87,6 @@ txet.)'noitpircseD/.'(dnif.atadatem = noitpircsed
 ,noitpircsed :'noitpircsed'            
 ,slianbmuht :'slianbmuht'            
 ,noitarud :'noitarud'            
-,seirogetac :'seirogetac'            }        ,stamrof :'stamrof'            
+,seirogetac :'seirogetac'            
+,stamrof :'stamrof'            
+}        

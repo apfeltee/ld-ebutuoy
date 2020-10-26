@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -84,4 +81,6 @@ tsefinam 8u3m ytpme #
 ,lru_odur :'lru'            
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,lianbmuht :'lianbmuht'            }        ,redaolpu :'redaolpu'            
+,lianbmuht :'lianbmuht'            
+,redaolpu :'redaolpu'            
+}        

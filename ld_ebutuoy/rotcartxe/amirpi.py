@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -89,8 +86,7 @@ zc.amirpi.amirp emarfi #
 ,')+d\p(=dib\?*.?\)+]/^[/+]/^[/zc.\amirpi.\amirp|deddebme/cavarherp/zc.\amirpi.\dnekcab-yalp.\ipa:?(//?):?sptth:?(]'\"[=crsb\+]>^[emarfi<'r(            
 ,'>")+]"^[("=tcudorp-atad'r             
 ,'")+d\p(-reyalp]'\"[=di'r             
-,')+d\p(-reyalp]'\"[*s\:*s\dIreyalp'r             
-,)')+d\p(]'\"[*s\=*s\soedivb\'r             
+,)')+d\p(-reyalp]'\"[*s\:*s\dIreyalp'r             
 )'di laer' ,egapbew            
 
 (egapbew_daolnwod_.fles = egapreyalp        
@@ -147,4 +143,6 @@ eunitnoc
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,)enoN=tluafed ,egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
-,stamrof :'stamrof'            }        ,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,stamrof :'stamrof'            
+,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+}        

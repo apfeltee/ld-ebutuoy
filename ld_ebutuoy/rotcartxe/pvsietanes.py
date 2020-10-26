@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -151,4 +148,6 @@ rorre 404 na ecudni marap artxe eht tuohtiw sLRU #
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,stamrof :'stamrof'            }        ,lianbmuht :'lianbmuht'            
+,stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+}        

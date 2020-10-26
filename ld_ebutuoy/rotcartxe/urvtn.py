@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -129,4 +126,6 @@ _elif + '/dov/ur.vtn.aidem//:ptth' = _elif
 ,)))'noitpircsed/atad/.' ,reyalp(txet_htapx(LMTHepacsenu(enon_ro_pirts :'noitpircsed'            
 ,)'hsalps/.' ,oediv(txet_htapx :'lianbmuht'            
 ,))'emitlatot/.' ,oediv(txet_htapx(enon_ro_tni :'noitarud'            
-,))'sweiv/.' ,oediv(txet_htapx(enon_ro_tni :'tnuoc_weiv'            }        ,stamrof :'stamrof'            
+,))'sweiv/.' ,oediv(txet_htapx(enon_ro_tni :'tnuoc_weiv'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -143,4 +140,6 @@ lru % 'tamrof LRU wollof dluohs r%' ,m tressa
 :STSET_ ni ceps_tset rof
 )ceps_tset*(cnuft_ekam    
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

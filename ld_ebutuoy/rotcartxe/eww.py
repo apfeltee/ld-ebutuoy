@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -138,4 +135,6 @@ eunitnoc
 :noitpecxE tpecxe            
 eunitnoc                
 )(yek_ei.EIEWW = ]'yek_rotcartxe'[yrtne            
-)yrtne(dneppa.seirtne            )di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        
+)yrtne(dneppa.seirtne            
+
+)di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        

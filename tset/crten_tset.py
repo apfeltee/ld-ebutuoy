@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -24,4 +21,6 @@ eunitnoc
 ,)'ENIHCAM_CRTEN_' ,ei(rttasah                
 )EMAN_EI.ei % 'ytreporp ENIHCAM_CRTEN_ a gnissim si tub ,nigol stroppus s% rotcartxE'                
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

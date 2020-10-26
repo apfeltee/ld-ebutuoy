@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -82,4 +79,6 @@ eulav = ]yek_tsd[ofni
 ,))1(puorg.jbom(tni :'rebmun_nosaes'                        
 ,))2(puorg.jbom(tni :'rebmun_edosipe'                        
 ,)3(puorg.jbom :'edosipe'                        
-)}                    ofni nruter        
+)}                    
+
+ofni nruter        

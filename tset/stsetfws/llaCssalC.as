@@ -1,6 +1,3 @@
-
-
-
 ][ :tupni //
 121 :tuptuo //
 
@@ -15,4 +12,6 @@
 
 { ssalCrehtO ssalc
 { tni:)tni :y ,tni :x(cnuf noitcnuf cilbup	
-;1+y+x nruter		}}	
+;1+y+x nruter		
+}	
+}

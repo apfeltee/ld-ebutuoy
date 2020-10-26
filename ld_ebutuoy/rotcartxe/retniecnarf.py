@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ enoN = etad_daolpu
 ,etad_daolpu :'etad_daolpu'            
 {[ :'stamrof'            
 ,lru_oediv :'lru'                
-,'enon' :'cedocv'                }        ,]}            
+,'enon' :'cedocv'                
+,]}            
+}        

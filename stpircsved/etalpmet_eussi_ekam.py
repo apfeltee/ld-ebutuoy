@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -27,4 +24,6 @@ egakcap eht gnitropmi tuohtiw yp.noisrev/ld_ebutuoy morf noisrev eht teG #
 
 :ftuo sa )'8-ftu'=gnidocne ,'w' ,eliftuo(nepo.oi htiw    
 )tuo(etirw.ftuo        
-)(niam    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam    

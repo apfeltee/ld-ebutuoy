@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -36,4 +33,6 @@ etouqnu_esrap_billru_tapmoc tropmi tapmoc.. morf
 ,lru_lanif :'lru'            
 ,eltit :'eltit'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
-,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            }        ,redaolpu :'redaolpu'            
+,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,redaolpu :'redaolpu'            
+}        

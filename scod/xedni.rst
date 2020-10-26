@@ -1,6 +1,3 @@
-
-
-
 !noitatnemucod s'ld-ebutuoy ot emocleW
 ======================================
 
@@ -21,4 +18,6 @@ selbat dna secidnI
 ==================
 
 `xednineg`:fer: *
-`xednidom`:fer: *`hcraes`:fer: *
+`xednidom`:fer: *
+`hcraes`:fer: *
+

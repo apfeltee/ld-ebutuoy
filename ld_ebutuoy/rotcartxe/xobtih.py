@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -212,4 +209,6 @@ eunitnoc
 )di_oediv ,'evil/aidem/ipa/vt.tsachsams.www//:sptth'            
 stamrof = ]'stamrof'[atadatem        
 eurT = ]'evil_si'[atadatem        
-))'eltit'(teg.atadatem(eltit_evil_.fles = ]'eltit'[atadatem        atadatem nruter        
+))'eltit'(teg.atadatem(eltit_evil_.fles = ]'eltit'[atadatem        
+
+atadatem nruter        

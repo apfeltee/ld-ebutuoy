@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -115,4 +112,6 @@ eunitnoc
 ,noitarud :'noitarud'            
 ,)tnuoc_weiv(enon_ro_tni :'tnuoc_weiv'            
 ,)tnuoc_tnemmoc(enon_ro_tni :'tnuoc_tnemmoc'            
-,)egapbew(hcraes_yldneirf_ylimaf_.fles :'timil_ega'            }        ,stamrof :'stamrof'            
+,)egapbew(hcraes_yldneirf_ylimaf_.fles :'timil_ega'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -88,4 +85,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,pmatsemit :'pmatsemit'            
 ,redaolpu :'redaolpu'            
 ,noitarud :'noitarud'            
-,tnuoc_weiv :'tnuoc_weiv'            }        ,stamrof :'stamrof'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,stamrof :'stamrof'            
+}        

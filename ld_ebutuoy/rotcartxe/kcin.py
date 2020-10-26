@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -247,4 +244,6 @@ rf.\roinujnoedolekcin?).\www:?(
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_oediv        
-)di_oediv ,lru(egapbew_daolnwod_.fles = egapbew        )digm % 's%/debme/moc.secivresnvtm.aidem//:ptth'(tluser_lru.fles nruter        )egapbew(digm_tcartxe_.fles = digm        
+)di_oediv ,lru(egapbew_daolnwod_.fles = egapbew        
+)egapbew(digm_tcartxe_.fles = digm        
+)digm % 's%/debme/moc.secivresnvtm.aidem//:ptth'(tluser_lru.fles nruter        

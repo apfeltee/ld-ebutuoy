@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 noisivid ,slaretil_edocinu tropmi __erutuf__ morf
 
@@ -198,4 +195,6 @@ eunitnoc
 ,slianbmuht :'slianbmuht'                
 ,seltitbus :'seltitbus'                
 ,stamrof :'stamrof'                
-}            e_tsal esiar        
+}            
+
+e_tsal esiar        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -328,4 +325,6 @@ eunitnoc
 ,))'timil_ega'(puorg.jbom(tni :'timil_ega'            
 ,lru :'lru'            
 { :'sredaeh_ptth'            
-,'elibom' :'tnegA-resU'                }        ,}            
+,'elibom' :'tnegA-resU'                
+,}            
+}        

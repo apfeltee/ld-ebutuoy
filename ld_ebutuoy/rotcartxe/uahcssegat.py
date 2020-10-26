@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -309,4 +306,6 @@ oediv elgnis emussA #  :esle
 ,di_yalpsid :'di'            
 ,eltit :'eltit'            
 ,lianbmuht :'lianbmuht'            
-,stamrof :'stamrof'            }        ,noitpircsed :'noitpircsed'            
+,stamrof :'stamrof'            
+,noitpircsed :'noitpircsed'            
+}        

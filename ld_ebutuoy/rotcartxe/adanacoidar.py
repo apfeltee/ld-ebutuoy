@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -169,4 +166,6 @@ daolnwod 8u3m #
 ,'manteiv-ua-amabo-kcarab/4817257-aidem/soediv/ofni/ac.adanac-oidar.ici//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 ]}    
-))lru(di_hctam_.fles % 's%:tenaidem:adanacoidar'(tluser_lru.fles nruter        :)lru ,fles(tcartxe_laer_ fed    
+
+:)lru ,fles(tcartxe_laer_ fed    
+))lru(di_hctam_.fles % 's%:tenaidem:adanacoidar'(tluser_lru.fles nruter        

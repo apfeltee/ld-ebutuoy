@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -113,4 +110,6 @@ LRU tcerider ni sretcarahc IICSA-non #
 ,'1/nwodwohs-orehrepus/6742/snoitcelloc/kd.soidutskraphtuos.www//:ptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
-,'1/nwodwohs-orehrepus/6742/snoitcelloc/un.soidutskraphtuos.www//:ptth' :'lru'        ]}    ,eurT :'gnihctam_ylno'        
+,'1/nwodwohs-orehrepus/6742/snoitcelloc/un.soidutskraphtuos.www//:ptth' :'lru'        
+,eurT :'gnihctam_ylno'        
+]}    

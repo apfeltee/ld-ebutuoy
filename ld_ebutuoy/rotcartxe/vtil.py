@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -146,4 +143,6 @@ eurT = ]'noisserpmoc-on-ldebutuoY'[)}{ ,'sredaeh_ptth'(tluafedtes.tamrof_a
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,lianbmuht :'lianbmuht'            
-,seirogetac :'seirogetac'            }        ,edosipe :'rebmun_edosipe'            
+,seirogetac :'seirogetac'            
+,edosipe :'rebmun_edosipe'            
+}        

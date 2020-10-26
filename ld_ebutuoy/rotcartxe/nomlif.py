@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -176,4 +173,6 @@ yawyna stnairav etartib evah t'nseod ti esuaceb #
 ,eltit esle evil_si fi )eltit(eltit_evil_.fles :'eltit'            
 ,)'noitpircsed'(teg.atad_lennahc :'noitpircsed'            
 ,slianbmuht :'slianbmuht'            
-,stamrof :'stamrof'            }        ,evil_si :'evil_si'            
+,stamrof :'stamrof'            
+,evil_si :'evil_si'            
+}        

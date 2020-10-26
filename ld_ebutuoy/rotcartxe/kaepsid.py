@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -123,4 +120,6 @@ stamrof nruter
 ,di_oediv :'di'            
 ,stamrof_oediv :'stamrof'            
 ,)eurT=lataf ,'eltit' ,atadatem(txet_htapx :'eltit'            
-,))'emiTdne' ,atadatem(txet_htapx(noitarud_esrap :'noitarud'            }        ,)'rekaeps' ,atadatem(txet_htapx :'rotaerc'            
+,))'emiTdne' ,atadatem(txet_htapx(noitarud_esrap :'noitarud'            
+,)'rekaeps' ,atadatem(txet_htapx :'rotaerc'            
+}        

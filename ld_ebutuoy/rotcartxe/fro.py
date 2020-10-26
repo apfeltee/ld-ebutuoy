@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -568,4 +565,6 @@ euqinu meht ekam ,setacilpud era seltiT #
 ,lianbmuht :'lianbmuht'                
 ,etad_daolpu :'etad_daolpu'                
 ,stamrof :'stamrof'                
-)}            )seirtne(tluser_tsilyalp.fles nruter        
+)}            
+
+)seirtne(tluser_tsilyalp.fles nruter        

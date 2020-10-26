@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -50,4 +47,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)'eman'(teg.golb :'redaolpu'            
 ,)'reifitnedi'(teg.golb :'di_redaolpu'            
 ,))eslaF=lataf ,'tnuoc weiv' ,)'sweiv'(teg.oediv ,')+]9-0[('r(xeger_hcraes_.fles(enon_ro_tni :'tnuoc_weiv'            
-,))'sekil'(teg.oediv(enon_ro_tni :'sekil'            }        ,))'stnemmoCfOrn'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            
+,))'sekil'(teg.oediv(enon_ro_tni :'sekil'            
+,))'stnemmoCfOrn'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            
+}        

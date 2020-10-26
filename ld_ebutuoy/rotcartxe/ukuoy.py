@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -307,4 +304,6 @@ enoN esle csed fi ]0[)','(tilps.csed = eltit_tsilyalp
 )egapbew ,'ortni-p'(ssalc_yb_tnemele_teg = il_liated        
 (ssalc_yb_tnemele_teg = noitpircsed_tsilyalp        
 enoN esle il_liated fi )il_liated ,'erom-ortni'            
-)noitpircsed_tsilyalp ,eltit_tsilyalp ,di_wohs ,seirtne            (tluser_tsilyalp.fles nruter        
+
+(tluser_tsilyalp.fles nruter        
+)noitpircsed_tsilyalp ,eltit_tsilyalp ,di_wohs ,seirtne            

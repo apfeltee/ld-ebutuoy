@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu ,noisivid tropmi __erutuf__ morf
 
 oi tropmi
@@ -436,4 +433,6 @@ esiar
 ))1 + i_garf( - ]1[]0[tsil_stnemgarf( % 'stnemgarf d% dessiM' = gsm                    
 )gsm(gninraw_troper.fles                    
 
-)xtc(daolnwod_garf_hsinif_.fles        eurT nruter        
+)xtc(daolnwod_garf_hsinif_.fles        
+
+eurT nruter        

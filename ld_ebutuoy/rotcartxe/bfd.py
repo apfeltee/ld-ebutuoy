@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -55,4 +52,6 @@ stamrof 8u3m tcartxe ot dohtem eht rof sj.xaja/sj/reyalp/ed.bfd.vt//:ptth ees #
 ,di_yalpsid :'di_yalpsid'            
 ,txet.)'eltit'(dnif.ofni_oediv :'eltit'            
 ,di_oediv % 'gpj.063x046_s%/segami/ed.bfd.vt//:ptth' :'lianbmuht'            
-,)txet.)'etad_emit'(dnif.ofni_oediv(etadrts_deifinu :'etad_daolpu'            }        ,stamrof :'stamrof'            
+,)txet.)'etad_emit'(dnif.ofni_oediv(etadrts_deifinu :'etad_daolpu'            
+,stamrof :'stamrof'            
+}        

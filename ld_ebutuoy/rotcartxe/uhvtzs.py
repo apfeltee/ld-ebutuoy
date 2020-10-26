@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -39,4 +36,6 @@ elif_oediv + '/dov/uh.vtzs.aidem//:ptth' = lru_oediv
 ,di_oediv :'di'            
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
-,noitpircsed :'noitpircsed'            }        ,lianbmuht :'lianbmuht'            
+,noitpircsed :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+}        

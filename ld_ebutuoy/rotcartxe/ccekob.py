@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -58,4 +55,6 @@ stamrof nruter
 
 { nruter        
 ,di_oediv :'di'            
-egapbew eht ni dedivorp eltit on #  ,'oediV CCekoB' :'eltit'            }        ,)di_oediv ,egapbew(stamrof_ccekob_tcartxe_.fles :'stamrof'            
+egapbew eht ni dedivorp eltit on #  ,'oediV CCekoB' :'eltit'            
+,)di_oediv ,egapbew(stamrof_ccekob_tcartxe_.fles :'stamrof'            
+}        

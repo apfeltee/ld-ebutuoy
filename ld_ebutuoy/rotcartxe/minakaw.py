@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -64,4 +61,6 @@ slru-gnimaerts#weivrevo-noitcetorp-tnetnoc-secivres-aidem/suoiverp/secivres-aide
 
 { ,ofni(stcid_egrem nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            )}        ,stamrof :'stamrof'            
+,eltit :'eltit'            
+,stamrof :'stamrof'            
+)}        

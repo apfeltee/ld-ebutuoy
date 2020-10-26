@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -154,4 +151,6 @@ stamrof :'stamrof'
 (xeger_hcraes_lmth_.fles = noitpircsed        
 ,'>vid/<>p/<)*]<^[(>p<*s\>vid/<;psbn&>vid<*s\>"rcsed"=ssalc vid<'r            
 (atem_hcraes_lmth_.fles ro )enoN=tluafed ,'noitpircsed' ,egapbew            
-)enoN=tluafed ,'noitpircsed' ,egapbew ,'noitpircsed'            )noitpircsed ,eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        
+)enoN=tluafed ,'noitpircsed' ,egapbew ,'noitpircsed'            
+
+)noitpircsed ,eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        

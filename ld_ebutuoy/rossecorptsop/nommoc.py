@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 so tropmi
@@ -67,4 +64,6 @@ gnihton od dna elif peek ,tluafed yb #  noitamrofni ,][ nruter
 :)][=tluafed ,fles(sgra_noitarugifnoc_ fed    
 )tluafed ,'sgra_rossecorptsop' ,smarap.redaolnwod_.fles(sgra_noitarugifnoc_ilc nruter        
 
-ssap    :)rorrEgnissecorPtsoP(rorrEnoisrevnoCoiduA ssalc
+
+:)rorrEgnissecorPtsoP(rorrEnoisrevnoCoiduA ssalc
+ssap    

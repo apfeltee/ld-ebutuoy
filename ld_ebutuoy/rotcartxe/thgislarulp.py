@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 snoitcelloc tropmi
@@ -499,4 +496,6 @@ eunitnoc
 ,)'eltit'(teg.eludom :'retpahc'                    
 ,mun :'rebmun_retpahc'                    
 ,)'feReludom'(teg.eludom :'di_retpahc'                    
-)}                )noitpircsed ,eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)}                
+
+)noitpircsed ,eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

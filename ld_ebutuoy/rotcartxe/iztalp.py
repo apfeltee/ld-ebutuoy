@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -222,4 +219,6 @@ eunitnoc
 )}                
 
 ))]'di'[]'esruoc'[x :x adbmal ,sporp(teg_yrt(rts_tapmoc = di_esruoc        
-)rts_tapmoc ,]'eman'[]'esruoc'[x :x adbmal ,sporp(teg_yrt = eltit_esruoc        )eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)rts_tapmoc ,]'eman'[]'esruoc'[x :x adbmal ,sporp(teg_yrt = eltit_esruoc        
+
+)eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

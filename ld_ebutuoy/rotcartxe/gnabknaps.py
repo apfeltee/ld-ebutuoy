@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -182,4 +179,6 @@ ofni ,}
 
 (xeger_hcraes_lmth_.fles = eltit        
 ,'eltit tsilyalp' ,egapbew ,'>1h/<tsilyalp+s\)+]<^[(>1h<'r            
-)eslaF=lataf            )eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)eslaF=lataf            
+
+)eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

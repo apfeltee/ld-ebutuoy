@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -83,4 +80,6 @@ enoN esle dne dna trats fi trats - dne = noitarud
 ,pmatsemit :'pmatsemit'            
 ,redaolpu :'redaolpu'            
 ,lianbmuht :'lianbmuht'            
-,seirogetac :'seirogetac'            }        ,81 :'timil_ega'            
+,seirogetac :'seirogetac'            
+,81 :'timil_ega'            
+}        

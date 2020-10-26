@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -60,4 +57,6 @@ noisnetxe reporp a teg ot redro ni LRU lanif eht evloser ot tpmetta #
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
 ,noitpircsed :'noitpircsed'            
-,pmatsemit :'pmatsemit'            }        ,lianbmuht :'lianbmuht'            
+,pmatsemit :'pmatsemit'            
+,lianbmuht :'lianbmuht'            
+}        

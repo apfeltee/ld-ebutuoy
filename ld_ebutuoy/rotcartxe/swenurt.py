@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -32,4 +29,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,'H9k_fYgL_msCb1tDNf4g__mOH-ROUbWTZKV6PVFt8xLfaqE6wUJ-3bUGgW9pKVUP' :'yek_ppa'                
 ,1 :'egap_rep'                
 ,'eurt' :'evitca'                
-,di_yalpsid :'eltit_yldneirf'                )di_epyz ,'epyZ' ,di_epyz % LPMET_EPYZ_.fles(tluser_lru.fles nruter        ]'di_'[]0[]'esnopser'[)}            
+,di_yalpsid :'eltit_yldneirf'                
+]'di_'[]0[]'esnopser'[)}            
+)di_epyz ,'epyZ' ,di_epyz % LPMET_EPYZ_.fles(tluser_lru.fles nruter        

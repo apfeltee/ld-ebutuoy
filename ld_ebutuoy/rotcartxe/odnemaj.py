@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -185,4 +182,6 @@ eunitnoc
 ,eman_mubla :'mubla'                
 )}            
 
-(tluser_tsilyalp.fles nruter        )))rts_tapmoc ,]'ne'[]'noitpircsed'[x :x adbmal ,mubla(teg_yrt(lmth_naelc            ,eman_mubla ,di_mubla ,seirtne            
+(tluser_tsilyalp.fles nruter        
+,eman_mubla ,di_mubla ,seirtne            
+)))rts_tapmoc ,]'ne'[]'noitpircsed'[x :x adbmal ,mubla(teg_yrt(lmth_naelc            

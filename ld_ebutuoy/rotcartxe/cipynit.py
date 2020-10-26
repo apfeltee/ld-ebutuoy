@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -54,4 +51,6 @@ rorrErotcartxE tropmi slitu.. morf
 { nruter        
 ,di_elif :'di'            
 ,lru_oediv :'lru'            
-,lianbmuht :'lianbmuht'            }        eltit :'eltit'            
+,lianbmuht :'lianbmuht'            
+eltit :'eltit'            
+}        

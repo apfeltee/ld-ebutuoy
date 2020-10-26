@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -27,4 +24,6 @@ rotcartxEofnI tropmi nommoc. morf
 )lru(di_hctam_.fles = di_oediv        
 )di_oediv ,lru(egapbew_daolnwod_.fles = egapbew        
 
-(xeger_hcraes_lmth_.fles(tluser_lru.fles nruter        ))'lru oediv laer' ,egapbew            ,'>")*.>lru_laer<P?("=ferh "kniloediv"=ler'r            
+(xeger_hcraes_lmth_.fles(tluser_lru.fles nruter        
+,'>")*.>lru_laer<P?("=ferh "kniloediv"=ler'r            
+))'lru oediv laer' ,egapbew            

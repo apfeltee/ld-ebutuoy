@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -65,4 +62,6 @@ eunitnoc
 ,'tsilyalp' :'epyt_'            
 ,di_tsilyalp :'di'            
 ,seirtne :'seirtne'            
-,)egapbew(eltit_hcraes_go_.fles :'eltit'            }        ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,)egapbew(eltit_hcraes_go_.fles :'eltit'            
+,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+}        

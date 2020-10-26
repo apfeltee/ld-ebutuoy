@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -87,4 +84,6 @@ enoN esle enoN ton si ele_lru_8u3m fi txet.ele_lru_8u3m = lru_8u3m
 ,stamrof :'stamrof'            
 ,eltit :'eltit'            
 ,noitarud :'noitarud'            
-,noitpircsed :'noitpircsed'            }        ,lianbmuht :'lianbmuht'            
+,noitpircsed :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+}        

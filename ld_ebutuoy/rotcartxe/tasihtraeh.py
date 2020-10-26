@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -133,4 +130,6 @@ ytilauq retteb yllausU #  ,2 :'ecnereferp'
 ,pmatsemit :'pmatsemit'            
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
-,tnuoc_ekil :'tnuoc_ekil'            }        ,seirogetac :'seirogetac'            
+,tnuoc_ekil :'tnuoc_ekil'            
+,seirogetac :'seirogetac'            
+}        

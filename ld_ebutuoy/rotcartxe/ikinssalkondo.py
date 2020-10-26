@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -266,4 +263,6 @@ stamrof eviL #
 )eurT=detcepxe ,'ti daolnwod ot ebircsbus ,diap si oediv sihT'(rorrErotcartxE esiar                
 
 )stamrof(stamrof_tros_.fles        
-ofni nruter        stamrof = ]'stamrof'[ofni        
+
+stamrof = ]'stamrof'[ofni        
+ofni nruter        

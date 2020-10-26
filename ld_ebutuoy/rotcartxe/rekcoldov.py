@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -78,4 +75,6 @@ egapbew = egapbew_lianbmuht
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,lianbmuht :'lianbmuht'            }        ,stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

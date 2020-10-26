@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 PPlianbmuhTdebmE tropmi lianbmuhtdebme. morf
@@ -38,4 +35,6 @@ PPeltiTmorFatadateM tropmi eltitmorfatadatem. morf
 ,'rossecorPtsoPgepmFF'    
 ,'PProtrevnoCseltitbuSgepmFF'    
 ,'PProtrevnoCoediVgepmFF'    
-,'PPeltiTmorFatadateM'    ],'PPatadateMrttAX'    
+,'PPeltiTmorFatadateM'    
+,'PPatadateMrttAX'    
+]

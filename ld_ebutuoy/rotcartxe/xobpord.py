@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -38,4 +35,6 @@ emanesab_lru tropmi slitu.. morf
 
 { nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            }        ,lru_oediv :'lru'            
+,eltit :'eltit'            
+,lru_oediv :'lru'            
+}        

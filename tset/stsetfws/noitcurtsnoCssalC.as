@@ -1,6 +1,3 @@
-
-
-
 ][ :tupni //
 0 :tuptuo //
 
@@ -13,4 +10,6 @@
 }
 }
 
-{ ooF ssalc}
+{ ooF ssalc
+
+}

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -69,4 +66,6 @@ eltit-oediv-atad on #
 ,'nom©ÃkoP' :'seires'            
 ,))'nosaes-oediv-atad'(teg.atad_oediv(enon_ro_tni :'rebmun_nosaes'            
 ,eltit :'edosipe'            
-,))'edosipe-oediv-atad'(teg.atad_oediv(enon_ro_tni :'rebmun_edosipe'            }        ,'aideMthgilemiL' :'yek_ei'            
+,))'edosipe-oediv-atad'(teg.atad_oediv(enon_ro_tni :'rebmun_edosipe'            
+,'aideMthgilemiL' :'yek_ei'            
+}        

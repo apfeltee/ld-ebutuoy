@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -114,4 +111,6 @@ enoN esle )'sgat'(teg.oediv fi ])','(tilps.]'sgat'[oediv ni gat rof )(pirts.gat[
 ,pmatsemit :'pmatsemit'            
 ,noitarud :'noitarud'            
 ,sgat :'sgat'            
-,stamrof :'stamrof'            }        ,)egapbew(hcraes_atr_.fles :'timil_ega'            
+,stamrof :'stamrof'            
+,)egapbew(hcraes_atr_.fles :'timil_ega'            
+}        

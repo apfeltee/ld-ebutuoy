@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -227,17 +224,9 @@ tcid_ofni nruter
 )tcid_ofni(eltit_tsujda_.fles                
 tcid_ofni nruter                
 
-(teg_yrt = di_tvs            
-,]'di'[]'tnetnoc'[]'ekaLatad'[]'scitsitats'[x :x adbmal ,atad                
-)rts_tapmoc                
-
-:di_tvs ton fi        
-(xeger_hcraes_.fles = di_tvs            
-,')+]-Z-Az-ad\[(]'\"[=di-oediv-atad+]>^[oediv<'r(                
-,')+]-Z-Az-ad\[(]'\"[*s\:*s\]'\"[dItvSoediv]'\"['r                 
-,'")+]-Z-Az-ad\[("*s\:*s\"di"?*.{*s\:*s\"tnetnoc"'r                 
-,)')+]-Z-Az-ad\[(]'\"[*s\:*s\]'\"[dItvs]'\"['r                 
-)'di oediv' ,egapbew                
+(xeger_hcraes_.fles = di_tvs        
+,')+]-Z-Az-ad\[(]'\"[=di-oediv-atad+]>^[oediv<'r            
+)'di oediv' ,egapbew            
 
 )egapbew ,di_tvs(di_oediv_yb_tcartxe_.fles nruter        
 
@@ -386,4 +375,6 @@ dohtemssalc@
 :)][ ,'ydoBderutcurts'(teg.elcitra ni jbo rof        
 )}{ ro )'tnetnoc'(teg.jbo(tnetnoc_ssecorp_            
 
-(tluser_tsilyalp.fles nruter        )))'eltit'(teg.elcitra(enon_ro_pirts            ,))'di'(teg.elcitra(enon_ro_rts ,seirtne            
+(tluser_tsilyalp.fles nruter        
+,))'di'(teg.elcitra(enon_ro_rts ,seirtne            
+)))'eltit'(teg.elcitra(enon_ro_pirts            

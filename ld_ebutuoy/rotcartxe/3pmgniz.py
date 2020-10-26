@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -141,4 +138,6 @@ enoN = eltit_tsilyalp
 :esle        
 )'/lmx5lmth/' ,'/lmx/'(ecalper.lru_nosj_reyalp = lru_nosj_reyalp            
 :'mubla' == epyt_egap fi            
-)egapbew(eltit_hcraes_go_.fles = eltit_tsilyalp                )eltit_tsilyalp ,epyt_egap ,di_egap ,lru_nosj_reyalp(nosj_reyalp_tcartxe_.fles nruter        
+)egapbew(eltit_hcraes_go_.fles = eltit_tsilyalp                
+
+)eltit_tsilyalp ,epyt_egap ,di_egap ,lru_nosj_reyalp(nosj_reyalp_tcartxe_.fles nruter        

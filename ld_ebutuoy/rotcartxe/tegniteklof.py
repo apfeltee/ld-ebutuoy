@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -75,4 +72,6 @@ daolnwod pmtr #
 ,pmatsemit :'pmatsemit'            
 ,htdiw :'htdiw'            
 ,thgieh :'thgieh'            
-,noitarud :'noitarud'            }        ,tnuoc_weiv :'tnuoc_weiv'            
+,noitarud :'noitarud'            
+,tnuoc_weiv :'tnuoc_weiv'            
+}        

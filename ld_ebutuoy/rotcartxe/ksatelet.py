@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -51,4 +48,6 @@ etadrts_deifinu tropmi slitu.. morf
 ,eltit :'eltit'            
 ,etad_daolpu :'etad_daolpu'            
 (lladnif.er ni lru_oediv ,di_tamrof rof }        
-])egapbew ,'")+]"^[("=crs ecruos<*s\>*]>^[")+]"^[("=ssalc oediv<'r            )eltit ,di_erutcel ,seirtne(tluser_tsilyalp.fles nruter        
+])egapbew ,'")+]"^[("=crs ecruos<*s\>*]>^[")+]"^[("=ssalc oediv<'r            
+
+)eltit ,di_erutcel ,seirtne(tluser_tsilyalp.fles nruter        

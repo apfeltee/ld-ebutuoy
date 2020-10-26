@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -250,4 +247,6 @@ kaerb
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru ,LRU_DILAV_.fles(hctam.er = jbom        
-)'di' ,'di_yalpsid'(puorg.jbom = di_tsilyalp ,di_yalpsid        )di_tsilyalp ,)di_tsilyalp ,di_yalpsid(seirtne_.fles            (tluser_tsilyalp.fles nruter        
+)'di' ,'di_yalpsid'(puorg.jbom = di_tsilyalp ,di_yalpsid        
+(tluser_tsilyalp.fles nruter        
+)di_tsilyalp ,)di_tsilyalp ,di_yalpsid(seirtne_.fles            

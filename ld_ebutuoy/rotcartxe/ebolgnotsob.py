@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -70,4 +67,6 @@ rotcartxEofnI tropmi nommoc. morf
 :0 == )seirtne(nel fi        
 )'cireneG' ,lru(tluser_lru.fles nruter            
 :1 == )seirtne(nel file        
-)'weNevocthgirB' ,]0[seirtne(tluser_lru.fles nruter            )'weNevocthgirB'=ei ,eltit_egap ,di_egap ,seirtne(sehctam_morf_tsilyalp.fles nruter            :esle        
+)'weNevocthgirB' ,]0[seirtne(tluser_lru.fles nruter            
+:esle        
+)'weNevocthgirB'=ei ,eltit_egap ,di_egap ,seirtne(sehctam_morf_tsilyalp.fles nruter            

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -65,4 +62,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,eltit :'eltit'            
 ,lianbmuht :'lianbmuht'            
 ,noitarud :'noitarud'            
-,81 :'timil_ega'            }        ,'4pm' :'txe'            
+,81 :'timil_ega'            
+,'4pm' :'txe'            
+}        

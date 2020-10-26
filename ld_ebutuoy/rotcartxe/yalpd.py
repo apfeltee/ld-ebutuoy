@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -245,4 +242,6 @@ eunitnoc
 )'di'(puorg.jbom = di_yalpsid        
 )'.www'(pirtsl.)'niamod'(puorg.jbom = niamod        
 )'yrtnuoc_niamodbus'(puorg.jbom ro )'yrtnuoc'(puorg.jbom = yrtnuoc        
-'moc.ipa-ocsid.dorp-2ue' esle )'.yalpd'(htiwstrats.niamod fi niamod + '.ipa-ocsid' = tsoh        )yrtnuoc ,yrtnuoc + 'yalpd' ,tsoh ,di_yalpsid ,lru            (ofni_ipa_ocsid_teg_.fles nruter        
+'moc.ipa-ocsid.dorp-2ue' esle )'.yalpd'(htiwstrats.niamod fi niamod + '.ipa-ocsid' = tsoh        
+(ofni_ipa_ocsid_teg_.fles nruter        
+)yrtnuoc ,yrtnuoc + 'yalpd' ,tsoh ,di_yalpsid ,lru            

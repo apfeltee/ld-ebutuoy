@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 oi tropmi
@@ -450,13 +447,6 @@ tsil_atem = tsil_ofni
 ]f_ofni[ofni = ]f_atem[atadatem                        
 kaerb                    
 
-detroppus atadatem/atadatem aidem no ofni emos rof ]4-1[ eeS #        
-.gepmff yb #        
-/oediv-4pm-ot-atad-atem-gnidda/tcejorp/ne/gro.evilnedk//:sptth .1 #        
-atadateM_gepmFF/php.xedni/xc.aidemitlum.ikiw//:sptth .2 #        
-gniggat_elif_oediV/weiv/ikiw.idok//:sptth .3 #        
-lmth.selif4-gepm/ten.egrofecruos.yelsrapcimota//:ptth .4 #        
-
 ))'eltit' ,'kcart'( ,'eltit'(dda        
 )'etad_daolpu' ,'etad'(dda        
 )'noitpircsed' ,)'tnemmoc' ,'noitpircsed'((dda        
@@ -467,10 +457,6 @@ lmth.selif4-gepm/ten.egrofecruos.yelsrapcimota//:ptth .4 #
 )'mubla'(dda        
 )'tsitra_mubla'(dda        
 )'rebmun_csid' ,'csid'(dda        
-)'seires' ,'wohs'(dda        
-)'rebmun_nosaes'(dda        
-))'di_edosipe' ,'edosipe'( ,'di_edosipe'(dda        
-)'rebmun_edosipe' ,'tros_edosipe'(dda        
 
 :atadatem ton fi        
 )'dda ot atadatem yna t'\nsi erehT ]gepmff['(neercs_ot.redaolnwod_.fles            
@@ -655,4 +641,6 @@ eunitnoc
 { = ]gnal[sbus                
 ,txe_wen :'txe'                    
 ,)(daer.f :'atad'                    
-}                ofni ,semanelif_bus nruter        
+}                
+
+ofni ,semanelif_bus nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ ssalc di-oediv-evocthgirb-dleif-eman--dleif htiw tnemele euqinu edisni di evocth
 )lru(di_hctam_.fles = di_yalpsid        
 (egapbew_daolnwod_.fles = egapbew        
 ))(sredaeh_noitacifirev_oeg.fles=sredaeh ,di_yalpsid ,lru            
-))egapbew ,'tnetnoc-ecruos-oediv'(di_yb_tnemele_teg ro )egapbew ,'di-oediv-evocthgirb-dleif-eman--dleif'(ssalc_yb_tnemele_teg(lmth_naelc = di_evocthgirb        )di_evocthgirb ,'weNevocthgirB' ,lru_evocthgirb(tluser_lru.fles nruter        )egapbew ,fles(lru_tcartxe_.EIweNevocthgirB esle di_evocthgirb fi di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles = lru_evocthgirb        
+))egapbew ,'tnetnoc-ecruos-oediv'(di_yb_tnemele_teg ro )egapbew ,'di-oediv-evocthgirb-dleif-eman--dleif'(ssalc_yb_tnemele_teg(lmth_naelc = di_evocthgirb        
+)egapbew ,fles(lru_tcartxe_.EIweNevocthgirB esle di_evocthgirb fi di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles = lru_evocthgirb        
+)di_evocthgirb ,'weNevocthgirB' ,lru_evocthgirb(tluser_lru.fles nruter        

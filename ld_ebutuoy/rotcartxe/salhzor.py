@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -48,4 +45,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,di_oidua % '3pm.s%/oidua_/zc.salhzor.aidem//:ptth' :'lru'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,noitarud :'noitarud'            }        ,'enon' :'cedocv'            
+,noitarud :'noitarud'            
+,'enon' :'cedocv'            
+}        

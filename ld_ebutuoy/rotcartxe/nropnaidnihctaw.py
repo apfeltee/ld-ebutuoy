@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -66,4 +63,6 @@ noitarud_esrap tropmi slitu.. morf
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,seirogetac :'seirogetac'            
 ,81 :'timil_ega'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

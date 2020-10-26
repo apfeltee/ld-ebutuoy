@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -117,4 +114,6 @@ eunitnoc
 :)lru ,fles(tcartxe_laer_ fed    
 )lru ,LRU_DILAV_.fles(hctam.er = jbom        
 )'di_rentrap'(puorg.jbom = di_rentrap        
-)'di'(puorg.jbom = di_oediv        )di_oediv ,di_rentrap(ofni_oediv_tcartxe_.fles nruter        
+)'di'(puorg.jbom = di_oediv        
+
+)di_oediv ,di_rentrap(ofni_oediv_tcartxe_.fles nruter        

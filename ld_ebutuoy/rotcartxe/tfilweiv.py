@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -248,4 +245,6 @@ dohtemssalc@
 ,'tnerapsnart_lru' :'epyt_'            
 ,)di_mlif ,niamod( % 's%=dImlif?reyalp/debme/s%//:ptth' :'lru'            
 ,di_mlif :'di'            
-,di_yalpsid :'di_yalpsid'            }        ,'debmEtfiLweiV' :'yek_ei'            
+,di_yalpsid :'di_yalpsid'            
+,'debmEtfiLweiV' :'yek_ei'            
+}        

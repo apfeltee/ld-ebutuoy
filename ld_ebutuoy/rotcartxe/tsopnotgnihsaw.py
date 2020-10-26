@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -181,4 +178,6 @@ dohtemssalc@
 { nruter        
 ,'tsilyalp' :'epyt_'            
 ,seirtne :'seirtne'            
-,di_egap :'di'            }        ,eltit :'eltit'            
+,di_egap :'di'            
+,eltit :'eltit'            
+}        

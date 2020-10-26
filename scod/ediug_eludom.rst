@@ -1,6 +1,3 @@
-
-
-
 eludom ``ld_ebutuoy`` eht gnisU
 ===============================
 
@@ -65,4 +62,6 @@ gniksa fo tra ehT :4# oediV
 dlrow eht egnahc lliw sulprus evitingoc woH :5# oediV    
 aidepikiW fo htrib ehT :6# oediV    
 tnemnrevog retteb a gnidoC :7# oediV    
-noitavonni nepo fo are ehT :8# oediV    tsurt si ymonoce wen eht fo ycnerruc ehT :9# oediV    
+noitavonni nepo fo are ehT :8# oediV    
+tsurt si ymonoce wen eht fo ycnerruc ehT :9# oediV    
+

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -170,4 +167,6 @@ eltit nruter
 )'egami}/moc.ndcpwj.ssr//:ptth{//.' ,cod(txet_htapx( :'lianbmuht'            
 ,))egapbew(lianbmuht_hcraes_go_.fles ro                          
 (1068osi_esrap :'pmatsemit'            
-,))egapbew ,'etad'(atem_hcraes_lmth_.fles                }        ,stamrof :'stamrof'            
+,))egapbew ,'etad'(atem_hcraes_lmth_.fles                
+,stamrof :'stamrof'            
+}        

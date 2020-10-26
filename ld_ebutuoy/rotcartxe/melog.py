@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -70,4 +67,6 @@ eunitnoc
 ,)'htdiw lianbmuht' ,)'htdiw'(teg.e(tni_.fles :'htdiw'                
 ,)'thgieh lianbmuht' ,)'thgieh'(teg.e(tni_.fles :'thgieh'                
 )}            
-slianbmuht = ]'slianbmuht'[ofni        ofni nruter        
+slianbmuht = ]'slianbmuht'[ofni        
+
+ofni nruter        

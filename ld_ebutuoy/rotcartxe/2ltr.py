@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -205,4 +202,6 @@ seires ro )'eltit'(teg.atad_oediv = edosipe = eltit
 :di_oediv ton fi            
 eunitnoc                
 (tluser_lru.fles(dneppa.seirtne            
-,)di_oediv ,di_seires( % 's%/s%/oediv/ed.2ltr.uoy//:ptth'                )di_seires ,seirtne(tluser_tsilyalp.fles nruter        ))di_oediv ,'uoY2LTR'                
+,)di_oediv ,di_seires( % 's%/s%/oediv/ed.2ltr.uoy//:ptth'                
+))di_oediv ,'uoY2LTR'                
+)di_seires ,seirtne(tluser_tsilyalp.fles nruter        

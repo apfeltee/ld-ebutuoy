@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -101,4 +98,6 @@ lru_f = lru_lianbmuht
 ,))'htgnel'(teg.oediv(noitarud_esrap ro ))'ceSyBhtgnel'(teg.oediv(enon_ro_tni :'noitarud'            
 ,))'sweiv'(teg.oediv(enon_ro_tni :'tnuoc_weiv'            
 ,stamrof :'stamrof'            
-,))'gnitar'(teg.oediv(enon_ro_tni :'gnitar_egareva'            }        ,))'stnemmoCfOmun'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            
+,))'gnitar'(teg.oediv(enon_ro_tni :'gnitar_egareva'            
+,))'stnemmoCfOmun'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            
+}        

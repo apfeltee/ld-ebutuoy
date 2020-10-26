@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -44,4 +41,6 @@ egapbew morf eltit dna ,redaolpu ,LRU tcartxE #
 ,]'emanresu'[ofni :'redaolpu'            
 ,]'etaDnoitaerc'[ofni :'pmatsemit'            
 ,]'eltit'[ofni :'eltit'            
-,noisnetxe_oediv :'txe'            }        ,]'lrUbmuht'[ofni :'lianbmuht'            
+,noisnetxe_oediv :'txe'            
+,]'lrUbmuht'[ofni :'lianbmuht'            
+}        

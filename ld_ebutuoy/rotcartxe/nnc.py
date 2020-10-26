@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -142,4 +139,6 @@ enoN nruter
 }    
 
 :)lru ,fles(tcartxe_laer_ fed    
-))lru(emanesab_lru ,lru(egapbew_daolnwod_.fles = egapbew        ))(yek_ei.EINNC ,lru_nnc + '/oediv/?/oediv/moc.nnc//:ptth'(tluser_lru.fles nruter        )'lru nnc' ,egapbew ,"')+]'^[('*s\:oediv"r(xeger_hcraes_lmth_.fles = lru_nnc        
+))lru(emanesab_lru ,lru(egapbew_daolnwod_.fles = egapbew        
+)'lru nnc' ,egapbew ,"')+]'^[('*s\:oediv"r(xeger_hcraes_lmth_.fles = lru_nnc        
+))(yek_ei.EINNC ,lru_nnc + '/oediv/?/oediv/moc.nnc//:ptth'(tluser_lru.fles nruter        

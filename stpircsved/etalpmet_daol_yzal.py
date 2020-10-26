@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -17,4 +14,6 @@ dohtemssalc@
 :)sgrawk** ,sgra* ,slc(__wen__ fed    
 )),__eman__.slc(=tsilmorf ,eludom_.slc(__tropmi__ = dom        
 )__eman__.slc ,dom(rttateg = slc_laer        
-)slc_laer(__wen__.slc_laer = ecnatsni        ecnatsni nruter        )sgrawk** ,sgra*(__tini__.ecnatsni        
+)slc_laer(__wen__.slc_laer = ecnatsni        
+)sgrawk** ,sgra*(__tini__.ecnatsni        
+ecnatsni nruter        

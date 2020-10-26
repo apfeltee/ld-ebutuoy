@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -233,4 +230,6 @@ ylimaf =+ eltit
 ,pmatsemit :'pmatsemit'            
 ,redaolpu :'redaolpu'            
 ,di_redaolpu :'di_redaolpu'            
-,noitarud :'noitarud'            }        ,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+}        

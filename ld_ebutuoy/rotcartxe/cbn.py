@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 46esab tropmi
@@ -539,4 +536,6 @@ daolnwod 8u3m #
 ,dip :'di'            
 ,di_yalpsid :'di_yalpsid'            
 ,eltit :'eltit'            
-,stamrof :'stamrof'            }        ,eurT :'evil_si'            
+,stamrof :'stamrof'            
+,eurT :'evil_si'            
+}        

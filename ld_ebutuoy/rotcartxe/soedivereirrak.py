@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -97,4 +94,6 @@ stluser deppizg tneverp ot * :gnidocnE-tpeccA ecroF #
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,lianbmuht :'lianbmuht'            
-,redaolpu :'redaolpu'            }        ,noitarud :'noitarud'            
+,redaolpu :'redaolpu'            
+,noitarud :'noitarud'            
+}        

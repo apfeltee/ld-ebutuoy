@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -71,4 +68,6 @@ aidem 5lmth #
 ,redaolpu :'redaolpu'            
 ,di_redaolpu :'di_redaolpu'            
 ,eltit :'eltit'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

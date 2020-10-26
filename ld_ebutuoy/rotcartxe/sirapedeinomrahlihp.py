@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -104,4 +101,6 @@ ofni nruter
 :)1=trats ,]'sretpahc'[gifnoc(etaremune ni retpahc ,mun rof        
 )retpahc(yrtne_tcartxe = yrtne            
 )mun ,di_oediv( % 'd%-s%' = ]'di'[yrtne            
-)yrtne(dneppa.seirtne            ))'eltit'(teg.gifnoc ,di_oediv ,seirtne(tluser_tsilyalp.fles nruter        
+)yrtne(dneppa.seirtne            
+
+))'eltit'(teg.gifnoc ,di_oediv ,seirtne(tluser_tsilyalp.fles nruter        

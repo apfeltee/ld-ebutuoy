@@ -1,16 +1,12 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
 EIKV tropmi kv. morf
-( tropmi tapmoc.. morf
-,edoced46b_tapmoc    
-,etouqnu_esrap_billru_tapmoc    
+( tropmi slitu.. morf
+,tseuqeRDAEH    
+,enon_ro_tni    
 )
-enon_ro_tni tropmi slitu.. morf
 
 
 :)rotcartxEofnI(EIELQIB ssalc
@@ -51,16 +47,9 @@ debme ebutuoY #
 :)lru_debme(elbatius.EIKV fi        
 )di_oediv ,)(yek_ei.EIKV ,lru_debme(tluser_lru.fles nruter            
 
-(egapbew_daolnwod_.fles = egap_debme        
-)}lru :'rerefeR'{=sredaeh ,di_oediv ,lru_debme            
-)'txe_oediv'(teg.)lru_debme(seikooc_teg_.fles = txe_oediv        
-:txe_oediv fi        
-)eulav.txe_oediv(etouqnu_esrap_billru_tapmoc = txe_oediv            
-:txe_oediv ton fi        
-(xeger_hcraes_.fles(edoced46b_tapmoc = txe_oediv            
-,')+]=/+9-0z-aZ-A[(]"'\[*s\:*s\txe_oediv'r                
-)(edoced.))'txe_oediv' ,egap_debme                
-)':'(tilps.txe_oediv = nekot_ssecca ,_ ,gis ,di_oediv        
+(egapbew_tseuqer_.fles        
+)}lru :'rerefeR'{=sredaeh ,di_oediv ,)lru_debme(tseuqeRDAEH            
+)'A3%'(tilps.eulav.]'txe_oediv'[)lru_debme(seikooc_teg_.fles = nekot_ssecca ,_ ,gis ,di_oediv        
 (nosj_daolnwod_.fles = meti        
 ,di_oediv ,'teg.oediv/dohtem/moc.kv.ipa//:sptth'            
 {=yreuq ,}'1.4.3/ptthko' :'tnegA-resU'{=sredaeh            
@@ -103,4 +92,6 @@ debme ebutuoY #
 ,))'noitarud'(teg.meti(enon_ro_tni :'noitarud'            
 ,slianbmuht :'slianbmuht'            
 ,))'etad'(teg.meti(enon_ro_tni :'pmatsemit'            
-,)'di_renwo'(teg.meti :'redaolpu'            }        ,))'sweiv'(teg.meti(enon_ro_tni :'tnuoc_weiv'            
+,)'di_renwo'(teg.meti :'redaolpu'            
+,))'sweiv'(teg.meti(enon_ro_tni :'tnuoc_weiv'            
+}        

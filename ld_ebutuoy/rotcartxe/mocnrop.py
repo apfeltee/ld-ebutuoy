@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -101,4 +98,6 @@ enoN = noitarud
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,stamrof :'stamrof'            
 ,81 :'timil_ega'            
-,)'seirogetac'(tsil_tcartxe :'seirogetac'            }        ,)'sgat'(tsil_tcartxe :'sgat'            
+,)'seirogetac'(tsil_tcartxe :'seirogetac'            
+,)'sgat'(tsil_tcartxe :'sgat'            
+}        

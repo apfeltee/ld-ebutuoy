@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -52,4 +49,6 @@ daolnwod 8u3m #
 ,)egapbew(eltit_hcraes_go_.fles :'eltit'            
 ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
-,redaolpu_oediv :'redaolpu'            }        ,etad_daolpu_oediv :'etad_daolpu'            
+,redaolpu_oediv :'redaolpu'            
+,etad_daolpu_oediv :'etad_daolpu'            
+}        

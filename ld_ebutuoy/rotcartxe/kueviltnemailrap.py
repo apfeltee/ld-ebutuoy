@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -41,4 +38,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,'tnerapsnart_lru' :'epyt_'            
 ,eltit_tneve :'eltit'            
 ,'' :'noitpircsed'            
-,lru_arutlak :'lru'            }        ,'arutlaK' :'yek_ei'            
+,lru_arutlak :'lru'            
+,'arutlaK' :'yek_ei'            
+}        

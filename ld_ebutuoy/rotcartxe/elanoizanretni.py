@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -83,4 +80,6 @@ pmatsemit_deifinu tropmi slitu.. morf
 ,eltit :'eltit'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
 ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
-,pmatsemit :'pmatsemit'            }        ,stamrof :'stamrof'            
+,pmatsemit :'pmatsemit'            
+,stamrof :'stamrof'            
+}        

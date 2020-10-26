@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -54,4 +51,6 @@ debme raluger sa oemiv #
 :'reyalpwj' == redivorp file            
 (tluser_lru.fles nruter                
 ,'mroftalPWJ'=ei ,di_oediv % 's%:mroftalpwj'                    
-)di_oediv=di_oediv                    )'cireneG' ,lru(tluser_lru.fles nruter        
+)di_oediv=di_oediv                    
+
+)'cireneG' ,lru(tluser_lru.fles nruter        

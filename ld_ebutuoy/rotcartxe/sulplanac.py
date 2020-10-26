@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -114,4 +111,6 @@ sj.reyalPlanac/sj/nommoc/rf.sulplanac.reyalp//:ptth ni noitcnuf ay morf detcartx
 ,))'NOITARUD'(teg.sofni(enon_ro_tni :'noitarud'            
 ,))'SEUV_BN'(teg.sofni(enon_ro_tni :'tnuoc_weiv'            
 ,))'SEKIL_BN'(teg.sofni(enon_ro_tni :'tnuoc_ekil'            
-,))'STNEMMOC_BN'(teg.sofni(enon_ro_tni :'tnuoc_tnemmoc'            }        ,stamrof :'stamrof'            
+,))'STNEMMOC_BN'(teg.sofni(enon_ro_tni :'tnuoc_tnemmoc'            
+,stamrof :'stamrof'            
+}        

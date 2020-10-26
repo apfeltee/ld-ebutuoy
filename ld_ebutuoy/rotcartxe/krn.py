@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -14,6 +11,7 @@ rotcartxEofnI tropmi nommoc. morf
 ( tropmi slitu.. morf
 ,rorrErotcartxE    
 ,enon_ro_tni    
+,ER_DL_NOSJ    
 ,nosj_ot_sj    
 ,TLUAFED_ON    
 ,timil_ega_esrap    
@@ -427,20 +425,13 @@ oediv tsilyalp elgnis #
 
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 
-)}{=tluafed ,di_yalpsid ,egapbew(dl_nosj_hcraes_.fles = ofni        
-(atem_hcraes_lmth_.fles ro )'di@'(teg.ofni = di_krn        
-(xeger_hcraes_.fles ro )enoN=tluafed ,egapbew ,'di-margorp:krn'            
-,egapbew ,ER_EDOSIPE_.EIVTKRN % ')s%(]'\"[=di-margorp-atad'r            
-)'di krn'            
-)di_krn ,ER_EDOSIPE_.EIVTKRN(hctam.er tressa        
+(nosj_esrap_.fles = di_krn        
+,)'dl_nosj'=puorg ,'DL-NOSJ' ,egapbew ,ER_DL_NOSJ(xeger_hcraes_.fles            
+]'di@'[)di_yalpsid            
 
-{(etadpu.ofni        
-,'tnerapsnart_lru' :'epyt_'            
-,di_krn :'di'            
-,di_krn % 's%:krn' :'lru'            
-,)(yek_ei.EIKRN :'yek_ei'            
-)}        
-ofni nruter        
+)di_krn ,ER_EDOSIPE_.EIVTKRN(hctam.er tressa        
+(tluser_lru.fles nruter        
+)di_krn=di_oediv ,)(yek_ei.EIKRN=ei ,di_krn % 's%:krn'            
 
 
 :)rotcartxEofnI(EIesaBeireSVTKRN ssalc
@@ -721,4 +712,6 @@ ER_EDOSIPE_.EIVTKRN % 's%]'\"[=edosipe-atad'r = ER_METI_
 (xeger_hcraes_.fles            
 ,'>tpircs/<)}?+.{(>*]>^[]'\"[nosj/noitacilppa]'\"[=epyt+]>^[tpircs<'r                
 ,)'nosj noitacilppa' ,egapbew                
-]'dIsp'[]'aideMevitca'[)di_oediv            )di_krn % 's%:krn'(tluser_lru.fles nruter        
+]'dIsp'[]'aideMevitca'[)di_oediv            
+
+)di_krn % 's%:krn'(tluser_lru.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -191,4 +188,6 @@ em.divog #  ,)'")+]"^[("*s\:*s\eltit'r
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,lianbmuht :'lianbmuht'            }        ,stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -189,4 +186,6 @@ sekiL #
 ,stamrof :'stamrof'            
 ,seltitbus :'seltitbus'            
 ,))'egami'(teg.tluser ,LRU_ESAB_SPPA_.fles(niojlru :'lianbmuht'            
-,))'tnuoc_weiv'(teg.tluser(tnuoc_esrap :'tnuoc_weiv'            }        ,tnuoc_ekil :'tnuoc_ekil'            
+,))'tnuoc_weiv'(teg.tluser(tnuoc_esrap :'tnuoc_weiv'            
+,tnuoc_ekil :'tnuoc_ekil'            
+}        

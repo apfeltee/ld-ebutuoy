@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -46,4 +43,6 @@ dicg % 's%=dicg?vlf_ecruoserndCteg/moc.naknak.lc.s2p//:ptth' = lru_ofni
 
 { nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            }        ,lru_oediv :'lru'            
+,eltit :'eltit'            
+,lru_oediv :'lru'            
+}        

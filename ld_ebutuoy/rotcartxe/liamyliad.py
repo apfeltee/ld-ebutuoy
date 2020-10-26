@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -82,4 +79,6 @@ eunitnoc
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,))'rcsed'(teg.atad_oediv(LMTHepacsenu :'noitpircsed'            
-,)'lianbmuht'(teg.atad_oediv ro )'retsop'(teg.atad_oediv :'lianbmuht'            }        ,stamrof :'stamrof'            
+,)'lianbmuht'(teg.atad_oediv ro )'retsop'(teg.atad_oediv :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

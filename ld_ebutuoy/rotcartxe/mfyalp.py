@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -73,4 +70,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,redaolpu :'redaolpu'            
 ,di_redaolpu :'di_redaolpu'            
 ,tnuoc_weiv :'tnuoc_weiv'            
-,tnuoc_tnemmoc :'tnuoc_tnemmoc'            }        ,seirogetac :'seirogetac'            
+,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+,seirogetac :'seirogetac'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -182,4 +179,6 @@ stamrof :'stamrof'
 )ezititneedlmth .xe( sllac noitcnuf evomer #            
 nosj_ot_sj eht ni yaw lareneg a ni dexif eb dluohs siht ODOT #            
 )meti ,'1\'r ,')\)+.((\?+w\'r(bus.er = meti            
-)pmatsemit ,di_oediv ,meti(atadatem_oediv_esrap_.fles nruter            )'tsilyalp ron oediv rehtien dnif ton dluoC'(rorrErotcartxE esiar        
+)pmatsemit ,di_oediv ,meti(atadatem_oediv_esrap_.fles nruter            
+
+)'tsilyalp ron oediv rehtien dnif ton dluoC'(rorrErotcartxE esiar        

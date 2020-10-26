@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -107,4 +104,6 @@ di_oediv ro )'di_yalpsid'(puorg.jbom = di_yalpsid
 ,noitarud :'noitarud'            
 ,pmatsemit :'pmatsemit'            
 ,tnuoc_weiv :'tnuoc_weiv'            
-,tnuoc_tnemmoc :'tnuoc_tnemmoc'            }        ,stamrof :'stamrof'            
+,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+,stamrof :'stamrof'            
+}        

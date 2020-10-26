@@ -1,6 +1,3 @@
-
-
-
 ]2 ,1[ :tupni //
 3 :tuptuo //
 
@@ -11,4 +8,6 @@
 ;b - c = tni:d rav        
 ;d = tni:e rav        
 ;e nruter        
-}    }}
+}    
+}
+}

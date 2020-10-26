@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -59,7 +56,7 @@ dohtemcitats@
 )))'lru'(puorg.hctam(LMTHepacsenu(dneppa.slru            
 (retidnif.er ni hctam rof        
 )xs?('''r                
-1\?*).)1\!?(:?(b\)}01{]9-0z-a[>di<P?(_cnysa_aitsiwb\?*).)1\!?(:?()]'"[(=ssalc+]>^[vid<                    
+2\?*.b\)}01{]9-0z-a[>di<P?(_cnysa_aitsiwb\?*.)]'"[(=ssalc+]>^[vid<                    
 :)egapbew ,'''                
 ))'di'(puorg.hctam % 's%:aitsiw'(dneppa.slru            
 :)egapbew ,')}01{]9-0z-a[>di<P?()_aitsiw]'\"[=di|]'\"[(\debme.\aitsiW|]'\"[=di?-aitsiw-atad:?('r(retidnif.er ni hctam rof        
@@ -160,4 +157,6 @@ eunitnoc
 ,stamrof :'stamrof'            
 ,slianbmuht :'slianbmuht'            
 ,))'noitarud'(teg.atad(enon_ro_taolf :'noitarud'            
-,))'tAdetaerc'(teg.atad(enon_ro_tni :'pmatsemit'            }        ,seltitbus :'seltitbus'            
+,))'tAdetaerc'(teg.atad(enon_ro_tni :'pmatsemit'            
+,seltitbus :'seltitbus'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -110,4 +107,6 @@ di_oediv % 's%/oediv/enon/ed/1v/slennahc/ipa/moc.vtsinnet.www//:sptth' = lru_ata
 ,lianbmuht :'lianbmuht'            
 ,pmatsemit :'pmatsemit'            
 ,seires :'seires'            
-,eunev :'nosaes'            }        ,rts_dnuor :'edosipe'            
+,eunev :'nosaes'            
+,rts_dnuor :'edosipe'            
+}        

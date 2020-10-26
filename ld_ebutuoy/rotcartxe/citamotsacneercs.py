@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -35,4 +32,6 @@ nosj_ot_sj tropmi slitu.. morf
 )eslaF=eltit_eriuqer ,di_oediv ,atad_reyalpwj(atad_reyalpwj_esrap_.fles = tcid_ofni        
 {(etadpu.tcid_ofni        
 ,)egapbew(eltit_hcraes_go_.fles :'eltit'            
-,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            tcid_ofni nruter        )}        
+,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+)}        
+tcid_ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -52,4 +49,6 @@ dne_evomer tropmi slitu.. morf
 ,eltit :'eltit'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
 ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

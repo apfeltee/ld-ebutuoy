@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -54,4 +51,6 @@ lru_gifnoc + 'moc.oedivxuej.www//:ptth' = lru_gifnoc
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
-,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            }        ,)'egami'(teg.gifnoc :'lianbmuht'            
+,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,)'egami'(teg.gifnoc :'lianbmuht'            
+}        

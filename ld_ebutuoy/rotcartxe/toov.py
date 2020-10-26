@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -98,4 +95,6 @@ eulav = edosipe
 ,))'etaDnoitaerC'(teg.aidem(pmatsemit_deifinu :'pmatsemit'            
 ,))'noitaruD'(teg.aidem(enon_ro_tni :'noitarud'            
 ,))'retnuoCweiV'(teg.aidem(enon_ro_tni :'tnuoc_weiv'            
-,))'retnuoc_ekil'(teg.aidem(enon_ro_tni :'tnuoc_ekil'            }        ,stamrof :'stamrof'            
+,))'retnuoc_ekil'(teg.aidem(enon_ro_tni :'tnuoc_ekil'            
+,stamrof :'stamrof'            
+}        

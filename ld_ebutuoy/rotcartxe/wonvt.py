@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -484,4 +481,6 @@ eunitnoc
 ,)rebmun_nosaes ,lru_esab( % 'd%-leffats/s%'                    
 )))(yek_ei.EInosaeSwoNVT=ei                    
 :esle        
-)'epyTnoitagivan nwonknU'(rorrErotcartxE esiar            )di_wohs ,seirtne(tluser_tsilyalp.fles nruter        
+)'epyTnoitagivan nwonknU'(rorrErotcartxE esiar            
+
+)di_wohs ,seirtne(tluser_tsilyalp.fles nruter        

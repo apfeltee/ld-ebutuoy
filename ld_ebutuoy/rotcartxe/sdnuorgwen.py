@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -166,4 +163,6 @@ eunitnoc
 (dneppa.seirtne            
 (tluser_lru.fles                
 ,htap % 's%/moc.sdnuorgwen.www//:sptth'                    
-))di_aidem=di_oediv ,)(yek_ei.EIsdnuorgweN=ei                    )eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+))di_aidem=di_oediv ,)(yek_ei.EIsdnuorgweN=ei                    
+
+)eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

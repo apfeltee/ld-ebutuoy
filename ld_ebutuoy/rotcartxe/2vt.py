@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -190,4 +187,6 @@ daolnwod 8u3m #
 ,eurT :'daolnwod_piks'            
 ,}        
 }    
-'if.omostak.ipa' = NIAMOD_IPA_    ]'IF'[ = SEIRTNUOC_OEG_    )'DPM' ,'SLH'( = SLOCOTORP_    
+'if.omostak.ipa' = NIAMOD_IPA_    
+)'DPM' ,'SLH'( = SLOCOTORP_    
+]'IF'[ = SEIRTNUOC_OEG_    

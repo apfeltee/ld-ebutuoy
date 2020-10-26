@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -414,4 +411,6 @@ xeh.)(4diuu.diuu % 's%:S' = nnoc_pmtr
 ,'fws.yalp_tsacdaorb/moc.irtoms.scip//:ptth' :'lru_reyalp'            
 ,ppa_tsacdaorb :'ppa'            
 ,eurT :'evil_pmtr'            
-,nnoc_pmtr :'nnoc_pmtr'            }        ,eurT :'evil_si'            
+,nnoc_pmtr :'nnoc_pmtr'            
+,eurT :'evil_si'            
+}        

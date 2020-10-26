@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
@@ -164,4 +161,6 @@ eurT = nomead.daerht_yxorp_oeg.fles
 )'andi'(edocne.'‡–æ­¸ä' si 'c822qif--nx'b #        
 )'/wt.c822qif--nx//:ptth :lamron' ,esnopser(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

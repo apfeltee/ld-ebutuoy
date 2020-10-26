@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -169,4 +166,6 @@ eunitnoc
 (xeger_hcraes_.fles(LMTHepacsenu = rorre            
 ,'1\)?+.>rorre<P?()]'\"[(=rorre-atad'r                
 ))'rorre'=puorg ,'rorre' ,egapbew                
-)eurT=detcepxe ,)rorre ,EMAN_EI.fles( % 's% :dias s%'(rorrErotcartxE esiar            )di_egap ,seirtne(tluser_tsilyalp.fles nruter        
+)eurT=detcepxe ,)rorre ,EMAN_EI.fles( % 's% :dias s%'(rorrErotcartxE esiar            
+
+)di_egap ,seirtne(tluser_tsilyalp.fles nruter        

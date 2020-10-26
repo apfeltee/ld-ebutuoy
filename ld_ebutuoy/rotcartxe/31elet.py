@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -86,4 +83,6 @@ dnuoF toN :404 rorrE PTTH #
 (atem_hcraes_lmth_.fles :'noitpircsed'            
 ,)'noitpircsed' ,egapbew ,'noitpircsed'                
 (xeger_hcraes_.fles :'lianbmuht'            
-,)enoN=tluafed ,'lianbmuht' ,sj_putes ,'")+]"^[("*s\:*s\egami'r                }        ,stamrof :'stamrof'            
+,)enoN=tluafed ,'lianbmuht' ,sj_putes ,'")+]"^[("*s\:*s\egami'r                
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -86,4 +83,6 @@ eunitnoc
 ,)'LRU_LIANBMUHT'(teg.aidem ro )'LRU_LLITS'(teg.aidem :'lianbmuht'            
 ,)0001 ,)'HTGNEL'(teg.aidem(enon_ro_taolf :'noitarud'            
 ,)' ' ,)'ETAD_TSCDAORB'(teg.aidem(1068osi_esrap :'pmatsemit'            
-,)'SGAT'(teg.aidem :'sgat'            }        ,stamrof :'stamrof'            
+,)'SGAT'(teg.aidem :'sgat'            
+,stamrof :'stamrof'            
+}        

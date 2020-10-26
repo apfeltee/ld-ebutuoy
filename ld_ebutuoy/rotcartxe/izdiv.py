@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -66,4 +63,6 @@ daolnwod 8u3m #
 kaerb                
 
 )eslaF=eltit_eriuqer ,di_oediv ,atad_reyalpwj(atad_reyalpwj_esrap_.fles = tcid_ofni        
-eltit = ]'eltit'[tcid_ofni        tcid_ofni nruter        
+eltit = ]'eltit'[tcid_ofni        
+
+tcid_ofni nruter        

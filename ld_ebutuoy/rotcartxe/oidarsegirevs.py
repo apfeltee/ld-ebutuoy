@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -113,4 +110,6 @@ eunitnoc
 ,'nelav hco ooteM' :'eltit'            
 ,'e72a01f691b207ccdab00f766f1c5bcf:5dm' :'noitpircsed'            
 ,'gpj.\*.//:?sptth^:er'r :'lianbmuht'            
-}        'edosipe' = EPYT_OIDUA_    }    
+}        
+}    
+'edosipe' = EPYT_OIDUA_    

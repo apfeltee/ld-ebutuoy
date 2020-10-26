@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -51,4 +48,6 @@ emanelif % 's%/soediv/ipa/moc.lewxor.www//:ptth' = lru_ofni
 ,]'noitpircsed'[ofni :'noitpircsed'            
 ,)'egral_lru_egami'(teg.ofni ro )'lru_egami_reyalp'(teg.ofni :'lianbmuht'            
 ,]'tsitra'[ofni :'redaolpu'            
-,]'emantsitra'[ofni :'di_redaolpu'            }        ,)]'etadbd'[ofni(etadrts_deifinu :'etad_daolpu'            
+,]'emantsitra'[ofni :'di_redaolpu'            
+,)]'etadbd'[ofni(etadrts_deifinu :'etad_daolpu'            
+}        

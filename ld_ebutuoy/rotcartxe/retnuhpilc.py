@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -77,4 +74,6 @@ di_tamrof esle thgieh dna tmf fi )thgieh ,tmf( % 'ps%_s%' = di_tamrof
 ,di_oediv :'di'            
 ,eltit_oediv :'eltit'            
 ,stamrof :'stamrof'            
-,)egapbew(hcraes_atr_.fles :'timil_ega'            }        ,lianbmuht :'lianbmuht'            
+,)egapbew(hcraes_atr_.fles :'timil_ega'            
+,lianbmuht :'lianbmuht'            
+}        

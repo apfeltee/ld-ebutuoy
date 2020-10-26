@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 sys tropmi
@@ -48,4 +45,6 @@ noisrev siht ni er ni nekorb si MOB ecnis 2.3 nohtyp rof tset elbasiD #
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = lru_laer        
 (gninraw_troper.fles        
-' .)MOB( kraM redrO etyB a htiw strats LRU ruoY'            )lru_laer(tluser_lru.fles nruter        )lru_laer % '... "s%" rof gnikool dna MOB eht gnivomeR'            
+' .)MOB( kraM redrO etyB a htiw strats LRU ruoY'            
+)lru_laer % '... "s%" rof gnikool dna MOB eht gnivomeR'            
+)lru_laer(tluser_lru.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -68,4 +65,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,'4pm' :'txe'            
 ,'erif yldaed retfa detcepsni enalp naissuR' :'eltit'            
 ,'.wocsoM raen erif thguac hcihw enalp regnessap a fo egakcerw eht fo oediv desaeler sah eettimmoC evitagitsevnI naissuR ehT' :'noitpircsed'            
-,}        }    ,]'alayoO'[ :'ei_dda'        
+,}        
+,]'alayoO'[ :'ei_dda'        
+}    

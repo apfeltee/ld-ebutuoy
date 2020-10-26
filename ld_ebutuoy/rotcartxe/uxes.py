@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -61,4 +58,6 @@ enoN si rts_seirogetac fi enoN
 ,noitpircsed :'noitpircsed'            
 ,lianbmuht :'lianbmuht'            
 ,seirogetac :'seirogetac'            
-,stamrof :'stamrof'            }        ,81 :'timil_ega'            
+,stamrof :'stamrof'            
+,81 :'timil_ega'            
+}        

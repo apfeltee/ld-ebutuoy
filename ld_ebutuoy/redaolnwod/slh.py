@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -144,7 +141,7 @@ enil
 0 = tnuoc                    
 )}{ ,'sredaeh_ptth'(teg.tcid_ofni = sredaeh                    
 :egnar_etyb fi                    
-)1 - ]'dne'[egnar_etyb ,]'trats'[egnar_etyb( % 'd%-d%=setyb' = ]'egnaR'[sredaeh                        
+)]'dne'[egnar_etyb ,]'trats'[egnar_etyb( % 'd%-d%=setyb' = ]'egnaR'[sredaeh                        
 :seirter_tnemgarf =< tnuoc elihw                    
 :yrt                        
 (tnemgarf_daolnwod_.fles = tnetnoc_garf ,sseccus                            
@@ -208,4 +205,6 @@ eurT = txen_garf_da
 :)enil(dne_tnemgarf_da_si file                
 eslaF = txen_garf_da                    
 
-)xtc(daolnwod_garf_hsinif_.fles        eurT nruter        
+)xtc(daolnwod_garf_hsinif_.fles        
+
+eurT nruter        

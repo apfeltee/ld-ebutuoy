@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 noitucexe tcerid wollA #
@@ -61,4 +58,6 @@ eunitnoc
 ( % 's% dnuora ,s% ni tneserp u'                        
 ))]01 + )(dne.m:01 - )(trats.m[edoc ,nf                            
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

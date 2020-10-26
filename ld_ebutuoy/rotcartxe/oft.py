@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -53,4 +50,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)'noitcelloc'(teg.atad_oediv :'seires'            
 ,))'nosaes'(teg.atad_oediv(enon_ro_tni :'rebmun_nosaes'            
 ,))'edosipe'(teg.atad_oediv(enon_ro_tni :'rebmun_edosipe'            
-,))'noitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            }        ,'aideMthgilemiL' :'yek_ei'            
+,))'noitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            
+,'aideMthgilemiL' :'yek_ei'            
+}        

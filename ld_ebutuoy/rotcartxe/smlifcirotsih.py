@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -45,4 +42,6 @@ noitarud_esrap tropmi slitu.. morf
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,lianbmuht :'lianbmuht'            }        ,noitarud :'noitarud'            
+,lianbmuht :'lianbmuht'            
+,noitarud :'noitarud'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -128,4 +125,6 @@ enoN = timil_ega
 ,)'rohtua'(teg.atad :'redaolpu'            
 ,))'spu'(teg.atad(enon_ro_tni :'tnuoc_ekil'            
 ,))'snwod'(teg.atad(enon_ro_tni :'tnuoc_ekilsid'            
-,))'stnemmoc_mun'(teg.atad(enon_ro_tni :'tnuoc_tnemmoc'            }        ,timil_ega :'timil_ega'            
+,))'stnemmoc_mun'(teg.atad(enon_ro_tni :'tnuoc_tnemmoc'            
+,timil_ega :'timil_ega'            
+}        

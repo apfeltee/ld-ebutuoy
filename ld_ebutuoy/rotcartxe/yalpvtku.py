@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -31,4 +28,6 @@ daolnwod 8u3m #
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_oediv        
-(tluser_lru.fles nruter        )di_oediv ,'weNevocthgirB'            ,di_oediv % ETALPMET_LRU_EVOCTHGIRB.fles            
+(tluser_lru.fles nruter        
+,di_oediv % ETALPMET_LRU_EVOCTHGIRB.fles            
+)di_oediv ,'weNevocthgirB'            

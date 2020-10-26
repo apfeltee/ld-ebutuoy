@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -200,4 +197,6 @@ di_oediv = ]'di'[ofni
 ,tsilyalp :'seirtne'                
 ,di_oediv :'di'                
 ,eltit :'eltit'                
-}            ofni nruter        
+}            
+
+ofni nruter        

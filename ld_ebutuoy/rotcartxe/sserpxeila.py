@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -51,4 +48,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,)'lrUrevoc'(teg.atad :'lianbmuht'            
 (teg_yrt :'redaolpu'            
 ,)rts_tapmoc ,]'eman'[]'raBwollof'[x :x adbmal ,atad                
-,)0001=elacs ,)'gnoLemiTtrats'(teg.atad(enon_ro_taolf :'pmatsemit'            }        ,stamrof :'stamrof'            
+,)0001=elacs ,)'gnoLemiTtrats'(teg.atad(enon_ro_taolf :'pmatsemit'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 ][ :tupni //
 3 :tuptuo //
 
@@ -9,4 +6,6 @@
 {tni:)(niam noitcnuf citats cilbup    
 ;"cba" = gnirtS:s rav        
 ;htgnel.s nruter        
-}    }}
+}    
+}
+}

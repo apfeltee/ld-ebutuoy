@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -229,4 +226,6 @@ kaerb
 ,stamrof :'stamrof'            
 ,)'noitpac'(teg.atad_oediv :'noitpircsed'            
 ,)'noitarud'(teg.atad_oediv :'noitarud'            
-,lianbmuht :'lianbmuht'            }        ,)0001 ,)'detsop'(teg.atad_oediv(enon_ro_tni :'pmatsemit'            
+,lianbmuht :'lianbmuht'            
+,)0001 ,)'detsop'(teg.atad_oediv(enon_ro_tni :'pmatsemit'            
+}        

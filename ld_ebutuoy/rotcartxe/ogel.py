@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -147,4 +144,6 @@ eunitnoc
 ,seltitbus :'seltitbus'            
 ,))'morFegA'(teg.oediv(enon_ro_tni :'timil_ega'            
 ,)'eltiTnosaeS'(teg.oediv :'nosaes'            
-,enoN ro ))'nosaeS'(teg.oediv(enon_ro_tni :'rebmun_nosaes'            }        ,enoN ro ))'edosipE'(teg.oediv(enon_ro_tni :'rebmun_edosipe'            
+,enoN ro ))'nosaeS'(teg.oediv(enon_ro_tni :'rebmun_nosaes'            
+,enoN ro ))'edosipE'(teg.oediv(enon_ro_tni :'rebmun_edosipe'            
+}        

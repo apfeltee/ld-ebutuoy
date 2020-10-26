@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -38,4 +35,6 @@ ra/nnc-08%9D%48%9D%7A%8D%-9A%8D%18%9D%7A%8D%A8%9D%6B%8D%-A8%9D%18%9D%-9A%8D%1B%8
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,)egapbew(lianbmuht_hcraes_go_.fles ro )'lianbmuhTneddiH'(teg.stupni_neddih :'lianbmuht'            }        ,stamrof :'stamrof'            
+,)egapbew(lianbmuht_hcraes_go_.fles ro )'lianbmuhTneddiH'(teg.stupni_neddih :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

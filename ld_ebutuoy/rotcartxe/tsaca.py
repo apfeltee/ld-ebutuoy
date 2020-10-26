@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -133,4 +130,6 @@ dohtemssalc@
 (nosj_daolnwod_.fles = atad_lennahc        
 )guls_lennahc ,guls_lennahc % 's%/slennahc' + LRU_ESAB_IPA_.fles            
 (laitrap.slootcnuf(tsiLdegaPdnameDnO = seirtne        
-)EZIS_EGAP_.fles ,)guls_lennahc ,egap_hctef_.fles            ))'noitpircsed'(teg.atad_lennahc ,]'eman'[atad_lennahc ,)]'di'[atad_lennahc            (rts_tapmoc ,seirtne(tluser_tsilyalp.fles nruter        
+)EZIS_EGAP_.fles ,)guls_lennahc ,egap_hctef_.fles            
+(rts_tapmoc ,seirtne(tluser_tsilyalp.fles nruter        
+))'noitpircsed'(teg.atad_lennahc ,]'eman'[atad_lennahc ,)]'di'[atad_lennahc            

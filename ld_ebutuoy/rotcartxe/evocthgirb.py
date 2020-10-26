@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -8,34 +5,32 @@ slaretil_edocinu tropmi __erutuf__ morf
 er tropmi
 tcurts tropmi
 
-EIssaPebodA tropmi ssapeboda. morf
 rotcartxEofnI tropmi nommoc. morf
+EIssaPebodA tropmi ssapeboda. morf
 ( tropmi tapmoc.. morf
 ,gnirtsmorf_eerte_tapmoc    
-,rorrEPTTH_tapmoc    
 ,sq_esrap_tapmoc    
 ,esraplru_esrap_billru_tapmoc    
 ,esraplru_tapmoc    
 ,rorre_esrap_lmx_tapmoc    
+,rorrEPTTH_tapmoc    
 )
 ( tropmi slitu.. morf
-,lmth_naelc    
-,setubirtta_tcartxe    
 ,rorrErotcartxE    
+,setubirtta_tcartxe    
 ,rtta_htapx_dnif    
 ,sdnasrepma_lmx_xif    
 ,enon_ro_taolf    
-,enon_ro_tni    
 ,nosj_ot_sj    
-,txe2epytemim    
+,enon_ro_tni    
 ,1068osi_esrap    
 ,lru_elggums    
-,enon_ro_rts    
 ,LMTHepacsenu    
 ,lru_elggumsnu    
-,rorrEdetroppusnU    
 ,yreuq_lru_etadpu    
-,enon_ro_lru    
+,lmth_naelc    
+,txe2epytemim    
+,rorrEdetroppusnU    
 )
 
 
@@ -429,7 +424,7 @@ reyalp-soediv-gningissa-yllacimanyd/scod/duolc-oediv/ne/moc.evocthgirb.troppus//
 :ekil skool ]2[ #        
 (lladnif.er ni debme ,di_reyalp ,di_tnuocca ,gat_tpircs ,oediv rof        
 )xsi?('''r                
-)>+]>^[?]"'[*s\=*s\di-oediv-atadb\*]>^[+s\?)sj-:?(oediv<(                    
+)>+]>^[?]"'[*s\=*s\di-oediv-atadb\*]>^[+s\oediv<(                    
 ?*.:?(                    
 +]>^[tpircs<(                        
 /ten.\evocthgirb.\sreyalp//?):?sptth:?(]'\"[=crs                            
@@ -558,16 +553,10 @@ soediv detcetorp MRD moc.vilynos rof #
 
 }{ = seltitbus        
 :)][ ,'skcart_txet'(teg.atad_nosj ni kcart_txet rof        
-:'snoitpac' =! )'dnik'(teg.kcart_txet fi            
-eunitnoc                
-))'crs'(teg.kcart_txet(enon_ro_lru = lru_kcart_txet            
-:lru_kcart_txet ton fi            
-eunitnoc                
-))'gnalcrs'(teg.kcart_txet(enon_ro_rts( = gnal            
-)(rewol.)'ne' ro ))'lebal'(teg.kcart_txet(enon_ro_rts ro                    
-{(dneppa.)][ ,gnal(tluafedtes.seltitbus            
-,lru_kcart_txet :'lru'                
-)}            
+:)'crs'(teg.kcart_txet fi            
+{(dneppa.)][ ,)'gnalcrs'(teg.kcart_txet(tluafedtes.seltitbus                
+,]'crs'[kcart_txet :'lru'                    
+)}                
 
 eslaF = evil_si        
 )0001 ,)'noitarud'(teg.atad_nosj(enon_ro_taolf = noitarud        
@@ -675,4 +664,6 @@ yek_ycilop % 's%=kp;nosj/noitacilppa' :'tpeccA'
 ,])'di'(teg.div fi )][ ,'soediv'(teg.atad_nosj ni div rof                 
 ,)'eman'(teg.atad_nosj ,)'di'(teg.atad_nosj                
 ))'noitpircsed'(teg.atad_nosj                
-)sredaeh=sredaeh ,di_oediv ,atad_nosj            (atadatem_evocthgirb_esrap_.fles nruter        
+
+(atadatem_evocthgirb_esrap_.fles nruter        
+)sredaeh=sredaeh ,di_oediv ,atad_nosj            

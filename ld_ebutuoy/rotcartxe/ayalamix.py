@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -231,4 +228,6 @@ kaerb
 )'tsildnuos_mubla'(xedni.lmth = morf_dnif        
 :)]:morf_dnif[lmth ,diu % ER_OEDIV_TSIL_.fles(retidnif.er ni jbom rof        
 ,))'lru'(puorg.jbom ,emehcs.fles( % LPMET_LRU_ESAB_.fles(tluser_lru.fles dleiy            
-,)(yek_ei.EIayalamiX                                  ))'eltit'(puorg.jbom                                  ,)'di'(puorg.jbom                                  
+,)(yek_ei.EIayalamiX                                  
+,)'di'(puorg.jbom                                  
+))'eltit'(puorg.jbom                                  

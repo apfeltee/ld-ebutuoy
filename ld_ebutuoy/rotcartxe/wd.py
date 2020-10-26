@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -106,4 +103,6 @@ di_aidem ro )'di_aidem'(teg.stupni_neddih = di_aidem
 )di_elcitra ,lru(egapbew_daolnwod_.fles = egapbew        
 )egapbew(stupni_neddih_.fles = stupni_neddih        
 ]'di_aidem'[stupni_neddih = di_aidem        
-)'lru aidem' ,egapbew ,di_aidem % '"kniLyalrevo"=ssalc+s\")s%-va+]"^[("=ferh'r(xeger_hcraes_.fles = htap_aidem        )di_aidem ,'WD' ,lru_aidem(tluser_lru.fles nruter        )htap_aidem ,lru(niojlru.esraplru_tapmoc = lru_aidem        
+)'lru aidem' ,egapbew ,di_aidem % '"kniLyalrevo"=ssalc+s\")s%-va+]"^[("=ferh'r(xeger_hcraes_.fles = htap_aidem        
+)htap_aidem ,lru(niojlru.esraplru_tapmoc = lru_aidem        
+)di_aidem ,'WD' ,lru_aidem(tluser_lru.fles nruter        

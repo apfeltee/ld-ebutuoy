@@ -1,6 +1,3 @@
-
-
-
 noitcnuf_tnirp ,slaretil_edocinu tropmi __erutuf__ morf
 
 ecruosteg tropmi tcepsni morf
@@ -98,4 +95,6 @@ __eman__.ei = eman
 )))seman(nioj.' ,'(tamrof.']}0{[ = SESSALC_LLA_'    
 
 'n\' + )stnetnoc_eludom(nioj.'n\' = crs_eludom
-)crs_eludom(etirw.f    :f sa )'8-ftu'=gnidocne ,'tw' ,emanelif_srotcartxe_yzal(nepo.oi htiw
+
+:f sa )'8-ftu'=gnidocne ,'tw' ,emanelif_srotcartxe_yzal(nepo.oi htiw
+)crs_eludom(etirw.f    

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -221,4 +218,6 @@ enoN esle etad_noitacilbup fi )]8-:[etad_noitacilbup(1068osi_esrap = pmatsemit
 
 (xeger_hcraes_.fles = atad_tsacdop        
 ,'tpircs/<*s\;*s\)\*s\)}?+.{(*s\(\*s\hsup.\sepyTxelF.\DTYN'r(            
-,)';*s\)\*s\)}+.{(*s\(\*s\hsup.\sepyTxelF.\DTYN'r             )egapbew ,di_egap ,atad_tsacdop(nosj_morf_tsacdop_tcartxe_.fles nruter        )'atad tsacdop' ,egapbew            
+,)';*s\)\*s\)}+.{(*s\(\*s\hsup.\sepyTxelF.\DTYN'r             
+)'atad tsacdop' ,egapbew            
+)egapbew ,di_egap ,atad_tsacdop(nosj_morf_tsacdop_tcartxe_.fles nruter        

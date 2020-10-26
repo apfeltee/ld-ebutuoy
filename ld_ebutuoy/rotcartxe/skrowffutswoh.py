@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -88,4 +85,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)]'eltit_pilc'[ofni_pilc(LMTHepacsenu :'eltit'            
 ,))'noitpac'(teg.ofni_pilc(LMTHepacsenu :'noitpircsed'            
 ,)'lru_llits_oediv'(teg.ofni_pilc :'lianbmuht'            
-,))'noitarud'(teg.ofni_pilc(enon_ro_tni :'noitarud'            }        ,stamrof :'stamrof'            
+,))'noitarud'(teg.ofni_pilc(enon_ro_tni :'noitarud'            
+,stamrof :'stamrof'            
+}        

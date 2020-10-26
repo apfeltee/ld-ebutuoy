@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -89,4 +86,6 @@ kool( sj.reyalp.tibrihc/sj/ti.brihc//:sptth morf dereenigne esreveR #
 
 [ = seirtne        
 ))di_oediv + '/ti.brihc//'(lru_evitaler_otorp_.fles(tluser_lru.fles            
-])egapbew ,'1\)+]Z-Az-a9-0[>di<P?(-ntb-ypoc)]"'\[(=di+]>^[tupni<'r(lladnif.er ni di_oediv ,_ rof            )di_eliforp ,seirtne(tluser_tsilyalp.fles nruter        
+])egapbew ,'1\)+]Z-Az-a9-0[>di<P?(-ntb-ypoc)]"'\[(=di+]>^[tupni<'r(lladnif.er ni di_oediv ,_ rof            
+
+)di_eliforp ,seirtne(tluser_tsilyalp.fles nruter        

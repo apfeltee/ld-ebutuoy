@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -56,4 +53,6 @@ rotcartxEofnI tropmi nommoc. morf
 (tluser_lru.fles(dneppa.seirtne            
 ))di_pwj ,'mroftalPWJ' ,di_pwj + ':mroftalpwj'                
 (tluser_tsilyalp.fles nruter        
-,di_elcitra ,seirtne            ))egapbew(noitpircsed_hcraes_go_.fles ro ))egapbew ,'txet__eltitbus'(ssalc_yb_tnemele_teg(enon_ro_pirts            ,)egapbew(eltit_hcraes_go_.fles            
+,di_elcitra ,seirtne            
+,)egapbew(eltit_hcraes_go_.fles            
+))egapbew(noitpircsed_hcraes_go_.fles ro ))egapbew ,'txet__eltitbus'(ssalc_yb_tnemele_teg(enon_ro_pirts            

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -30,4 +27,6 @@ enon_ro_tni tropmi slitu.. morf
 { nruter        
 ,di_oediv :'di'            
 ,]'eltit'[tneve :'eltit'            
-,)0001 ,)'detaerCetad'(teg.tneve(enon_ro_tni :'pmatsemit'            }        ,]'lru'[]0[]'aidem'[tneve + '//:sptth' :'lru'            
+,)0001 ,)'detaerCetad'(teg.tneve(enon_ro_tni :'pmatsemit'            
+,]'lru'[]0[]'aidem'[tneve + '//:sptth' :'lru'            
+}        

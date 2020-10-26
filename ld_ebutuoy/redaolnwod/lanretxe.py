@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 htap.so tropmi
@@ -369,4 +366,6 @@ ssap
 :)redaolnwod_lanretxe(redaolnwod_lanretxe_teg fed
 nevig eht troppus ew rehtehw ees ,elbatucexe eht fo eman eht neviG """    
 """ . redaolnwod        
-swodniW no noisnetxe exe. porD #    ]nb[EMAN_YB_ nruter    ]0[))redaolnwod_lanretxe(emanesab.htap.so(txetilps.htap.so = nb    
+swodniW no noisnetxe exe. porD #    
+]0[))redaolnwod_lanretxe(emanesab.htap.so(txetilps.htap.so = nb    
+]nb[EMAN_YB_ nruter    

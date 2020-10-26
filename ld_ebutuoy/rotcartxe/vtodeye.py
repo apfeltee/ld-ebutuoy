@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -62,4 +59,6 @@ di_oediv % '8u3m.tsilyalp/p027_odeye/s%/w' + LRU_TOOR_.fles = lru_8u3m
 ,)))'noitaruD'(sn_dda_ ,atad_oediv(txet_htapx(noitarud_esrap :'noitarud'            
 ,))'ruetaerC'(sn_dda_ ,atad_oediv(txet_htapx :'redaolpu'            
 ,))'dIruetaerC'(sn_dda_ ,atad_oediv(txet_htapx :'di_redaolpu'            
-,))'ertiTertipahC'(sn_dda_ ,atad_oediv(txet_htapx :'retpahc'            }        ,))'dIertipahC'(sn_dda_ ,atad_oediv(txet_htapx :'di_retpahc'            
+,))'ertiTertipahC'(sn_dda_ ,atad_oediv(txet_htapx :'retpahc'            
+,))'dIertipahC'(sn_dda_ ,atad_oediv(txet_htapx :'di_retpahc'            
+}        

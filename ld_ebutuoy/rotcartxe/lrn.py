@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -28,4 +25,6 @@ daolnwod 8u3m #
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_lmth_.fles(nosj_esrap_.fles = atad_q        
 )di_yalpsid ,)'atad reyalp' ,egapbew ,'")}?+.{("=atad-q)s?('r            
-]'dIoediv'[atad_q = di_alayoo        ))'eltit'(teg.atad_q ,di_alayoo ,'alayoO' ,di_alayoo + ':alayoo'            (tluser_lru.fles nruter        
+]'dIoediv'[atad_q = di_alayoo        
+(tluser_lru.fles nruter        
+))'eltit'(teg.atad_q ,di_alayoo ,'alayoO' ,di_alayoo + ':alayoo'            

@@ -1,6 +1,3 @@
-
-
-
 3nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -35,4 +32,6 @@ eunitnoc
 :fsetis sa )'8-ftu'=gnidocne ,'w' ,'lmth.setisdetroppus'(nepo htiw    
 )etalpmet(etirw.fsetis        
 
-)(niam    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam    

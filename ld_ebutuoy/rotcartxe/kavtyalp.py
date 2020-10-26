@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -189,4 +186,6 @@ enoN = noitarud
 ,)'egami'(teg.meti :'lianbmuht'            
 ,noitarud :'noitarud'            
 ,pmatsemit :'pmatsemit'            
-,evil_si :'evil_si'            }        ,stamrof :'stamrof'            
+,evil_si :'evil_si'            
+,stamrof :'stamrof'            
+}        

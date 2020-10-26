@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -80,4 +77,6 @@ oediv sedils ehT #
 ,lru_pmtr :'lru'                        
 ,)1(puorg.sedils_m :'htap_yalp'                        
 ,'vlf' :'txe'                        
-,}                    }            ,]                
+,}                    
+,]                
+}            

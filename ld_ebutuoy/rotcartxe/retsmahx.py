@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -23,13 +20,13 @@ rts_tapmoc tropmi tapmoc.. morf
 
 
 :)rotcartxEofnI(EIretsmaHX ssalc
-')moc.\+d\retsmahx|orp.\smhx|)ised|eno|moc:?(.\retsmahx:?('r = SNIAMOD_    
+')moc.\]72[retsmahx|orp.\smhx|)ised|eno|moc:?(.\retsmahx:?('r = SNIAMOD_    
 )x?('''r = LRU_DILAV_    
 //:?sptth                    
 /s%?).\?+.:?(                        
 :?(                        
-|lmth.\)*]/^[>di_yalpsid<P?(/)+]z-aZ-Ad\[>di<P?(/seivom                            
-)+]z-aZ-Ad\[>2_di<P?(-)*]/^[>2_di_yalpsid<P?(/soediv                            
+|lmth.\)*]/^[>di_yalpsid<P?(/)+d\>di<P?(/seivom                            
+)+d\>2_di<P?(-)*]/^[>2_di_yalpsid<P?(/soediv                            
 )                        
 SNIAMOD_ % '''                    
 {[ = STSET_    
@@ -103,19 +100,10 @@ amehcs LRU wen #
 ,'5449051-tiab-eht-sekat-ytuaeb-yhs-tnegaelamef/soediv/moc.2retsmahx//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
-,'5449051-tiab-eht-sekat-ytuaeb-yhs-tnegaelamef/soediv/moc.11retsmahx//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'5449051-tiab-eht-sekat-ytuaeb-yhs-tnegaelamef/soediv/moc.62retsmahx//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
 ,'lmth.tiab_eht_sekat_ytuaeb_yhs_tnegaelamef/5449051/seivom/moc.retsmahx//:ptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
 ,'dh?lmth.ytoob_yxes_sraeps_yentirb/8431222/seivom/moc.retsmahx//:ptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'xZJBnhx-tserof-eht-ni-drah-flesreh-skcuf-lrig-ynniks/soediv/moc.retsmahx.ed//:ptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 ]}    
 
@@ -141,8 +129,7 @@ amehcs LRU wen #
 
 (nosj_esrap_.fles = slaitini        
 (xeger_hcraes_.fles            
-,'>tpircs/<*s\;*s\)}?+.{(*s\=*s\slaitini.\wodniw'r(                
-,'slaitini' ,egapbew ,)';*s\)}?+.{(*s\=*s\slaitini.\wodniw'r                 
+,'slaitini' ,egapbew ,'n\*s\;*s\)}?+.{(*s\=*s\slaitini.\wodniw'r                
 ,)'}{'=tluafed                
 )eslaF=lataf ,di_oediv            
 :slaitini fi        
@@ -392,4 +379,6 @@ kaerb
 :lru_egap_txen ton fi            
 kaerb                
 
-:)lru ,fles(tcartxe_laer_ fed    )di_resu ,)di_resu(seirtne_.fles(tluser_tsilyalp.fles nruter        )lru(di_hctam_.fles = di_resu        
+:)lru ,fles(tcartxe_laer_ fed    
+)lru(di_hctam_.fles = di_resu        
+)di_resu ,)di_resu(seirtne_.fles(tluser_tsilyalp.fles nruter        

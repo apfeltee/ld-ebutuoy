@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -113,4 +110,6 @@ tamrof SS:MM sah etis-bus "rotcod" #
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
-,noitarud :'noitarud'            }        ,etad_daolpu :'etad_daolpu'            
+,noitarud :'noitarud'            
+,etad_daolpu :'etad_daolpu'            
+}        

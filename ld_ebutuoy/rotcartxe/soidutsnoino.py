@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -51,4 +48,6 @@ dohtemcitats@
 (xeger_hcraes_.fles(nosj_esrap_.fles(rts_tapmoc = di_pcm        
 ,egapbew ,';)}?+.{(*s\=*s\gnippaMpcm.\wodniw'r            
 )]'di_pcm'[]di_oediv[)nosj_ot_sj ,di_oediv ,)'gnippaM PCM'            
-(tluser_lru.fles nruter        )di_pcm ,'debmEajniK'            ,di_pcm + '-pcm=di?emarfi/tesni/xaja/moc.ajnik//:ptth'            
+(tluser_lru.fles nruter        
+,di_pcm + '-pcm=di?emarfi/tesni/xaja/moc.ajnik//:ptth'            
+)di_pcm ,'debmEajniK'            

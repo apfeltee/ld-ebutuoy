@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -38,4 +35,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,'enon' :'cedocv'            
 ,46 :'rba'            
 ,)eurT=lataf ,'eltit' ,egapbew ,'eltit:rettiwt'r(atem_hcraes_lmth_.fles :'eltit'            
-,)'noitpircsed' ,egapbew ,'noitpircsed'r(atem_hcraes_lmth_.fles :'noitpircsed'            }        ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,)'noitpircsed' ,egapbew ,'noitpircsed'r(atem_hcraes_lmth_.fles :'noitpircsed'            
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+}        

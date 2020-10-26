@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -236,4 +233,6 @@ enoN esle rts_etad fi )'0080+' + rts_etad(pmatsemit_deifinu = pmatsemit
 ,eltit :'eltit'            
 ,lru_oediv :'lru'            
 ,)'crs-gmi-dov-ttn'(teg.atad :'lianbmuht'            
-,pmatsemit :'pmatsemit'            }        ,tnuoc_weiv :'tnuoc_weiv'            
+,pmatsemit :'pmatsemit'            
+,tnuoc_weiv :'tnuoc_weiv'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -116,14 +113,9 @@ tamrof ecruos elbaliavanu #
 
 dohtemcitats@    
 :)egapbew(lru_tcartxe_ fed    
-)egapbew(slru_tcartxe_.EIarutlaK = slru        
-enoN esle slru fi ]0[slru nruter        
-
-dohtemcitats@    
-:)egapbew(slru_tcartxe_ fed    
 etis-ruoy-sreyalp-aidem-arutlak-gniddebme/moc.arutlak.egdelwonk//:sptth :sedoc debmE #        
-( = retidnif        
-(retidnif.er            
+( = jbom        
+(hcraes.er            
 )sx?("""r                
 (\debm]eE[?)bmuht:?(.\tegdiWk                    
 ?*.{\                    
@@ -132,7 +124,7 @@ etis-ruoy-sreyalp-aidem-arutlak-gniddebme/moc.arutlak.egdelwonk//:sptth :sedoc d
 *s\:*s\)3q=P?(d]iI[?_yrtne)]"'[>3q<P?(                        
 )}\*s\|,:?()4q=P?()+).))4q=P?(!?(:?(>di<P?()]"'[>4q<P?(                        
 )egapbew ,"""                
-(retidnif.er ro            
+(hcraes.er ro            
 )sx?('''r                
 )]'"[>1q<P?(                    
 *).))1q=P?(!?(:?()+d\>di_rentrap<P?(/)di_rentrap|p:?(b\*).))1q=P?(!?(:?(/?)+d\::?(moc.\arutlak.\?)ces:?(ipandc//?):?sptth:?(                        
@@ -146,7 +138,7 @@ etis-ruoy-sreyalp-aidem-arutlak-gniddebme/moc.arutlak.egdelwonk//:sptth :sedoc d
 )                    
 )3q=P?()+).))3q=P?(!?(:?(>di<P?()]'"[>3q<P?(                    
 )egapbew ,'''                
-(retidnif.er ro            
+(hcraes.er ro            
 )sx?('''r                
 )]'"[>1q<P?(=)tnetnocb\+]>^[atem|crs+]>^[emarfi:?(<                    
 )+d\>di_rentrap<P?(/)di_rentrap|p:?(b\*).))1q=P?(!?(:?(/moc.\arutlak?).\)?)ces:?(ipandc|www:?(:?(//?):?sptth:?(                      
@@ -156,8 +148,7 @@ etis-ruoy-sreyalp-aidem-arutlak-gniddebme/moc.arutlak.egdelwonk//:sptth :sedoc d
 )1q=P?(                    
 )egapbew ,'''                
 )        
-][ = slru        
-:retidnif ni jbom rof        
+:jbom fi        
 )(tcidpuorg.jbom = ofni_debme            
 :)(smeti.ofni_debme ni v ,k rof            
 :v fi                
@@ -169,8 +160,7 @@ ofni_debme % 's)di(%:s)di_rentrap(%:arutlak' = lru
 )egapbew                
 :jbom_ecivres fi            
 )})'di'(puorg.jbom_ecivres :'lru_ecivres'{ ,lru(lru_elggums = lru                
-)lru(dneppa.slru            
-slru nruter        
+lru nruter            
 
 :)sgrawk** ,sgra* ,enoN=lru_ecivres ,snoitca ,di_oediv ,fles(llac_ipa_arutlak_ fed    
 ]0[snoitca = smarap        
@@ -375,4 +365,6 @@ eunitnoc
 ,)'lrUlianbmuht'(teg.ofni :'lianbmuht'            
 ,)'noitarud'(teg.ofni :'noitarud'            
 ,)'tAdetaerc'(teg.ofni :'pmatsemit'            
-,enoN esle 'enoN' =! )'dIresu'(teg.ofni fi )'dIresu'(teg.ofni :'di_redaolpu'            }        ,)'syalp'(teg.ofni :'tnuoc_weiv'            
+,enoN esle 'enoN' =! )'dIresu'(teg.ofni fi )'dIresu'(teg.ofni :'di_redaolpu'            
+,)'syalp'(teg.ofni :'tnuoc_weiv'            
+}        

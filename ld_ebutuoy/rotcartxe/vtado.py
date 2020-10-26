@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -48,4 +45,6 @@ egapbew ni '!OEDIV ON' = oediv_on
 { nruter        
 ,di_oediv :'di'            
 ,lru_oediv :'lru'            
-,)' :oediV' ,)egapbew(eltit_hcraes_go_.fles(trats_evomer :'eltit'            }        ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,)' :oediV' ,)egapbew(eltit_hcraes_go_.fles(trats_evomer :'eltit'            
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+}        

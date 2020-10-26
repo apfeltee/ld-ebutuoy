@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 so tropmi
@@ -212,4 +209,6 @@ kaerb
 )}            
 eurT nruter            
 :esle        
-)'n\'(rredts_ot.fles            eslaF nruter            )lavter % 'd% edoc htiw detixe pmudpmtr'(rorre_troper.fles            
+)'n\'(rredts_ot.fles            
+)lavter % 'd% edoc htiw detixe pmudpmtr'(rorre_troper.fles            
+eslaF nruter            

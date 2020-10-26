@@ -1,6 +1,3 @@
-
-
-
 ]1[ :tupni //
 1 :tuptuo //
 
@@ -11,4 +8,6 @@
 {tni:)tni:a(niam noitcnuf citats cilbup    
 ;a = v        
 ;v nruter        
-}    }}
+}    
+}
+}

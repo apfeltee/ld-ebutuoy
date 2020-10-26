@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -71,4 +68,6 @@ sj.doppu ta )s(nu noitcnuf morf dereenigne esrever si mhtirogla noitpyrced ts do
 )}                
 ofni nruter            
 
-)egapbew(lru_tcartxe_.EImrofdalP = lru_mrofdalp        )lru_mrofdalp(tluser_lru.fles nruter            :lru_mrofdalp fi        
+)egapbew(lru_tcartxe_.EImrofdalP = lru_mrofdalp        
+:lru_mrofdalp fi        
+)lru_mrofdalp(tluser_lru.fles nruter            

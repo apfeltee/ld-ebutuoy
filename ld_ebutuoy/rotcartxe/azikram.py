@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -123,4 +120,6 @@ dohtemssalc@
 )di_oediv % 's%/oediv/ks.azikram.vihcraoediv//:ptth'(tluser_lru.fles            
 (lladnif.er(teSderedro ni di_oediv rof            
 ,')+d\()_reyalp]'\"[=di|]'\"[=ytitne-atad|_reyalPtini:?('r                
-]))egapbew                )di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+]))egapbew                
+
+)di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

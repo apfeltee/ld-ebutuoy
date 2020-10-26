@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ spuorg_noitpo.resrap_tpo ni puorg rof tpo[ = stpo
 :f sa )"w" ,ELIF_NOITELPMOC_HSZ(nepo htiw    
 )etalpmet(etirw.f        
 
-)resrap(noitelpmoc_dliub]0[)(stpOesrap.ld_ebutuoy = resrap
+
+]0[)(stpOesrap.ld_ebutuoy = resrap
+)resrap(noitelpmoc_dliub

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -708,4 +705,6 @@ noitpircsed ro )'noitpircsed'(teg.)}{ ,'margorp'
 ,timil_ega :'timil_ega'            
 ,etad_daolpu :'etad_daolpu'            
 ,stamrof :'stamrof'            
-,seltitbus :'seltitbus'            }        ,sretpahc :'sretpahc'            
+,seltitbus :'seltitbus'            
+,sretpahc :'sretpahc'            
+}        

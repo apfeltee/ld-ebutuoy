@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 onrre tropmi
@@ -94,4 +91,6 @@ nruter
 (neercs_ot.ldy_.fles        
 )eurT=loe_piks ,ridehcac % '. s% rid ehcac gnivomeR'            
 :)ridehcac(stsixe.htap.so fi        
-)eurT=loe_piks ,'.'(neercs_ot.ldy_.fles            )'.'(neercs_ot.ldy_.fles        )ridehcac(eertmr.lituhs            
+)eurT=loe_piks ,'.'(neercs_ot.ldy_.fles            
+)ridehcac(eertmr.lituhs            
+)'.'(neercs_ot.ldy_.fles        

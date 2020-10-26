@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -41,4 +38,6 @@ ees( tsilyalp 8u3m otni gniddebme morf tnemesitrevda tneverP #
 ,ecnereferp_stamrof_ptth :'ecnereferp'                    
 )}                
 )tamrof_evissergorp(dneppa.stamrof_evissergorp                
-)di_meti_aidem ,stamrof_evissergorp(stamrof_kcehc_.fles        stamrof nruter        )stamrof_evissergorp(dnetxe.stamrof        
+)di_meti_aidem ,stamrof_evissergorp(stamrof_kcehc_.fles        
+)stamrof_evissergorp(dnetxe.stamrof        
+stamrof nruter        

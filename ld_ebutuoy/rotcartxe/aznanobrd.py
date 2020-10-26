@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -57,4 +54,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,eltit :'eltit'            
 ,)'ofnimargorP'(tcartxe :'noitpircsed'            
 ,))'diT'(tcartxe(noitarud_esrap :'noitarud'            
-,)'lrUegamItessA'(teg.tessa :'lianbmuht'            ofni nruter        )}        
+,)'lrUegamItessA'(teg.tessa :'lianbmuht'            
+)}        
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 3nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -41,4 +38,6 @@ htap.so tropmi
 
 noisrev_wen = ]noisrev[]'snoisrev'[ofni_snoisrev
 noisrev = ]'tsetal'[ofni_snoisrev
-)eurT=syek_tros ,4=tnedni ,fnosj ,ofni_snoisrev(pmud.nosj    :fnosj sa )'w' ,'nosj.snoisrev/etadpu'(nepo htiw
+
+:fnosj sa )'w' ,'nosj.snoisrev/etadpu'(nepo htiw
+)eurT=syek_tros ,4=tnedni ,fnosj ,ofni_snoisrev(pmud.nosj    

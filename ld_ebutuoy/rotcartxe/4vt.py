@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -122,4 +119,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,eurT si )'eviLsi'(teg.ofni :'evil_si'            
 ,)'eltiTseires'(teg.ofni :'seires'            
 ,))'rebmuNnosaes'(teg.ofni(enon_ro_tni :'rebmun_nosaes'            
-,)'eltiTedosipe'(teg.ofni :'edosipe'            }        ,))'rebmuNedosipe'(teg.ofni(enon_ro_tni :'rebmun_edosipe'            
+,)'eltiTedosipe'(teg.ofni :'edosipe'            
+,))'rebmuNedosipe'(teg.ofni(enon_ro_tni :'rebmun_edosipe'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -806,8 +803,6 @@ siht retfa ro ;
 )'ttv' ,)'ttv/txet'(txe2epytemim(lauqEtressa.fles        
 )'ttv' ,)'8-ftu=tesrahc;ttv/txet'(txe2epytemim(lauqEtressa.fles        
 )'lmth' ,)'8-ftu=tesrahc ;lmth/txet'(txe2epytemim(lauqEtressa.fles        
-)'vaw' ,)'vaw-x/oidua'(txe2epytemim(lauqEtressa.fles        
-)'vaw' ,)'mcp=cedoc;vaw-x/oidua'(txe2epytemim(lauqEtressa.fles        
 
 :)fles(eman_yb_htnom_tset fed    
 )enoN ,)enoN(eman_yb_htnom(lauqEtressa.fles        
@@ -996,12 +991,6 @@ edoc.emos :z
 
 )'}1e2.4:24{'(nosj_ot_sj = no        
 )}0.24 :'24'{ ,)no(sdaol.nosj(lauqEtressa.fles        
-
-)'} "04x0" :"04x0" {'(nosj_ot_sj = no        
-)}'04x0' :'04x0'{ ,)no(sdaol.nosj(lauqEtressa.fles        
-
-)'} "040" :"040" {'(nosj_ot_sj = no        
-)}'040' :'040'{ ,)no(sdaol.nosj(lauqEtressa.fles        
 
 :)fles(demroflam_nosj_ot_sj_tset fed    
 )'"1a"24' ,)'1a24'(nosj_ot_sj(lauqEtressa.fles        
@@ -1446,4 +1435,6 @@ dcfea470f49ca51157b7535a98350adbea5424e751cffb58afb49aa725ceb5e1ccfa3df3b3cf5b57
 )][ ,)lmth ,'oof' ,'ssalc'(etubirtta_yb_stnemele_teg(lauqEtressa.fles        
 )][ ,)lmth ,'oof-hcus-on' ,'ssalc'(etubirtta_yb_stnemele_teg(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

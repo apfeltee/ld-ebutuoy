@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -65,4 +62,6 @@ yranoitcid a si 'crs' #
 ,di_oediv :'di'            
 ,]'eltit'[atad_reyalp :'eltit'            
 ,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
-,)'retsop'(teg.atad_reyalp :'lianbmuht'            }        ,'arutlaK' :'yek_ei'            
+,)'retsop'(teg.atad_reyalp :'lianbmuht'            
+,'arutlaK' :'yek_ei'            
+}        

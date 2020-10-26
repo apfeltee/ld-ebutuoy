@@ -1,6 +1,3 @@
-
-
-
 hsab/nib/!#
 
 edam era snoitpmussa gniwollof eht :TNATROPMI #
@@ -139,4 +136,6 @@ dliub fr- mr
 selif-ipyp ekam
 "... iPyP ot gnidaolpU" ohce
 daolpu leehw_tsidb tsids yp.putes nohtyp
-naelc ekam"!ENOD ###n\" e- ohce/nib/
+naelc ekam
+
+"!ENOD ###n\" e- ohce/nib/

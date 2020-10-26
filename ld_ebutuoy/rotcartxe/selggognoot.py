@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -79,4 +76,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,di_wohs :'diwohs'                
 )}            
 ][ = seirtne            
-:)][ ,'stcejbo'(teg.atad_wohs ni atad_edosipe rof            ))'eman_wohs'(teg.atad_wohs ,di_wohs ,seirtne(tluser_tsilyalp.fles nruter            ))atad_edosipe(atad_edosipe_esrap_.fles(dneppa.seirtne                
+:)][ ,'stcejbo'(teg.atad_wohs ni atad_edosipe rof            
+))atad_edosipe(atad_edosipe_esrap_.fles(dneppa.seirtne                
+))'eman_wohs'(teg.atad_wohs ,di_wohs ,seirtne(tluser_tsilyalp.fles nruter            

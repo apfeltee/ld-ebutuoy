@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -146,4 +143,6 @@ eunitnoc
 
 :lru_ebutuoy fi        
 ]))(yek_ei.EIebutuoY=ei ,lru_ebutuoy(tluser_lru.fles ,yrtne[ = seirtne            
-)seirtne(tluser_tsilyalp.fles nruter            yrtne nruter        
+)seirtne(tluser_tsilyalp.fles nruter            
+
+yrtne nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -31,4 +28,6 @@ daolnwod 8u3m #
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_oediv        
-)'deeFmroftalPehT' ,di_oediv + '=dIyb?lla-stropsxof/B92QKB/f/moc.mroftalpeht.deef//:sptth'            (tluser_lru.fles nruter        
+
+(tluser_lru.fles nruter        
+)'deeFmroftalPehT' ,di_oediv + '=dIyb?lla-stropsxof/B92QKB/f/moc.mroftalpeht.deef//:sptth'            

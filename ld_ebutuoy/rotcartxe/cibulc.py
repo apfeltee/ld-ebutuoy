@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ di_oediv % 'lmth.s%/cibulc/reyalp/1v/rf.bew6m.reyalp//:ptth' = lru_reyalp
 ,di_oediv :'di'            
 ,]'eltit'[ofni_oediv :'eltit'            
 ,stamrof :'stamrof'            
-,))'noitpircsed'(teg.ofni_oediv(lmth_naelc :'noitpircsed'            }        ,)'retsop'(teg.gifnoc :'lianbmuht'            
+,))'noitpircsed'(teg.ofni_oediv(lmth_naelc :'noitpircsed'            
+,)'retsop'(teg.gifnoc :'lianbmuht'            
+}        

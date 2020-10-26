@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -154,4 +151,6 @@ nruter
 {(etadpu.ofni                
 ,txe :'txe'                    
 ,]'lru'[elif_tsop :'lru'                    
-)}                ofni nruter        
+)}                
+
+ofni nruter        

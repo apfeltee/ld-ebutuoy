@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -318,4 +315,6 @@ eunitnoc
 )lru_gnirahs(dda.slru_yrtne            
 (tluser_lru.fles(dneppa.seirtne            
 )))'di'(teg.t=di_oediv ,)(yek_ei.EIFDZ=ei ,lru_gnirahs                
-"""        ))'eltit'(teg.lennahc ,di_lennahc ,seirtne(tluser_tsilyalp.fles nruter        
+
+))'eltit'(teg.lennahc ,di_lennahc ,seirtne(tluser_tsilyalp.fles nruter        
+"""        

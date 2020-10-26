@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -57,4 +54,6 @@ noitarud_esrap tropmi slitu.. morf
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,noitarud :'noitarud'            
-)}        )di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)}        
+
+)di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

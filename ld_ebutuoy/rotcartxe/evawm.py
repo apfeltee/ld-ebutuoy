@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -88,4 +85,6 @@ eunitnoc
 )di_oediv ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_lmth_.fles = di_pilc        
 ,')+d\(=di_pilc.\OVliateDoediVhcraes?\m.\pilc_rfi/vttenm/"=crs+]>^[emarfi<'r            
-)'DI pilc' ,egapbew            )di_pilc ,'evawM' ,lru_pilc(tluser_lru.fles nruter        di_pilc % ETALPMET_LRU_.EIevawM = lru_pilc        
+)'DI pilc' ,egapbew            
+di_pilc % ETALPMET_LRU_.EIevawM = lru_pilc        
+)di_pilc ,'evawM' ,lru_pilc(tluser_lru.fles nruter        

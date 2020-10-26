@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -89,4 +86,6 @@ enon_ro_tni tropmi slitu.. morf
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
 ,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
-,)enoN=tluafed ,egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            }        ,noitarud :'noitarud'            
+,)enoN=tluafed ,egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,noitarud :'noitarud'            
+}        

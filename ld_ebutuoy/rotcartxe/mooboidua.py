@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -71,4 +68,6 @@ enoN = pilc
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,noitarud :'noitarud'            
-,redaolpu :'redaolpu'            }        ,lru_redaolpu :'lru_redaolpu'            
+,redaolpu :'redaolpu'            
+,lru_redaolpu :'lru_redaolpu'            
+}        

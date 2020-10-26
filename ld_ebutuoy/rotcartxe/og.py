@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -266,4 +263,6 @@ eunitnoc
 ,)'eltit'(teg.)}{ ,'wohs'(teg.atad_oediv :'seires'            
 ,))'mun'(teg.)}{ ,'nosaes'(teg.atad_oediv(enon_ro_tni :'rebmun_nosaes'            
 ,slianbmuht :'slianbmuht'            
-,stamrof :'stamrof'            }        ,seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+,seltitbus :'seltitbus'            
+}        

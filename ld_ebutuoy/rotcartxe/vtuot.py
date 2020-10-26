@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -91,4 +88,6 @@ ees( detcetorp MRD si oediv eht naem ylirassecen ton seod mrDsI #
 ,)'eltiTmargorP'(teg.atadatem :'seires'            
 ,))'rebmuNnosaeS'(teg.atadatem(enon_ro_tni :'rebmun_nosaes'            
 ,)'eltiTnosaeS'(teg.atadatem :'nosaes'            
-,))'rebmuNedosipE'(teg.atadatem(enon_ro_tni :'rebmun_edosipe'            ))di_oediv ,)'vtuot' ,'edoCppA'(teg.atadatem(ofni_tcartxe_.fles ,}        ,)'eltiTedosipE'(teg.atadatem :'edosipe'            
+,))'rebmuNedosipE'(teg.atadatem(enon_ro_tni :'rebmun_edosipe'            
+,)'eltiTedosipE'(teg.atadatem :'edosipe'            
+))di_oediv ,)'vtuot' ,'edoCppA'(teg.atadatem(ofni_tcartxe_.fles ,}        

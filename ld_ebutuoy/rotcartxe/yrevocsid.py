@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 modnar tropmi
@@ -116,4 +113,6 @@ nekot_ssecca + ' reraeB' = ]'noitazirohtuA'[sredaeh
 'taht noitpircsbus redivorp ecivres elbac aiv elbaliava ylno si oediv sihT'                        
 )eurT=detcepxe ,'.seikooc-- esu ot tnaw yam uoY .detroppus yltnerruc ton si '                        
 )noitpircsed_e(rorrErotcartxE esiar                
-esiar            )di_yalpsid ,maerts ,oediv(ofni_oediv_tcartxe_.fles nruter        
+esiar            
+
+)di_yalpsid ,maerts ,oediv(ofni_oediv_tcartxe_.fles nruter        

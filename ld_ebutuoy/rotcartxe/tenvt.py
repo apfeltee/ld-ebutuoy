@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -145,4 +142,6 @@ smaerts oidar rof troppus retteb #
 ,eltit :'eltit'            
 ,lianbmuht :'lianbmuht'            
 ,evil_si :'evil_si'            
-,tnuoc_weiv :'tnuoc_weiv'            }        ,stamrof :'stamrof'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,stamrof :'stamrof'            
+}        

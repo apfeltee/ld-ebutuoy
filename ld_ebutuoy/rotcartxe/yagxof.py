@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -61,4 +58,6 @@ soediv tuohtiw segap ot sdael seikooc yagxof htiw tnega-resu tluafed ehT #
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
 ,noitpircsed :'noitpircsed'            
-,)'bmuht'(teg.)}{ ,'div_tca'(teg.atad_oediv :'lianbmuht'            }        ,81 :'timil_ega'            
+,)'bmuht'(teg.)}{ ,'div_tca'(teg.atad_oediv :'lianbmuht'            
+,81 :'timil_ega'            
+}        

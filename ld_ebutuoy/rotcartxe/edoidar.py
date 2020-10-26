@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -50,4 +47,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,lianbmuht :'lianbmuht'            
-,eurT :'evil_si'            }        ,stamrof :'stamrof'            
+,eurT :'evil_si'            
+,stamrof :'stamrof'            
+}        

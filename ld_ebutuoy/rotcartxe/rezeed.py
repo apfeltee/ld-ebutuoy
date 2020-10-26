@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -89,4 +86,6 @@ sdnoces 03 tsrif eht ylnO #  ,001- :'ecnereferp'
 ,di_tsilyalp :'di'            
 ,eltit_tsilyalp :'eltit'            
 ,redaolpu_tsilyalp :'redaolpu'            
-,lianbmuht_tsilyalp :'lianbmuht'            }        ,seirtne :'seirtne'            
+,lianbmuht_tsilyalp :'lianbmuht'            
+,seirtne :'seirtne'            
+}        

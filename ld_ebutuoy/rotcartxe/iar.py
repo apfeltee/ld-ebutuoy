@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -500,4 +497,6 @@ irUaidem.\ofnIaidem
 ,eltit :'eltit'            
 }        
 
-)ofni_rekniler(etadpu.ofni        ofni nruter        
+)ofni_rekniler(etadpu.ofni        
+
+ofni nruter        

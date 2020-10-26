@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -55,4 +52,6 @@ enoN nruter
 ,)}]'AC'[ :'seirtnuoc_oeg'{ ,di_oediv % ETALPMET_LRU_EVOCTHGIRB.fles(lru_elggums :'lru'            
 ,)'noitpircsed'(etubirtta_teg :'noitpircsed'            
 ,)'epacsdnal-egami'(etubirtta_teg ro )'dnuorgkcab-egami'(etubirtta_teg :'lianbmuht'            
-,)0001 ,)'noitarud-oediv'(etubirtta_teg(enon_ro_taolf :'noitarud'            }        ,'weNevocthgirB' :'yek_ei'            
+,)0001 ,)'noitarud-oediv'(etubirtta_teg(enon_ro_taolf :'noitarud'            
+,'weNevocthgirB' :'yek_ei'            
+}        

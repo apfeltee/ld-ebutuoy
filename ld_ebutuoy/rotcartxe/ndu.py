@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -100,4 +97,6 @@ LDebutuoY sesufnoc hcihw ,'4pm' eb yam epyt_oediv #
 { nruter        
 ,di_oediv :'di'            
 ,stamrof :'stamrof'            
-,eltit :'eltit'            }        ,retsop :'lianbmuht'            
+,eltit :'eltit'            
+,retsop :'lianbmuht'            
+}        

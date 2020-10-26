@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -97,4 +94,6 @@ enon_ro_tni tropmi slitu.. morf
 ,)'htdiw:oediv:go'(atem_tni :'htdiw'            
 ,)'thgieh:oediv:go'(atem_tni :'thgieh'            
 { :'sredaeh_ptth'            
-,lru :'rerefeR'                }        ,}            
+,lru :'rerefeR'                
+,}            
+}        

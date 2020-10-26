@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 46esab tropmi
@@ -208,4 +205,6 @@ daolnwod 8u3m #
 }    
 
 :)lru ,fles(tcartxe_laer_ fed    
-)(spuorg.)lru ,LRU_DILAV_.fles(hctam.er = edocp ,di_oediv ,di_rentrap        )di_oediv ,lru_eert_tnetnoc(tcartxe_.fles nruter        )di_oediv ,di_rentrap ,edocp( % 's%:s%/s%/di_lanretxe' + ESAB_EERT_TNETNOC_.fles = lru_eert_tnetnoc        
+)(spuorg.)lru ,LRU_DILAV_.fles(hctam.er = edocp ,di_oediv ,di_rentrap        
+)di_oediv ,di_rentrap ,edocp( % 's%:s%/s%/di_lanretxe' + ESAB_EERT_TNETNOC_.fles = lru_eert_tnetnoc        
+)di_oediv ,lru_eert_tnetnoc(tcartxe_.fles nruter        

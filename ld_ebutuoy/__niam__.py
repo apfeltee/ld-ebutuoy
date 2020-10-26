@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -17,4 +14,6 @@ htap.so tropmi
 )))htap(emanrid.htap.so(emanrid.htap.so ,0(tresni.htap.sys    
 
 ld_ebutuoy tropmi
-)(niam.ld_ebutuoy    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.ld_ebutuoy    

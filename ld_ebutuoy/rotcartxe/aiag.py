@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -128,4 +125,6 @@ enoN = sredaeh
 ,))'tnuoc_tnemmoc'(teg.edon(enon_ro_tni :'tnuoc_tnemmoc'            
 ,)rts_tapmoc ,]'eltit'[]'seires'[x :x adbmal ,edon(teg_yrt :'seires'            
 ,))'nosaes'(eulav_dleif_teg(enon_ro_tni :'rebmun_nosaes'            
-,))'din' ,'din_seires'(eulav_dleif_teg(enon_ro_rts :'di_nosaes'            }        ,))'edosipe'(eulav_dleif_teg(enon_ro_tni :'rebmun_edosipe'            
+,))'din' ,'din_seires'(eulav_dleif_teg(enon_ro_rts :'di_nosaes'            
+,))'edosipe'(eulav_dleif_teg(enon_ro_tni :'rebmun_edosipe'            
+}        

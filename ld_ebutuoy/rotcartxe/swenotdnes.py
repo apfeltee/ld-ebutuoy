@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -103,4 +100,6 @@ eunitnoc
 ,))'htgnel_MS'(teg.oediv(enon_ro_taolf :'noitarud'                
 ,)' '=retimiled ,)'etaDsys_S'(teg.oediv(1068osi_esrap :'pmatsemit'                
 )}            
-)tcid_ofni(dneppa.seirtne            )di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)tcid_ofni(dneppa.seirtne            
+
+)di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

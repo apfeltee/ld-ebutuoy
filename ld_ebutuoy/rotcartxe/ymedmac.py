@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -159,4 +156,6 @@ egap elgnis a ni deyalpsid era sknil lla taht os tsil=edoMyalpsid ddA #
 )htap_aidem + 'moc.ymedmac.www//:ptth'(tluser_lru.fles[ = seirtne        
 ]sehctam ni htap_aidem rof                   
 
-)egap ,'sdrowyek'(atem_hcraes_lmth_.fles = eltit_redlof        )eltit_redlof ,di_redlof ,seirtne(tluser_tsilyalp.fles nruter        
+)egap ,'sdrowyek'(atem_hcraes_lmth_.fles = eltit_redlof        
+
+)eltit_redlof ,di_redlof ,seirtne(tluser_tsilyalp.fles nruter        

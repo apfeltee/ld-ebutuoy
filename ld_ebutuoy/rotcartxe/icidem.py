@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -68,4 +65,6 @@ di_oediv ro )'di'(teg.oediv = di_oediv
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,lianbmuht :'lianbmuht'            
-,etad_daolpu :'etad_daolpu'            }        ,stamrof :'stamrof'            
+,etad_daolpu :'etad_daolpu'            
+,stamrof :'stamrof'            
+}        

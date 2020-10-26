@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -213,4 +210,6 @@ eunitnoc
 ,cnuf_egap            
 ,)EZIS_EGAP_.fles / ]'tnuoc'[tsilyalp(liec.htam            
 )EZIS_EGAP_.fles            
-))'noitpircsed'(teg.wohs ,)'eltit'(teg.wohs ,di_wohs ,seirtne            (tluser_tsilyalp.fles nruter        
+
+(tluser_tsilyalp.fles nruter        
+))'noitpircsed'(teg.wohs ,)'eltit'(teg.wohs ,di_wohs ,seirtne            

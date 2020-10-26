@@ -1,6 +1,3 @@
-
-
-
 3nohtyp/nib/rsu/!#
 
 esrapgra tropmi
@@ -431,4 +428,6 @@ ssap
 )noitca % '"s%" dohtem dliub nwonknU' ,005(esnopser_dnes.fles                
 :esle        
 )'LRU demroflaM' ,005(esnopser_dnes.fles            
-)(niam    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam    

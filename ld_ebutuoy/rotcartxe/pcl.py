@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -88,4 +85,6 @@ maerts evil 8u3m #
 ,)(yek_ei.EIyalPpcL :'yek_ei'            
 ,lru_yalp :'lru'            
 ,di_yalpsid :'di_yalpsid'            
-,eltit :'eltit'            }        ,noitpircsed :'noitpircsed'            
+,eltit :'eltit'            
+,noitpircsed :'noitpircsed'            
+}        

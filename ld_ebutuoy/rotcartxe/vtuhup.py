@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -237,4 +234,6 @@ eunitnoc
 
 seires htiw lru emas gnisu era eseht ,smlif roF #        
 ]'guls'[]0[]'stessa'[ofni ro )'guls'(teg.ofni = di_oediv        
-(tluser_lru.fles nruter        )di_oediv ,)(yek_ei.EIVTuhuP            ,di_oediv % 'elzi-s%/moc.vtuhup//:sptth'            
+(tluser_lru.fles nruter        
+,di_oediv % 'elzi-s%/moc.vtuhup//:sptth'            
+)di_oediv ,)(yek_ei.EIVTuhuP            

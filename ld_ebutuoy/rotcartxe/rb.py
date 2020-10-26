@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -309,4 +306,6 @@ eunitnoc
 ,))'tAdetaerc'(teg.pilc(1068osi_esrap :'pmatsemit'            
 ,))'noitcirtseRega'(teg.pilc(enon_ro_tni :'timil_ega'            
 ,stamrof :'stamrof'            
-,seltitbus :'seltitbus'            }        ,slianbmuht :'slianbmuht'            
+,seltitbus :'seltitbus'            
+,slianbmuht :'slianbmuht'            
+}        

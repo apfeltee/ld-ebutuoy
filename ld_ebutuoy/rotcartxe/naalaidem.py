@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -267,4 +264,6 @@ deriuqer noitacitnehtua ,dov #
 :)'noitpircsed'(teg.ofni ton fi        
 (xeger_hcraes_lmth_.fles = ]'noitpircsed'[ofni            
 ,'>p/<)?+.(>p<*s\>"neve+s\meti-dleif"=ssalc+]>^[vid<'r                
-)enoN=tluafed ,'noitpircsed' ,egapbew                ofni nruter        
+)enoN=tluafed ,'noitpircsed' ,egapbew                
+
+ofni nruter        

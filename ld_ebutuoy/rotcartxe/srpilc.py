@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -31,4 +28,6 @@ EIesaBtenO tropmi teno. morf
 )egapbew(di_pvm_hcraes_.fles = di_pvm        
 
 )egapbew ,di_pvm(di_morf_tcartxe_.fles = tcid_ofni        
-di_yalpsid = ]'di_yalpsid'[tcid_ofni        tcid_ofni nruter        
+di_yalpsid = ]'di_yalpsid'[tcid_ofni        
+
+tcid_ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -75,4 +72,6 @@ eunitnoc
 { nruter        
 ,edosipe :'di'            
 ,eltit :'eltit'            
-,stamrof :'stamrof'            }        ,lianbmuht :'lianbmuht'            
+,stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -261,4 +258,6 @@ eunitnoc
 ))nossel ,di_nossel ,sretpahc(nossel_tcartxe_.fles(dneppa.seirtne            
 
 )'eltit'(teg.esruoc = eltit        
-)'noitpircsed'(teg.esruoc = noitpircsed        )noitpircsed ,eltit ,eman_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)'noitpircsed'(teg.esruoc = noitpircsed        
+
+)noitpircsed ,eltit ,eman_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

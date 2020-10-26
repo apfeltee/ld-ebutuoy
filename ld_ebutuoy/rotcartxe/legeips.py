@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -157,4 +154,6 @@ soediv deddebme elpitluM #
 ]sdebme ni htap_debme rof            
 :sdebme fi        
 )seirtne(tluser_tsilyalp.fles nruter            
-))(yek_ei.EIdebmExxeN=ei ,)egapbew(slru_tcartxe_.EIdebmExxeN            (sehctam_morf_tsilyalp.fles nruter        
+
+(sehctam_morf_tsilyalp.fles nruter        
+))(yek_ei.EIdebmExxeN=ei ,)egapbew(slru_tcartxe_.EIdebmExxeN            

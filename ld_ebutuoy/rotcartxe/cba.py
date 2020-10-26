@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 bilhsah tropmi
@@ -191,4 +188,6 @@ kaerb
 ,rebmun_esuoh :'di_edosipe'            
 ,)'lennahc'(teg.smarap_oediv :'di_redaolpu'            
 ,stamrof :'stamrof'            
-,seltitbus :'seltitbus'            }        ,evil_si :'evil_si'            
+,seltitbus :'seltitbus'            
+,evil_si :'evil_si'            
+}        

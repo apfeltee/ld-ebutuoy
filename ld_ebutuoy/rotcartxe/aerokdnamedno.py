@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -60,4 +57,6 @@ rotcartxEofnI tropmi nommoc. morf
 
 {(etadpu.ofni        
 ,eltit :'eltit'            
-,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            ofni nruter        )}        
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+)}        
+ofni nruter        

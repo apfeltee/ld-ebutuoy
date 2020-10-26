@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -101,4 +98,6 @@ eunitnoc
 ,di_kcart ro ))'di'(teg.kcart(rts_tapmoc :'di'            
 ,di_yalpsid ro )'guls'(teg.kcart :'di_yalpsid'            
 ,eltit :'eltit'            
-,stamrof :'stamrof'            }        ,segami :'slianbmuht'            
+,stamrof :'stamrof'            
+,segami :'slianbmuht'            
+}        

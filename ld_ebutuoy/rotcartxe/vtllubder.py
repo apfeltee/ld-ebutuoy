@@ -1,10 +1,5 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
-
-er tropmi
 
 rotcartxEofnI tropmi nommoc. morf
 rorrEPTTH_tapmoc tropmi tapmoc.. morf
@@ -15,7 +10,7 @@ rorrEPTTH_tapmoc tropmi tapmoc.. morf
 
 
 :)rotcartxEofnI(EIVTlluBdeR ssalc
-')+w\-PA>di<P?(/)s)edosipe|mlif:?(|evil|?soediv:?(/?)+]/^[/stneve/:?()?)vt/:?(?)+]/^[/:?(moc.\|vt.\:?(llubder?).\www:?(//:?sptth'r = LRU_DILAV_    
+')+w\-PA>di<P?(/)evil|?soediv:?(/?)+]/^[/stneve/:?()?)vt/:?(?)+]/^[/:?(moc.\|vt.\:?(llubder?).\www:?(//:?sptth'r = LRU_DILAV_    
 {[ = STSET_    
 mlif #        
 ,'11W1NATDCX6Q1-PA/oediv/vt.llubder.www//:sptth' :'lru'        
@@ -34,8 +29,8 @@ edosipe #
 ,'11W1WCFJKHMP1-PA' :'di'            
 ,'4pm' :'txe'            
 ,'4E2S sgathsaH - emirG' :'eltit'            
-,'d484ecba4daaaf89a80c859216aa6455:5dm' :'noitpircsed'            
-,409 :'noitarud'            
+,'52bb0188105e61232e1e27b98b225f5b:5dm' :'noitpircsed'            
+,6.409 :'noitarud'            
 ,}        
 { :'smarap'        
 ,eurT :'daolnwod_piks'            
@@ -49,15 +44,11 @@ edosipe #
 { ,}    
 ,'11W1HDF68JUX1-PA/evil/11W15Q16K2VX1-PA/stneve/ne-su/moc.llubder.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
-{ ,}    
-,'1112HF8WAMSZ1-PA/smlif/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'11W11EX7KWQT1-PA/sedosipe/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
 ]}    
 
-:)di_oediv ,fles(ofni_tcartxe fed    
+:)lru ,fles(tcartxe_laer_ fed    
+)lru(di_hctam_.fles = di_oediv        
+
 (nosj_daolnwod_.fles = noisses        
 ,di_oediv ,'noisses/3v/vt.llubder.ipa//:sptth'            
 {=yreuq ,'nekot ssecca gnidaolnwoD'=eton            
@@ -114,117 +105,24 @@ gnidaehbus % 's% - ' =+ eltit
 ,seltitbus :'seltitbus'            
 }        
 
-:)lru ,fles(tcartxe_laer_ fed    
-)lru(di_hctam_.fles = di_oediv        
-)di_oediv(ofni_tcartxe.fles nruter        
-
-
-:)EIVTlluBdeR(EIdebmElluBdeR ssalc
-')}3,2{]Z-A[-}2{]z-a[:}21{]f-ad\[-}4{]f-ad\[-}4{]f-ad\[-}4{]f-ad\[-}8{]f-ad\[:+]:^[:tnetnoc:nrr>di<P?(/debme/moc.\llubder?).\www:?(//:?sptth'r = LRU_DILAV_    
-{[ = STSET_    
-dItessa gnisu ylno elbissecca tsefinam SLH #        
-,'TNI-ne:504e62178911-a519-ca15-4de3-f4f1203f:soediv-edosipe:tnetnoc:nrr/debme/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-]}    
-{ s% no ...''' = LPMT_ESNESSE_OEDIV_    
-{ ecnessEoediv      
-setubirtta        
-}      
-'''}    
-
-:)lru ,fles(tcartxe_laer_ fed    
-)lru(di_hctam_.fles = di_nrr        
-(nosj_daolnwod_.fles = di_tessa        
-,'lqhparg/1v/moc.swallubder.noitcudorp-operc.lqhparg-egde//:sptth'            
-,}'668cce929c001b89932453311ff1a09e' :'YEK-IPA'{=sredaeh ,di_nrr            
-{=yreuq            
-{''' :'yreuq'                
-{ )eslaf :gnikcolBoeGecrofne ,"s%" :di(ecruoser  
-s%    
-s%    
-}  
-,)'ecruoseRoediV' % LPMT_ESNESSE_OEDIV_.fles ,'oediVeviL' % LPMT_ESNESSE_OEDIV_.fles ,di_nrr( % '''}
-]'dItessa'[]'setubirtta'[]'ecnessEoediv'[]'ecruoser'[]'atad'[)}            
-)di_tessa(ofni_tcartxe.fles nruter        
-
 
 :)rotcartxEofnI(EItnetnoCnrRVTlluBdeR ssalc
-')}21{]f-ad\[-}4{]f-ad\[-}4{]f-ad\[-}4{]f-ad\[-}8{]f-ad\[:+]:^[:tnetnoc:nrr>di<P?(/)mlif|evil|oediv:?(/vt/)}2{]z-a[>gnal<P?(-)}3,2{]z-a[>noiger<P?(/moc.\llubder?).\www:?(//:?sptth'r = LRU_DILAV_    
+')}21{]f-ad\[-}4{]f-ad\[-}4{]f-ad\[-}4{]f-ad\[-}8{]f-ad\[>di<P?(:+]:^[:tnetnoc:nrr/)evil|oediv:?(/)?)vt/:?(?)+]/^[/:?(moc.\|vt.\:?(llubder?).\www:?(//:?sptth'r = LRU_DILAV_    
 {[ = STSET_    
 ,'mailliw-trof-slanif-hd-snem/37c31df8f07c-a269-7b05-f59e-4bef6e3e:soediv-evil:tnetnoc:nrr/oediv/vt/ne-tni/moc.llubder.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
 ,'sartxe:8e517d213bb9-4e5b-9835-8ed5-62950f38:seliforp-tneve:tnetnoc:nrr=tsilyalp?elyts-st-nt/b84fb41a11ee-d96a-8bd5-b1ff-63f0a63a:soediv:tnetnoc:nrr/oediv/vt/ne-tni/moc.llubder.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
-{ ,}    
-,'em-wollof/38ba2aff508a-015b-91d5-40c4-e00d4f1d:smlif:tnetnoc:nrr/mlif/vt/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
 ]}    
 
 :)lru ,fles(tcartxe_laer_ fed    
-)(spuorg.)lru ,LRU_DILAV_.fles(hcraes.er = di_nrr ,gnal ,noiger        
-))(reppu.noiger ,gnal( % 's%-s%:' =+ di_nrr        
+)lru(di_hctam_.fles = di_yalpsid        
+
+)di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
+
+)egapbew(lru_hcraes_go_.fles = lru_oediv        
+
 (tluser_lru.fles nruter        
-,di_nrr + '/debme/moc.llubder.www//:sptth'            
-)di_nrr ,)(yek_ei.EIdebmElluBdeR            
-
-
-:)rotcartxEofnI(EIlluBdeR ssalc
-')+]&#?/^[>di<P?():tnetnoc:nrr|-PA!?(/)evil|s)oediv?)-)reliart|pacer:?(:?(|mlif|edosipe:?(>epyt<P?(/)}2{]z-a[>gnal<P?(-)}3,2{]z-a[>noiger<P?(/moc.\llubder?).\www:?(//:?sptth'r = LRU_DILAV_    
-{[ = STSET_    
-,'40e-20s-sgathsah-emirg/sedosipe/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,'ff475dd0de9081a35004d0027a1728bd' :'5dm'        
-{ :'tcid_ofni'        
-,'41W19AWQD8TM1-AA' :'di'            
-,'4pm' :'txe'            
-,'4E2S sgathsaH - emirG' :'eltit'            
-,'d484ecba4daaaf89a80c859216aa6455:5dm' :'noitpircsed'            
-,}        
-{ ,}    
-,'ssentaerg-fo-niatnuom-orajnamilik/smlif/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'dronllav-morf-slanif-ocx-snem-7102-puc-dlrow-ekib-niatnuom-icu/soediv-pacer/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'tnetnoc-fo-sgnik/soediv-reliart/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'21e-1s-elyts-ruoy-ecnad-llub-der-elyts-stnt/soediv/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'mailliw-trof-slanif-hd-snem/evil/ne-tni/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-IPA eht rof deen si kcabllaf a os etisbew ne-tni eht no elbaliava ylno #        
-oreh:1v=amehcS3br&ainotse-pacer-yadrutas-crw-aif=]gulSiru[retlif?TNI-ne>BG-ne/yreuq/3v/1v/lqhparg/ipa/3v/moc.llubder.www//:sptth #        
-,'ainotse-pacer-yadrutas-crw-aif/evil/ne-bg/moc.llubder.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-]}    
-]'rf' ,'se' ,'ne' ,'ed'[ = TSIL_KCABLLAF_TNI_    
-]'ep' ,'xm' ,'oc' ,'lc' ,'rac' ,'ob' ,'ra'[ = PAM_KCABLLAF_TAL_    
-
-:)lru ,fles(tcartxe_laer_ fed    
-)(spuorg.)lru ,LRU_DILAV_.fles(hcraes.er = di_yalpsid ,epyt_retlif ,gnal ,noiger        
-:'sedosipe' == epyt_retlif fi        
-'soediv-edosipe' = epyt_retlif            
-:'evil' == epyt_retlif file        
-'soediv-evil' = epyt_retlif            
-
-])(reppu.noiger[ = snoiger        
-:'tni' =! noiger fi        
-:PAM_KCABLLAF_TAL_.fles ni noiger fi            
-)'TAL'(dneppa.snoiger                
-:TSIL_KCABLLAF_TNI_.fles ni gnal fi            
-)'TNI'(dneppa.snoiger                
-)]snoiger ni ger rof )ger ,gnal( % 's%-s%'[(nioj.'>' = elacol        
-
-(nosj_daolnwod_.fles = di_nrr        
-,elacol + '/yreuq/3v/1v/lqhparg/ipa/3v/moc.llubder.www//:sptth'            
-{=yreuq ,di_yalpsid            
-,epyt_retlif :']epyt[retlif'                
-,di_yalpsid :']gulSiru[retlif'                
-,'oreh:1v' :'amehcS3br'                
-]'di'[]'atad'[)}            
-
-(tluser_lru.fles nruter        )di_nrr ,)(yek_ei.EIdebmElluBdeR            ,di_nrr + '/debme/moc.llubder.www//:sptth'            
+,)(yek_ei.EIVTlluBdeR=ei ,lru_oediv            
+))lru_oediv(di_hctam_.EIVTlluBdeR=di_oediv            

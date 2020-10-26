@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -50,4 +47,6 @@ sulp_etouqnu_esrap_billru_tapmoc tropmi tapmoc.. morf
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,stamrof :'stamrof'            }        ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,stamrof :'stamrof'            
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -88,4 +85,6 @@ tnuoCteg/tiekil/ipa/em.enil.vt//:sptth tseuqer IPA lanoitidda na seriuqer tnuoc_
 ,]:1[yreuq_artxe :'lru_tnemges_ot_marap_artxe'            
 ,noitarud :'noitarud'            
 }]'ecruos'[lianbmuht :'lru'{[ :'slianbmuht'            
-,])][ ,'tsil'(teg.)}{ ,'slianbmuht'(teg.ofni_oediv ni lianbmuht rof                           }        ,)'tnuoc'(teg.)}{ ,'atem'(teg.ofni_oediv :'tnuoc_weiv'            
+,])][ ,'tsil'(teg.)}{ ,'slianbmuht'(teg.ofni_oediv ni lianbmuht rof                           
+,)'tnuoc'(teg.)}{ ,'atem'(teg.ofni_oediv :'tnuoc_weiv'            
+}        

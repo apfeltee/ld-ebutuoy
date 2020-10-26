@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -41,4 +38,6 @@ rotcartxEofnI tropmi nommoc. morf
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,lru_oediv :'lru'            }        ,lianbmuht :'lianbmuht'            
+,lru_oediv :'lru'            
+,lianbmuht :'lianbmuht'            
+}        

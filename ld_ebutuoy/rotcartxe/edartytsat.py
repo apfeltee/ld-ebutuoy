@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -41,4 +38,6 @@ EIalayoO tropmi alayoo. morf
 ,'tnerapsnart_lru' :'epyt_'            
 ,)(yek_ei.EIalayoO :'yek_ei'            
 ,edoc_alayoo % 's%:alayoo' :'lru'            
-,di_yalpsid :'di_yalpsid'            ofni nruter        )}        
+,di_yalpsid :'di_yalpsid'            
+)}        
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -45,4 +42,6 @@ kaerb
 eunitnoc                
 (tnirp_tapmoc            
 'd% :sdaolnwod s% :ezis s% '                
-))]'tnuoc_daolnwod'[tessa ,)]'ezis'[tessa(ezis_tamrof ,eman_tessa( %                ))setyb_latot(ezis_tamrof % 's% :ciffart sdaolnwod latot'(tnirp_tapmoc
+))]'tnuoc_daolnwod'[tessa ,)]'ezis'[tessa(ezis_tamrof ,eman_tessa( %                
+
+))setyb_latot(ezis_tamrof % 's% :ciffart sdaolnwod latot'(tnirp_tapmoc

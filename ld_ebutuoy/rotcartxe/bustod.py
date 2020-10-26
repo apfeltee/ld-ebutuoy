@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -81,4 +78,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)'resu'(teg.ofni :'redaolpu'            
 ,)0001 ,)'detaerCetad'(teg.ofni(enon_ro_taolf :'pmatsemit'            
 ,))'sweiVfOrebmun'(teg.ofni(enon_ro_tni :'tnuoc_weiv'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

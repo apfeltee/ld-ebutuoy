@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -293,4 +290,6 @@ kaerb
 ,}        
 ,514 :'tnuocnim_tsilyalp'        
 { ,}    
-,'sekil/hsI-epocsodielaK/em.div//:sptth' :'lru'        ]}    ,eurT :'gnihctam_ylno'        
+,'sekil/hsI-epocsodielaK/em.div//:sptth' :'lru'        
+,eurT :'gnihctam_ylno'        
+]}    

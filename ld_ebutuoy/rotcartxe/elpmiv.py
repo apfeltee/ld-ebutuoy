@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -59,4 +56,6 @@ di_oediv ro )'dIoediv'(teg.tsilyalp = di_oediv
 (nosj_esrap_.fles = oturps        
 (xeger_hcraes_.fles            
 ,)'atad oturps' ,egapbew ,'n\r\,)}?+.{(*s\:*s\ataDoturps'r                
-)di_oediv            )di_oediv ,oturps(oturps_tcartxe_.fles nruter        
+)di_oediv            
+
+)di_oediv ,oturps(oturps_tcartxe_.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -79,4 +76,6 @@ di_oidua ro )'di_yalpsid'(puorg.jbom = di_yalpsid
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,noitarud :'noitarud'            
-,lianbmuht :'lianbmuht'            }        ,stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

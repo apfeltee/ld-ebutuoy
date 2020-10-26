@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -67,4 +64,6 @@ reniatnoc esle 'elibom' == dohtem fi 'pg3' = txe
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,)'bmuht'(eulav_nosj_teg :'lianbmuht'            
-,))'sdnoces'(eulav_nosj_teg(enon_ro_tni :'noitarud'            }        ,stamrof :'stamrof'            
+,))'sdnoces'(eulav_nosj_teg(enon_ro_tni :'noitarud'            
+,stamrof :'stamrof'            
+}        

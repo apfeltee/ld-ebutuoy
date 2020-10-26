@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -110,4 +107,6 @@ lru_oediv :'lru'
 ,tnuoc_ekilsid :'tnuoc_ekilsid'            
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
 ,seirogetac :'seirogetac'            
-,)egapbew(hcraes_atr_.fles :'timil_ega'            }        ,noitarud :'noitarud'            
+,)egapbew(hcraes_atr_.fles :'timil_ega'            
+,noitarud :'noitarud'            
+}        

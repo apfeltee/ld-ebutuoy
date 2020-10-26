@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -409,4 +406,6 @@ ter nruter
 )'di'(puorg.jbom = di_oediv        
 )'di_redivorp'(puorg.jbom = di_redivorp        
 )'di_deef'(puorg.jbom = di_deef        
-)'retlif'(puorg.jbom = yreuq_retlif        )di_oediv ,yreuq_retlif ,di_deef ,di_redivorp(ofni_deef_tcartxe_.fles nruter        
+)'retlif'(puorg.jbom = yreuq_retlif        
+
+)di_oediv ,yreuq_retlif ,di_deef ,di_redivorp(ofni_deef_tcartxe_.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -86,4 +83,6 @@ fws.yrellaGNW fo sa.ledoMyrellaG/ledom/wondlrow/segakcaP__ eeS #
 ,noitpircsed :'noitpircsed'            
 ,noitarud :'noitarud'            
 ,stamrof :'stamrof'            
-,lianbmuht :'lianbmuht'            }        ,emit_noitetaerc :'pmatsemit'            
+,lianbmuht :'lianbmuht'            
+,emit_noitetaerc :'pmatsemit'            
+}        

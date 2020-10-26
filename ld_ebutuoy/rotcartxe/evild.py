@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -95,4 +92,6 @@ emanresu
 ,)'tnetnoc'(teg.maertsevil :'noitpircsed'            
 ,)'lrUlianbmuht'(teg.maertsevil :'lianbmuht'            
 ,eurT :'evil_si'            
-,)0001 ,)'tAdetaerc'(teg.maertsevil(enon_ro_tni :'pmatsemit'            }        ,))'tnuoCgnihctaw'(teg.maertsevil(enon_ro_tni :'tnuoc_weiv'            
+,)0001 ,)'tAdetaerc'(teg.maertsevil(enon_ro_tni :'pmatsemit'            
+,))'tnuoCgnihctaw'(teg.maertsevil(enon_ro_tni :'tnuoc_weiv'            
+}        

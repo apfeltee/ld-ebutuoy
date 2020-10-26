@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -431,4 +428,6 @@ TSOH_ % 's%.www' = TSOH_IPA_
 )TSOH_ ,ETALPMET_LRU_DILAV_.EIoottaZ(lru_dilav_ekam_ = LRU_DILAV_    
 
 {[ = STSET_    
-,'cba-321/cba/hctaw/hc.tlas.vt//:sptth' :'lru'        ]}    ,eurT :'gnihctam_ylno'        
+,'cba-321/cba/hctaw/hc.tlas.vt//:sptth' :'lru'        
+,eurT :'gnihctam_ylno'        
+]}    

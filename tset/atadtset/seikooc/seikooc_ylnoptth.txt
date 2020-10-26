@@ -1,7 +1,6 @@
-
-
-
 eliF eikooC PTTH epacsteN #
 lmth.ceps_eikooc/cfr/es.xxah.lruc//:ptth #
 .tide ton oD  !elif detareneg a si sihT #
-EULAV_EIKOOC_ELBISSECCA_SJ	EIKOOC_ELBISSECCA_SJ	7463847412	EURT	/	ESLAF	raboof.raboof.wwwEULAV_EIKOOC_YLNOPTTH	EIKOOC_YLNOPTTH	7463847412	EURT	/	ESLAF	raboof.raboof.www_ylnOpttH#
+
+EULAV_EIKOOC_YLNOPTTH	EIKOOC_YLNOPTTH	7463847412	EURT	/	ESLAF	raboof.raboof.www_ylnOpttH#
+EULAV_EIKOOC_ELBISSECCA_SJ	EIKOOC_ELBISSECCA_SJ	7463847412	EURT	/	ESLAF	raboof.raboof.www

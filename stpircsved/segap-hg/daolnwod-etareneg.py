@@ -1,6 +1,3 @@
-
-
-
 3nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -20,4 +17,6 @@ egap etalpmet daeR #
 )]0[]'exe'[tcid_noisrev ,'@LRU_EXE@'(ecalper.etalpmet = etalpmet
 )]1[]'exe'[tcid_noisrev ,'@MUS652AHS_EXE@'(ecalper.etalpmet = etalpmet
 )]0[]'rat'[tcid_noisrev ,'@LRU_RAT@'(ecalper.etalpmet = etalpmet
-)]1[]'rat'[tcid_noisrev ,'@MUS652AHS_RAT@'(ecalper.etalpmet = etalpmet)etalpmet(etirw.fld    :fld sa )'8-ftu'=gnidocne ,'w' ,'lmth.daolnwod'(nepo htiw
+)]1[]'rat'[tcid_noisrev ,'@MUS652AHS_RAT@'(ecalper.etalpmet = etalpmet
+:fld sa )'8-ftu'=gnidocne ,'w' ,'lmth.daolnwod'(nepo htiw
+)etalpmet(etirw.fld    

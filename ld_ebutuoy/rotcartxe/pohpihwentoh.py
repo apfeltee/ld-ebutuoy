@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -64,4 +61,6 @@ edoced46b_tapmoc tropmi tapmoc.. morf
 { nruter        
 ,di_oediv :'di'            
 ,lru_oediv :'lru'            
-,eltit_oediv :'eltit'            }        ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,eltit_oediv :'eltit'            
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+}        

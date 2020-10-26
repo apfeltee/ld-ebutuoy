@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -339,4 +336,6 @@ eunitnoc
 )TNIH_SLAITNEDERC_TNUOCCA_.fles + soediv_elbisseccanu %                
 
 )'eltiT'(teg.esruoc = eltit_esruoc        
-)'noitpircseD'(teg.esruoc = noitpircsed_esruoc        )noitpircsed_esruoc ,eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)'noitpircseD'(teg.esruoc = noitpircsed_esruoc        
+
+)noitpircsed_esruoc ,eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

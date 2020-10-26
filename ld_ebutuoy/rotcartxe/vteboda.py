@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootcnuf tropmi
@@ -286,4 +283,6 @@ eno xam eht kcip tsuj I .stamrof #
 ,eltit :'eltit'            
 ,)'noitpircsed'(teg.atad_oediv :'noitpircsed'            
 ,)'retsop'(teg.)}{ ,'oediv'(teg.atad_oediv :'lianbmuht'            
-,noitarud :'noitarud'            }        ,)'htaPttv' ,atad_oediv(seltitbus_esrap_.fles :'seltitbus'            
+,noitarud :'noitarud'            
+,)'htaPttv' ,atad_oediv(seltitbus_esrap_.fles :'seltitbus'            
+}        

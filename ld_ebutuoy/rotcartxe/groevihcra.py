@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -63,4 +60,6 @@ rotcartxEofnI tropmi nommoc. morf
 :'tsilyalp' =! )'epyt_'(teg.ofni fi        
 {(etadpu.ofni            
 ,)'rotaerc' ,atadatem(lanoitpo_teg :'redaolpu'                
-,))'etad' ,atadatem(lanoitpo_teg(etadrts_deifinu :'etad_daolpu'                ofni nruter        )}            
+,))'etad' ,atadatem(lanoitpo_teg(etadrts_deifinu :'etad_daolpu'                
+)}            
+ofni nruter        

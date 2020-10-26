@@ -1,6 +1,3 @@
-
-
-
 :siht ot ralimis kool dluohs tI .gnittamrof retteb rof `\`\`\ ni depparw ydob eussi eht ni ti tsop dna tuptuo **elohw** eht ypoc ,**enil dnammoc ruoy** ot galf `v-` **dda** .e.i ,**`v-` htiw nur nehw ld-ebutuoy fo tuptuo lluf eht edulcni esaelP**
 ```
 >enil dnammoc ruoy< v- ld-ebutuoy $
@@ -156,7 +153,7 @@ eulav A * #
 .)yp.srotcartxe/rotcartxe/ld_ebutuoy/retsam/bolb/ld-ebutuoy/gro-ldty/moc.buhtig//:sptth(]`yp.srotcartxe/rotcartxe/ld_ebutuoy`[ ni tropmi na ddA .5
 .ni detnuoc ton era tcid s'tset ni yek `gnihctam_ylno` htiw stset taht etoN .cte ,`2_rotcartxEruoY_tset.daolnwoDtseT` ,`1_rotcartxEruoY_tset.daolnwoDtseT` ,`rotcartxEruoY_tset.daolnwoDtseT` deman eb neht lliw stset ehT .seiranoitcid fo tsil a otni ti ekam dna ``STSET_`` ot ``TSET_`` emaner neht ,tset eno naht erom dda ot ediced uoy fI .enod er'uoy litnu ti nur-er yllaunitnoc nac uoy tub ,tsrif ta *liaf dluohs* sihT .`rotcartxEruoY_tset.daolnwoDtseT yp.daolnwod_tset/tset nohtyp` nuR .6
 .tnaw uoy sa ynam sa rof edoc dna stset ddA .)303L-49L#yp.nommoc/rotcartxe/ld_ebutuoy/8c3aa00214980a46ed7182bacb1abf3b895a14f7/bolb/ld-ebutuoy/gro-ldty/moc.buhtig//:sptth(]nruter yam dna dluohs rotcartxe ruoy tahw fo noitpircsed deliated[ a dna sdohtem repleh elbissop rof )yp.nommoc/rotcartxe/ld_ebutuoy/retsam/bolb/ld-ebutuoy/gro-ldty/moc.buhtig//:sptth(]`yp.nommoc/rotcartxe/ld_ebutuoy`[ ta kool a evaH .7
-:)tratskciuq#lmth.xedni/tsetal/ne/gro.aqcyp.8ekalf//:sptth(]8ekalf[ htiw edoc eht kcehc dna )snoitnevnoc-gnidoc-ld-ebutuoy#(]snoitnevnoc gnidoc ld-ebutuoy[ swollof edoc ruoy erus ekaM .8
+:)tratskciuq#lmth.xedni/tsetal/ne/gro.aqcyp.8ekalf//:ptth(]8ekalf[ htiw edoc eht kcehc dna )snoitnevnoc-gnidoc-ld-ebutuoy#(]snoitnevnoc gnidoc ld-ebutuoy[ swollof edoc ruoy erus ekaM .8
 
 yp.rotcartxeruoy/rotcartxe/ld_ebutuoy 8ekalf $        
 
@@ -432,4 +429,6 @@ nohtyp```
 }{ ro )tcid ,]0[]'oediv'[]'tluser'[x :x adbmal ,esnopser(teg_yrt = oediv
 )'yrammus'(teg.oediv = noitpircsed
 )0001=elacs ,)'sMnoitarud'(teg.oediv(enon_ro_taolf = noitarud
-))'sweiv'(teg.oediv(enon_ro_tni = tnuoc_weiv```
+))'sweiv'(teg.oediv(enon_ro_tni = tnuoc_weiv
+```
+

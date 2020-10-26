@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 #
 yb detaerc ,elif noitarugifnoc dliub noitatnemucod ld-ebutuoy #
@@ -69,4 +66,6 @@ rof noitatnemucod eht eeS  .segap pleH LMTH dna LMTH rof esu ot emeht ehT #
 ,selif citats nitliub eht retfa deipoc era yehT .yrotcerid siht ot evitaler #
 ."ssc.tluafed" nitliub eht etirwrevo lliw "ssc.tluafed" deman elif a os #
 ]'citats_'[ = htap_citats_lmth
-'codld-ebutuoy' = emanesab_plehlmth.redliub pleh LMTH rof eman esab elif tuptuO #
+
+.redliub pleh LMTH rof eman esab elif tuptuO #
+'codld-ebutuoy' = emanesab_plehlmth

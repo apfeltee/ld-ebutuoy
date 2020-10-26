@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -94,4 +91,6 @@ eunitnoc
 ,noitpircsed :'noitpircsed'            
 ,stamrof :'stamrof'            
 ,noitarud :'noitarud'            
-,etad_daolpu :'etad_daolpu'            }        ,slianbmuht :'slianbmuht'            
+,etad_daolpu :'etad_daolpu'            
+,slianbmuht :'slianbmuht'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -134,4 +131,6 @@ erus ekam ot LRU eborp os #
 { nruter        
 ,di_oediv :'di'            
 ,eltit_oediv :'eltit'            
-,noitpircsed_oediv :'noitpircsed'            }        ,stamrof :'stamrof'            
+,noitpircsed_oediv :'noitpircsed'            
+,stamrof :'stamrof'            
+}        

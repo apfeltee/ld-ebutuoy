@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -81,4 +78,6 @@ rbt % 'd%-' =+ di_tamrof
 ,)'noitpircsed'(teg.oediv :'noitpircsed'            
 ,)'retsop'(teg.oediv :'lianbmuht'            
 ,))'noitarud'(teg.oediv(enon_ro_tni :'noitarud'            
-,)0001 ,)'emiTdehsilbup'(teg.oediv(enon_ro_tni :'pmatsemit'            }        ,stamrof :'stamrof'            
+,)0001 ,)'emiTdehsilbup'(teg.oediv(enon_ro_tni :'pmatsemit'            
+,stamrof :'stamrof'            
+}        

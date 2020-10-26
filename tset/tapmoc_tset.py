@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -124,4 +121,6 @@ smeti.tnemelE_eerte_tapmoc
 :)fles(kcapnu_tcurts_tset fed    
 )),0( ,)'00x\'b ,'B!'(kcapnu_tcurts_tapmoc(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

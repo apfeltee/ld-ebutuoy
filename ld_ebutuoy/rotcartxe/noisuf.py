@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -82,4 +79,6 @@ stamrof = ]'stamrof'[ofni
 ,'lru' :'epyt_'                
 ,]'otavna'[]'sdi_oediv'[oediv + ':inu:otavna' :'lru'                
 ,'otavnA' :'yek_ei'                
-)}            ofni nruter        
+)}            
+
+ofni nruter        

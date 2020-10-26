@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -64,4 +61,6 @@ eurT :'gnihctam_ylno'
 ,)}                    
 ]'dIarutlak'[]'arutlak'[]'oediv'[]'tessAniam'[]'txetnoc'[]'atad'[)}                
 
-(tluser_lru.fles nruter        )di_yrtne=di_oediv ,)(yek_ei.EIarutlaK=ei            ,)di_yrtne ,DI_RENTRAP_.fles( % 's%:s%:arutlak'            
+(tluser_lru.fles nruter        
+,)di_yrtne ,DI_RENTRAP_.fles( % 's%:s%:arutlak'            
+)di_yrtne=di_oediv ,)(yek_ei.EIarutlaK=ei            

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -327,4 +324,6 @@ kaerb
 :latot > tesffo fi                
 kaerb                    
 
-TIMIL =+ tesffo            )yreuq ,seirtne(tluser_tsilyalp.fles nruter        
+TIMIL =+ tesffo            
+
+)yreuq ,seirtne(tluser_tsilyalp.fles nruter        

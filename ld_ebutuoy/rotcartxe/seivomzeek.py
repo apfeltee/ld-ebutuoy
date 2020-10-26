@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -131,4 +128,6 @@ esiar
 )eslaF=lataf ,lru(ofni_tcartxe_.fles = ofni ,egapbew        
 :]'stamrof'[ofni ton fi        
 )'cireneG' ,lru(tluser_lru.fles nruter            
-(xeger_hcraes_.fles(tni_ot_rts = ]'tnuoc_weiv'[ofni        ofni nruter        ))eslaF=lataf ,'tnuoc weiv' ,egapbew ,'?sweiV >b/<)+].,d\[(>b<'r            
+(xeger_hcraes_.fles(tni_ot_rts = ]'tnuoc_weiv'[ofni        
+))eslaF=lataf ,'tnuoc weiv' ,egapbew ,'?sweiV >b/<)+].,d\[(>b<'r            
+ofni nruter        

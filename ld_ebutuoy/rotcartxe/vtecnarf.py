@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -514,4 +511,6 @@ debme noitomyliaD #
 :]'smeti'[tsilyalp ni meti rof        
 )'ytitnedi'(teg.meti = ytitnedi            
 :)rts_tapmoc ,ytitnedi(ecnatsnisi dna ytitnedi fi            
-))ytitnedi(tluser_lru_ekam_.fles(dneppa.seirtne                )di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+))ytitnedi(tluser_lru_ekam_.fles(dneppa.seirtne                
+
+)di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

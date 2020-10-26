@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -126,4 +123,6 @@ TSEC ni si etad daolpu #
 ,pmatsemit :'pmatsemit'            
 ,))'htgnel'(teg.oediv(enon_ro_tni :'noitarud'            
 ,))'timil_ega'(teg.oediv(timil_ega_esrap :'timil_ega'            
-,sgat :'sgat'            }        ,stamrof :'stamrof'            
+,sgat :'sgat'            
+,stamrof :'stamrof'            
+}        

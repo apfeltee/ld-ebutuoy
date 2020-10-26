@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -153,7 +150,7 @@ edoc_kds = edoc_kds.fles
 :snoitcnuf_rehto ni noitcnuf file            
 )(]noitcnuf[snoitcnuf_rehto                
 :esle            
-)noitcnuf % 's% noitcnuf nwonknU'(rorrErotcartxE esiar                
+)noitcnuf % 's% noicnuf nwonknU'(rorrErotcartxE esiar                
 
 tegrat.kds nruter        
 
@@ -392,4 +389,6 @@ kaerb
 
 { nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            }        ,stamrof :'stamrof'            
+,eltit :'eltit'            
+,stamrof :'stamrof'            
+}        

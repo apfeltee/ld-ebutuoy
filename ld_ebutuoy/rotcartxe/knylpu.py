@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -68,4 +65,6 @@ di_lanretxe ro di_oediv = di_yalpsid
 )di_yalpsid ,lru(nosj_daolnwod_.fles = yalperp        
 htap % '8u3m.s%/moc.knylpu.tnetnoc//:ptth' = lru_tnetnoc        
 )'dis'(teg.yalperp = di_noisses        
-:di_noisses fi        )lru_tnetnoc(ofni_knylpu_tcartxe_.fles nruter        di_noisses + '=sbp?' =+ lru_tnetnoc            
+:di_noisses fi        
+di_noisses + '=sbp?' =+ lru_tnetnoc            
+)lru_tnetnoc(ofni_knylpu_tcartxe_.fles nruter        

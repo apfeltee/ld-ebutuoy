@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -119,4 +116,6 @@ stamrof = ]'stamrof'[ofni
 ,lianbmuht :'lianbmuht'            
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_ekil :'tnuoc_ekil'            
-,stamrof :'stamrof'            )}        ,81 :'timil_ega'            
+,stamrof :'stamrof'            
+,81 :'timil_ega'            
+)}        

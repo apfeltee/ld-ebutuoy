@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -343,4 +340,6 @@ eurT = ]'seltitbuslla'[smarap.LD.fles
 ))]'ne'[(tes ,))(syek.seltitbus(tes(lauqEtressa.fles        
 )'c51806d3b9c9176a54e9a42e989acaca' ,)]'ne'[seltitbus(5dm(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -104,4 +101,6 @@ ofni nruter
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_oediv        
-)di_oediv % 'iamaka.s%/soediv/moc.troperrehcaelb.div//:ptth'(ofni_deef_tcartxe_.fles = ofni        ofni nruter        di_oediv = ]'di'[ofni        
+)di_oediv % 'iamaka.s%/soediv/moc.troperrehcaelb.div//:ptth'(ofni_deef_tcartxe_.fles = ofni        
+di_oediv = ]'di'[ofni        
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 redaolnwoDeliF tropmi nommoc. morf
@@ -59,4 +56,6 @@ DFgepmFF nruter
 
 
 [ = __lla__
-,'redaolnwod_elbatius_teg'    ],'redaolnwoDeliF'    
+,'redaolnwod_elbatius_teg'    
+,'redaolnwoDeliF'    
+]

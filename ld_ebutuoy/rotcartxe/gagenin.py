@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -102,4 +99,6 @@ di_oediv_lanretxe % ]'lru'[]redivorp_oediv_lanretxe[REDIVORP_OEDIV_LANRETXE_.fle
 ,di_yalpsid :'di_yalpsid'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,tnuoc_weiv :'tnuoc_weiv'            }        ,lianbmuht :'lianbmuht'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,lianbmuht :'lianbmuht'            
+}        

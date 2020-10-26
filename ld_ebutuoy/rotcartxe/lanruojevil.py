@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -40,4 +37,6 @@ enon_ro_tni tropmi slitu.. morf
 ,eltit :'eltit'            
 ,)'lianbmuht'(teg.drocer :'lianbmuht'            
 ,))'etaercemit'(teg.drocer(enon_ro_tni :'pmatsemit'            
-,di_egarots + ':moc.lanruojevil.soediv.cv:mroftalpelgae' :'lru'            }        ,'mroftalPelgaE' :'yek_ei'            
+,di_egarots + ':moc.lanruojevil.soediv.cv:mroftalpelgae' :'lru'            
+,'mroftalPelgaE' :'yek_ei'            
+}        

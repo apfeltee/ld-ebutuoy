@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -18,7 +15,7 @@ rotcartxEofnI tropmi nommoc. morf
 :)rotcartxEofnI(EInesserpxE ssalc
 )x?('''r = LRU_DILAV_    
 //:?sptth                    
-/es.\)id|nesserpxe:?(?).\www:?(                        
+/es.\nesserpxe?).\www:?(                        
 ?)/)debme/reyalpoediv|oediv/eralepsvt:?(:?(                        
 *)/+]/^[:?(/vt                        
 )+]&#?/^[>di<P?(                        
@@ -45,16 +42,13 @@ rotcartxEofnI tropmi nommoc. morf
 { ,}    
 ,'id=dIrentrap&0=emuloVtrats&eurt=yalpotua&eurt=lanretxe&eurt=debme?/telav-rogva-mos-anrogarf-ra-rah-anretrepxe/noidutsimonoke/vtid/vt/debme/reyalpoediv/es.nesserpxe.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
-{ ,}    
-,'id=dIrentrap&0=emuloVtrats&eurt=yalpotua&eurt=lanretxe&eurt=debme?/nemmeldemesleryts-roh-neraimerpsrob-rednu--07-rasur-acitnalpmi/nogromsrob/vtid/vt/debme/reyalpoediv/es.id.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
 ]}    
 
 dohtemcitats@    
 :)egapbew(slru_tcartxe_ fed    
 [ nruter        
 (retidnif.er ni jbom rof )'lru'(puorg.jbom            
-,'1\)?+./vt/)debme/reyalpoediv|oediv/eralepsvt:?(/es.\)id|nesserpxe:?(?).\www:?(//?):?sptth:?(>lru<P?()]'\"[(=crsb\+]>^[emarfi<'r                
+,'1\)?+./vt/)debme/reyalpoediv|oediv/eralepsvt:?(/es.\nesserpxe?).\www:?(//?):?sptth:?(>lru<P?()]'\"[(=crsb\+]>^[emarfi<'r                
 ])egapbew                
 
 :)lru ,fles(tcartxe_laer_ fed    
@@ -99,4 +93,6 @@ dohtemcitats@
 ,noitpircsed :'noitpircsed'            
 ,lianbmuht :'lianbmuht'            
 ,noitarud :'noitarud'            
-,pmatsemit :'pmatsemit'            }        ,stamrof :'stamrof'            
+,pmatsemit :'pmatsemit'            
+,stamrof :'stamrof'            
+}        

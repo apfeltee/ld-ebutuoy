@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -103,4 +100,6 @@ dohtemcitats@
 ,redaolpu :'redaolpu'            
 (lru_evitaler_otorp_.fles :'lianbmuht'            
 ,)egapbew(lianbmuht_hcraes_go_.fles ro )'lianbmuht'(teg.ofni                
-,)':ptth'                ofni nruter        )}        
+,)':ptth'                
+)}        
+ofni nruter        

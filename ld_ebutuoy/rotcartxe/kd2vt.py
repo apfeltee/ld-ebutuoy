@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -152,4 +149,6 @@ eunitnoc
 
 { nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            }        ,stamrof :'stamrof'            
+,eltit :'eltit'            
+,stamrof :'stamrof'            
+}        

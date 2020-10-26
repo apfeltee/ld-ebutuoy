@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -922,4 +919,6 @@ stcid_ofni_dedaolnwod.ldy nruter
 )'xetset' ,]'rotcartxe'[dedaolnwod(lauqEtressa.fles        
 )'xEtseT' ,]'yek_rotcartxe'[dedaolnwod(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

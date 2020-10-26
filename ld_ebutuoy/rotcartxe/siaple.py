@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -93,4 +90,6 @@ enoN si xiffus_lianbmuht fi enoN
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
 ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
-,lianbmuht :'lianbmuht'            }        ,etad_daolpu :'etad_daolpu'            
+,lianbmuht :'lianbmuht'            
+,etad_daolpu :'etad_daolpu'            
+}        

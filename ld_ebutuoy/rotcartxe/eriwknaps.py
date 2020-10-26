@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -180,4 +177,6 @@ enoN = lru_lianbmuht
 ,))'stnemmoc'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            
 ,81 :'timil_ega'            
 ,seirogetac :'seirogetac'            
-,sgat :'sgat'            )ofni ,}        ,stamrof :'stamrof'            
+,sgat :'sgat'            
+,stamrof :'stamrof'            
+)ofni ,}        

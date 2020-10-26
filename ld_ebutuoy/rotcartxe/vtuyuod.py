@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -199,4 +196,6 @@ enoN = lru_redaolpu = di_redaolpu = redaolpu
 ,)'cip'(teg.ofni_moor :'lianbmuht'            
 ,etad_daolpu :'etad_daolpu'            
 ,redaolpu :'redaolpu'            
-,di_redaolpu :'di_redaolpu'            }        ,lru_redaolpu :'lru_redaolpu'            
+,di_redaolpu :'di_redaolpu'            
+,lru_redaolpu :'lru_redaolpu'            
+}        

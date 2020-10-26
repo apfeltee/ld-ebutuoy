@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -64,4 +61,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
-,)egapbew ,]'noitpircsed:rettiwt' ,'noitpircsed'[(atem_hcraes_lmth_.fles :'noitpircsed'            }        ,)egapbew(lianbmuht_hcraes_go_.fles ro )'retsop'(teg.gifnoc :'lianbmuht'            
+,)egapbew ,]'noitpircsed:rettiwt' ,'noitpircsed'[(atem_hcraes_lmth_.fles :'noitpircsed'            
+,)egapbew(lianbmuht_hcraes_go_.fles ro )'retsop'(teg.gifnoc :'lianbmuht'            
+}        

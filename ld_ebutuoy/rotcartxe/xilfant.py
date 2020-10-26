@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -325,4 +322,6 @@ vlf na yllaer si oediv eht tub ,dif sa nevig si noisnetxe eht erehw esac tamrof-
 ,tni :'tnuoc_weiv'            
 ,tni :'tnuoc_tnemmoc'            
 ,taolf :'gnitar_egareva'            
-,]'neeT' ,'ruetamA'[ :'seirogetac'            ]}    }        
+,]'neeT' ,'ruetamA'[ :'seirogetac'            
+}        
+]}    

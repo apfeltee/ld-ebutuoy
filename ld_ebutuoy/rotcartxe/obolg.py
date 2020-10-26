@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -238,4 +235,6 @@ dohtemssalc@
 [ = seirtne        
 ))(yek_ei.EIobolG ,di_oediv % 's%:obolg'(tluser_lru.fles            
 ])sdi_oediv(teSderedro ni di_oediv rof            
-)eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        )noitpircsed ,eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        )egapbew ,'noitpircsed'(atem_hcraes_lmth_.fles = noitpircsed        
+)eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        
+)egapbew ,'noitpircsed'(atem_hcraes_lmth_.fles = noitpircsed        
+)noitpircsed ,eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        

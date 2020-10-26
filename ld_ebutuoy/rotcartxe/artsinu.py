@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -65,4 +62,6 @@ seitilauq tropmi slitu.. morf
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,lianbmuht :'lianbmuht'            }        stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+stamrof :'stamrof'            
+}        

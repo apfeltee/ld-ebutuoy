@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -143,4 +140,6 @@ kaerb
 ,))di_gnos ,'di'(teg.esnopser_ipa(rts_tapmoc :'di'                    
 ,)'tsitra'(teg.esnopser_ipa :'redaolpu'                    
 ,)di_gnos ,'eltit'(teg.esnopser_ipa :'eltit'                    
-,]'lru'[esnopser_ipa :'lru'                    tluser nruter        )}                
+,]'lru'[esnopser_ipa :'lru'                    
+)}                
+tluser nruter        

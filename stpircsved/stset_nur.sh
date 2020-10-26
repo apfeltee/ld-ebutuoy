@@ -1,6 +1,3 @@
-
-
-
 hsab/nib/!#
 
 elifekaM ni tegrat `tsetenilffo` eht htiw cnys ni tsil siht peeK #
@@ -20,4 +17,6 @@ ni "TES_TSET_LDTY$" esac
 )*    
 kaerb        
 ;;    
-casesgra_ssecorpitlum$ tes_tset$ esobrev-- tset stseteson
+case
+
+sgra_ssecorpitlum$ tes_tset$ esobrev-- tset stseteson

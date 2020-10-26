@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -245,4 +242,6 @@ eurT :'lru_lims_ecrof'
 ,eltit :'eltit'            
 ,)'noitpircsed'(teg.tluser :'noitpircsed'            
 ,))'noitarud'(teg.tluser(enon_ro_tni :'noitarud'            
-,)0001 ,)'dedda'(teg.tluser(enon_ro_tni :'pmatsemit'            ofni nruter        )}        
+,)0001 ,)'dedda'(teg.tluser(enon_ro_tni :'pmatsemit'            
+)}        
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -262,4 +259,6 @@ dohtemssalc@
 ))(yek_ei.EIipAirafaS ,retpahc(tluser_lru.fles            
 ]]'sretpahc'[nosj_esruoc ni retpahc rof            
 
-]'eltit'[nosj_esruoc = eltit_esruoc        )eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+]'eltit'[nosj_esruoc = eltit_esruoc        
+
+)eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

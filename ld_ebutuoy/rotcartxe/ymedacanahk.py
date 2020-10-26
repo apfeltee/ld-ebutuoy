@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -80,4 +77,6 @@ cipot #
 ,'tsilyalp' :'epyt_'                
 ,di_oediv :'di'                
 ,]'eltit'[atad :'eltit'                
-,]'noitpircsed'[atad :'noitpircsed'                }            ,seirtne :'seirtne'                
+,]'noitpircsed'[atad :'noitpircsed'                
+,seirtne :'seirtne'                
+}            

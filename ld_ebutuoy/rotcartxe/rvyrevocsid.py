@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -57,4 +54,6 @@ eunitnoc
 ,)'lianbmuht'(teg.atad_oediv :'lianbmuht'            
 ,))'emiTnur'(teg.atad_oediv(noitarud_esrap :'noitarud'            
 ,stamrof :'stamrof'            
-,edosipe :'edosipe'            }        ,seires :'seires'            
+,edosipe :'edosipe'            
+,seires :'seires'            
+}        

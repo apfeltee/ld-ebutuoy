@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -148,4 +145,6 @@ kaerb
 ,))'rebmuNnosaes'(teg.oediv(enon_ro_tni :'rebmun_nosaes'            
 ,)'eman'(teg.oediv :'edosipe'            
 ,))'rebmuNedosipe'(teg.oediv(enon_ro_tni :'rebmun_edosipe'            
-,))'raeYesaeler'(teg.oediv(enon_ro_tni :'raey_esaeler'            }        ,seltitbus :'seltitbus'            
+,))'raeYesaeler'(teg.oediv(enon_ro_tni :'raey_esaeler'            
+,seltitbus :'seltitbus'            
+}        

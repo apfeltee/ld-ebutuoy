@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -367,4 +364,6 @@ txet.)'csed/ofni/atad/.'(dnif.egap_csed_regnis = csed_regnis
 )]'dimgnos'[gnos ,'cisuMQQ' ,'lmth.' + ]'dimgnos'[gnos + '/gnos/qqy/n/moc.qq.y//:sptth'            
 ]]'tsilgnos'[tsildc ni gnos rof            
 
-)'emanssid'(teg.tsildc = eman_tsil        )noitpircsed_tsil ,eman_tsil ,di_tsil ,seirtne(tluser_tsilyalp.fles nruter        )))'csed'(teg.tsildc(LMTHepacsenu(lmth_naelc = noitpircsed_tsil        
+)'emanssid'(teg.tsildc = eman_tsil        
+)))'csed'(teg.tsildc(LMTHepacsenu(lmth_naelc = noitpircsed_tsil        
+)noitpircsed_tsil ,eman_tsil ,di_tsil ,seirtne(tluser_tsilyalp.fles nruter        

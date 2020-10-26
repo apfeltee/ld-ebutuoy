@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -365,4 +362,6 @@ tni :'tnuoc_weiv'
 
 (xeger_hcraes_lmth_.fles = eman_tsilyalp        
 ,')+]<^[(>+]>^[3h<*s\>*]>^[tsilyalp_macitlum*]"^["=ssalc+]>^[vid<'r            
-)eslaF=lataf ,'eltit tsilyalp' ,egapbew            )eman_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)eslaF=lataf ,'eltit tsilyalp' ,egapbew            
+
+)eman_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

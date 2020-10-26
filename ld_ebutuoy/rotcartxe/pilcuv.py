@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -68,4 +65,6 @@ sepyt egap owt neewteb etanretla snwolc esehT #
 { nruter        
 ,di_oediv :'di'            
 ,stamrof :'stamrof'            
-,eltit :'eltit'            }        ,noitarud :'noitarud'            
+,eltit :'eltit'            
+,noitarud :'noitarud'            
+}        

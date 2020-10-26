@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -69,4 +66,6 @@ eurT = ]'talf_tcartxe'[smarap.ld
 :]'seirtne'[tluser ni yrtne rof        
 ))'eltit'(teg.yrtne(eurTtressa.fles            
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

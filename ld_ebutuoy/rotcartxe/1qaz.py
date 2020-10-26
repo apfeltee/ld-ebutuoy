@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -99,4 +96,6 @@ DL-NOSJ demroflam #
 ,}                
 ,]}            
 ,redaolpu :'redaolpu'            
-)}        ofni nruter        
+)}        
+
+ofni nruter        

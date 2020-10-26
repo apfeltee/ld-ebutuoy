@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -130,4 +127,6 @@ tim_stamrof ni f rof
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,ty :'lru'            }        ,'ebutuoY' :'yek_ei'            
+,ty :'lru'            
+,'ebutuoY' :'yek_ei'            
+}        

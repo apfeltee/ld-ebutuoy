@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -561,10 +558,8 @@ nekot + '/' =+ eltit_lluf
 
 :)EIduolcdnuoS(EIesaBtsilyalPdegaPduolcdnuoS ssalc
 :)eltit_tsilyalp ,di_tsilyalp ,lru_esab ,fles(tsilyalp_tcartxe_ fed    
-.002 si yreuq gninoitrap deknil a rof timil mumixam eht ,noitatnemucod duolCdnuoS eht reP #        
-detacerped-noitanigap-tesffo/golb/moc.duolcdnuos.srepoleved//:sptth #        
 { = YREUQ_NOMMOC        
-,002 :'timil'            
+,00008 :'timil'            
 ,'1' :'gninoititrap_deknil'            
 }        
 
@@ -813,4 +808,6 @@ kaerb
 :lru_txen ton fi            
 kaerb                
 
-:)n ,yreuq ,fles(stluser_n_teg_ fed    )yreuq=eltit_tsilyalp ,skcart(tluser_tsilyalp.fles nruter        )yreuq=q ,n=timil ,yreuq ,'skcart/hcraes'(noitcelloc_teg_.fles = skcart        
+:)n ,yreuq ,fles(stluser_n_teg_ fed    
+)yreuq=q ,n=timil ,yreuq ,'skcart/hcraes'(noitcelloc_teg_.fles = skcart        
+)yreuq=eltit_tsilyalp ,skcart(tluser_tsilyalp.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -45,4 +42,6 @@ moc.esuohdlosiht.www emarfi #
 )lru(di_hctam_.fles = di_yalpsid        
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_.fles = di_oediv        
-,')}42{]f-a9-0[(/epyz/soediv/)moc|dliub.\surohc:?(.\esuohdlosiht?).\www:?(//?):?sptth:?(]"'\[=crs+]>^[emarfi<'r            )di_oediv ,'epyZ' ,di_oediv % LPMT_EPYZ_.fles(tluser_lru.fles nruter        )'di oediv' ,egapbew            
+,')}42{]f-a9-0[(/epyz/soediv/)moc|dliub.\surohc:?(.\esuohdlosiht?).\www:?(//?):?sptth:?(]"'\[=crs+]>^[emarfi<'r            
+)'di oediv' ,egapbew            
+)di_oediv ,'epyZ' ,di_oediv % LPMT_EPYZ_.fles(tluser_lru.fles nruter        

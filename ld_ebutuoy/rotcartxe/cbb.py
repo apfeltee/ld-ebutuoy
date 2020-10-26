@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -1357,4 +1354,6 @@ segap lla ,tsilyalp egapitlum #
 ]}    
 
 :)egapbew ,fles(noitpircsed_dna_eltit_tcartxe_ fed    
-)eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        noitpircsed ,eltit nruter        )egapbew(noitpircsed_hcraes_go_.fles = noitpircsed        
+)eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        
+)egapbew(noitpircsed_hcraes_go_.fles = noitpircsed        
+noitpircsed ,eltit nruter        

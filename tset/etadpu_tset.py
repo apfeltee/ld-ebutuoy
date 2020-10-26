@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -28,4 +25,6 @@ yfirev_asr tropmi etadpu.ld_ebutuoy morf
 ,)'8-ftu'(edocne.)eurT=syek_tros ,ofni_snoisrev(spmud.nosj            
 ))YEK_ASR_SETADPU ,erutangis            
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

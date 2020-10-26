@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -311,4 +308,6 @@ eslaF nruter
 
 :)lru ,fles(tcartxe_laer_ fed    
 )yreuq.)lru(esraplru_esrap_billru_tapmoc(sq_esrap_tapmoc = sq        
-]0[]'epyt_lp'[sq = dnik_tsilyalp        )dnik_tsilyalp=dnik_meti ,di_tsilyalp(tsilyalp_tcartxe_.fles nruter        ]0[]'di_lp'[sq = di_tsilyalp        
+]0[]'epyt_lp'[sq = dnik_tsilyalp        
+]0[]'di_lp'[sq = di_tsilyalp        
+)dnik_tsilyalp=dnik_meti ,di_tsilyalp(tsilyalp_tcartxe_.fles nruter        

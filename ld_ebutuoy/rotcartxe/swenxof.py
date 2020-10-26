@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -125,4 +122,6 @@ debme emarfi #
 :di_oediv fi        
 (tluser_lru.fles nruter            
 ))(yek_ei.EIsweNxoF ,di_oediv + '/v/moc.swenxof.oediv//:ptth'                
-))(yek_ei.EIsweNxoF ,]0[)egapbew(slru_tcartxe_.EIsweNxoF            (tluser_lru.fles nruter        
+
+(tluser_lru.fles nruter        
+))(yek_ei.EIsweNxoF ,]0[)egapbew(slru_tcartxe_.EIsweNxoF            

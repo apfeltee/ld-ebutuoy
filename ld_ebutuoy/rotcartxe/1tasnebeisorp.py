@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -498,4 +495,6 @@ eunitnoc
 )egapbew ,lru(pilc_tcartxe_.fles nruter            
 :'tsilyalp' == epyt_egap file        
 )egapbew ,lru(tsilyalp_tcartxe_.fles nruter            
-:esle        )eurT=detcepxe ,epyt_egap % 's% epyt egap detroppusnU'                (rorrErotcartxE esiar            
+:esle        
+(rorrErotcartxE esiar            
+)eurT=detcepxe ,epyt_egap % 's% epyt egap detroppusnU'                

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -135,4 +132,6 @@ esiar
 ,))'rebmun'(teg.setubirtta(enon_ro_tni :'rebmun_edosipe'            
 ,))'diuu'(teg.edosipe(enon_ro_rts :'di_edosipe'            
 ,stamrof :'stamrof'            
-,)'di_lennahc'(teg.setubirtta :'di_lennahc'            }        ,))'htgnel'(teg.setubirtta(enon_ro_tni :'noitarud'            
+,)'di_lennahc'(teg.setubirtta :'di_lennahc'            
+,))'htgnel'(teg.setubirtta(enon_ro_tni :'noitarud'            
+}        

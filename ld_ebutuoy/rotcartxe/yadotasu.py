@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -61,4 +58,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,]'eltit'[atad_oediv :'eltit'            
 ,)'lianbmuht'(teg.atad_oediv :'lianbmuht'            
 ,)'noitpircsed'(teg.atad_oediv :'noitpircsed'            
-,))'htgnel'(teg.atad_oediv(noitarud_esrap :'noitarud'            }        ,'weNevocthgirB' :'yek_ei'            
+,))'htgnel'(teg.atad_oediv(noitarud_esrap :'noitarud'            
+,'weNevocthgirB' :'yek_ei'            
+}        

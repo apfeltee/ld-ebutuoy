@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -35,4 +32,6 @@ a htiW .ereht llits era atadatem yxorp a tuohtiW .detcirtser-oeG #
 ,eurT :'daolnwod_piks'            
 ,}        
 { ,}    
-,'103-pe-3-nosaes-ssik-a-tsuj-si-ssik-a-regnuoy/6zh0ui/sedosipe-lluf/moc.dnalvt.www//:ptth' :'lru'        ]}    ,eurT :'gnihctam_ylno'        
+,'103-pe-3-nosaes-ssik-a-tsuj-si-ssik-a-regnuoy/6zh0ui/sedosipe-lluf/moc.dnalvt.www//:ptth' :'lru'        
+,eurT :'gnihctam_ylno'        
+]}    

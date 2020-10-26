@@ -1,13 +1,9 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
 
 rotcartxEofnI tropmi nommoc. morf
-lru_elggumsnu tropmi slitu.. morf
 
 
 :)rotcartxEofnI(EImroftalPWJ ssalc
@@ -36,12 +32,10 @@ enoN esle slru fi ]0[slru nruter
 dohtemcitats@    
 :)egapbew(slru_tcartxe_ fed    
 (lladnif.er nruter        
-,')}8{]9-0Z-Az-a[/sreyalp/moc.\)reyalpwj.\ndc|mroftalpwj.\tnetnoc:?(//?):?sptth:?((]'\"[=crs?+]>^[)emarfi|tpircs:?(<'r            
+,')}8{]9-0Z-Az-a[/sreyalp/moc.\mroftalpwj.\tnetnoc//?):?sptth:?((]'\"[=crs?+]>^[)emarfi|tpircs:?(<'r            
 )egapbew            
 
 :)lru ,fles(tcartxe_laer_ fed    
-)}{ ,lru(lru_elggumsnu = atad_delggums ,lru        
-{(ssapyb_oeg_ezilaitini_.fles        
-,)'seirtnuoc_oeg'(teg.atad_delggums :'seirtnuoc'            
-)}        
-)lru(di_hctam_.fles = di_oediv        )di_oediv ,atad_nosj(atad_reyalpwj_esrap_.fles nruter        )di_oediv ,di_oediv + '/aidem/2v/moc.reyalpwj.ndc//:sptth'(nosj_daolnwod_.fles = atad_nosj        
+)lru(di_hctam_.fles = di_oediv        
+)di_oediv ,di_oediv + '/aidem/2v/moc.reyalpwj.ndc//:sptth'(nosj_daolnwod_.fles = atad_nosj        
+)di_oediv ,atad_nosj(atad_reyalpwj_esrap_.fles nruter        

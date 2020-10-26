@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -186,4 +183,6 @@ eunitnoc
 ]'tnetnoc'[]'gninepo'[elcitra = tnetnoc        
 )lru ,tnetnoc(tnetnoc_esrap_.fles = ofni        
 {(etadpu.ofni        
-,noitpircsed :'noitpircsed'            ofni nruter        )}        
+,noitpircsed :'noitpircsed'            
+)}        
+ofni nruter        

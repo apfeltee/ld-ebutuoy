@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -263,4 +260,6 @@ daolnwoDtseT ot meht dda dnA #
 )dohtem_tset ,__eman__.dohtem_tset ,daolnwoDtseT(rttates    
 dohtem_tset led    
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

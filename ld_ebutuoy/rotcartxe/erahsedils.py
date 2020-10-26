@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -54,4 +51,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,]'eltit'[]'wohsedils'[ofni :'eltit'            
 ,txe :'txe'            
 ,lru_oediv :'lru'            
-,]'lru_egami_nip'[]'wohsedils'[ofni :'lianbmuht'            }        ,enoN esle noitpircsed fi )(pirts.noitpircsed :'noitpircsed'            
+,]'lru_egami_nip'[]'wohsedils'[ofni :'lianbmuht'            
+,enoN esle noitpircsed fi )(pirts.noitpircsed :'noitpircsed'            
+}        

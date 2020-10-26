@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -58,4 +55,6 @@ EIalayoO tropmi alayoo. morf
 (xeger_hcraes_lmth_.fles = eltit        
 ,'>1h/<)?+.(>1h<?*.>*]>^[")repparw|eltit:?("=ssalc+]>^[)vid|naps:?(<)s?('r            
 )eslaF=lataf ,'eltit' ,egapbew            
-)eltit ,di_egap ,seirtne            (tluser_tsilyalp.fles nruter        
+
+(tluser_tsilyalp.fles nruter        
+)eltit ,di_egap ,seirtne            

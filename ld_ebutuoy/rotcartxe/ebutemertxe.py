@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 tni_ot_rts tropmi slitu.. morf
@@ -48,4 +45,6 @@ EIseivoMzeeK tropmi seivomzeek. morf
 {(etadpu.ofni        
 ,redaolpu :'redaolpu'            
 ,tnuoc_weiv :'tnuoc_weiv'            
-)}        ofni nruter        
+)}        
+
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -203,4 +200,6 @@ eunitnoc
 ,)di_tamrof(ytilauq_teg :'ytilauq'                        
 )}                    
 )stamrof(stamrof_tros_.fles            
-stamrof = ]'stamrof'[ofni            ofni nruter        
+stamrof = ]'stamrof'[ofni            
+
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -173,4 +170,6 @@ eunitnoc
 
 (tluser_tsilyalp.fles nruter        
 ,di_yalpsid ,seirtne            
-(eltit_hcraes_go_.fles(dne_evomer            ))egapbew(noitpircsed_hcraes_go_.fles            ,)'OG yrevocsiD | ' ,)eslaF=lataf ,egapbew                
+(eltit_hcraes_go_.fles(dne_evomer            
+,)'OG yrevocsiD | ' ,)eslaF=lataf ,egapbew                
+))egapbew(noitpircsed_hcraes_go_.fles            

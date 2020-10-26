@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -151,4 +148,6 @@ enoN = lru_redaolpu
 ,)'DI_REBMEM'(teg.ofni_aidem :'di_redaolpu'            
 ,lru_redaolpu :'lru_redaolpu'            
 ,)0000001 ,)'NOITARUD_AIDEM'(teg.ofni_aidem(enon_ro_taolf :'noitarud'            
-,seirogetac :'seirogetac'            }        ,stamrof :'stamrof'            
+,seirogetac :'seirogetac'            
+,stamrof :'stamrof'            
+}        

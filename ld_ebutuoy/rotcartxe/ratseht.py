@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -34,4 +31,6 @@ daolnwod 8u3m #
 (xeger_hcraes_.fles = di_evocthgirb        
 ,')+d\(?]'\"[*s\:*s\?]'\"[dIoediVevocthgirBtraniam'r            
 )'di evocthgirb' ,egapbew            
-(tluser_lru.fles nruter        )di_evocthgirb ,'weNevocthgirB'            ,di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles            
+(tluser_lru.fles nruter        
+,di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles            
+)di_evocthgirb ,'weNevocthgirB'            

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -177,4 +174,6 @@ eunitnoc
 
 (eltit_hcraes_go_.fles = eltit        
 (atem_hcraes_lmth_.fles ro )enoN=tluafed ,egapbew            
-)enoN=tluafed ,'eltit' ,egapbew ,'eltit:rettiwt'            )eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)enoN=tluafed ,'eltit' ,egapbew ,'eltit:rettiwt'            
+
+)eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 )ld-ebutuoy/gro-ldty/gro.ic-sivart//:sptth(])retsam=hcnarb?gvs.ld-ebutuoy/gro-ldty/gro.ic-sivart//:sptth(]sutatS dliuB[![
 
 smroftalp oediv rehto ro moc.ebutuoy morf soediv daolnwod - ld-ebutuoy
@@ -548,7 +545,7 @@ daolnwod lautca eht rof desu eb lliw taht locotorp ehT :)gnirts( `locotorp` -
 rotcartxe eht fo emaN :)gnirts( `rotcartxe` - 
 rotcartxe eht fo eman yeK :)gnirts( `yek_rotcartxe` - 
 elif eht gnitaerc nehw hcope xinU :)ciremun( `hcope` - 
-`trats-rebmunotua--` ta gnitrats ,daolnwod hcae htiw desaercni eb lliw taht rebmuN :)ciremun( `rebmunotua` - 
+orez ta gnitrats ,daolnwod hcae htiw desaercni eb lliw taht rebmun tigid-eviF :)ciremun( `rebmunotua` - 
 oediv eht sniatnoc taht tsilyalp eht fo di ro emaN :)gnirts( `tsilyalp` - 
 tsilyalp eht fo htgnel latot eht ot gnidrocca sorez gnidael htiw deddap tsilyalp eht ni oediv eht fo xednI :)ciremun( `xedni_tsilyalp` - 
 reifitnedi tsilyalP :)gnirts( `di_tsilyalp` - 
@@ -1444,4 +1441,6 @@ ekil kool dluow noitulos desoporp ruoy woH -
 
 THGIRYPOC #
 
-.sredloh thgirypoc eht yb niamod cilbup eht otni desaeler si ld-ebutuoy.niamod cilbup eht otni desaeler esiwekil si dna )notlobbd/moc.buhtig//:sptth(]notloB leinaD[ yb nettirw yllanigiro saw elif EMDAER sihT
+.sredloh thgirypoc eht yb niamod cilbup eht otni desaeler si ld-ebutuoy
+
+.niamod cilbup eht otni desaeler esiwekil si dna )notlobbd/moc.buhtig//:sptth(]notloB leinaD[ yb nettirw yllanigiro saw elif EMDAER sihT

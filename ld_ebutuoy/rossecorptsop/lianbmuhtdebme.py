@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -16,7 +13,6 @@ rossecorPtsoPgepmFF tropmi gepmff. morf
 ,emaneliFedocne    
 ,rorrEgnissecorPtsoP    
 ,noisnetxe_dneperp    
-,noisnetxe_ecalper    
 etouq_llehs    
 )
 
@@ -44,38 +40,6 @@ ofni ,][ nruter
 (gninraw_troper.redaolnwod_.fles            
 )'.gnissim si elif eht esuaceb lianbmuht eht gniddebme gnippikS'                
 ofni ,][ nruter            
-
-:)htap(pbew_si fed        
-:f sa )'br' ,)htap(emaneliFedocne(nepo htiw            
-)21(daer.f = b                
-'PBEW'b == ]:8[b dna 'FFIR'b == ]4:0[b nruter            
-
-)71752# ,78652# ees( noisnetxe gnorw htiw elif PbeW rof noisnetxe tcerroC #        
-)emanelif_lianbmuht(txetilps.htap.so = txe_lianbmuht ,_        
-:txe_lianbmuht fi        
-)(rewol.]:1[txe_lianbmuht = txe_lianbmuht            
-:)emanelif_lianbmuht(pbew_si dna 'pbew' =! txe_lianbmuht fi            
-(neercs_ot.redaolnwod_.fles                
-)emanelif_lianbmuht % '"s%" lianbmuht rof htap gnipacse dna pbew ot noisnetxe gnitcerroC ]gepmff['                    
-)'pbew' ,emanelif_lianbmuht(noisnetxe_ecalper = emanelif_pbew_lianbmuht                
-))emanelif_pbew_lianbmuht(emaneliFedocne ,)emanelif_lianbmuht(emaneliFedocne(emaner.so                
-emanelif_pbew_lianbmuht = emanelif_lianbmuht                
-'pbew' = txe_lianbmuht                
-
-)71752# ,78652# ees( GEPJ ot stamrof lianbmuht detroppusnu trevnoC #        
-:]'gnp' ,'gpj'[ ni ton txe_lianbmuht fi        
-krow ton seod siht tub %% htiw depacse eb ot desoppus si % :BN #            
-noitutitsbus dradnats htiw dnuora gnikrow os selif tupni rof #            
-)'#' ,'%'(ecalper.emanelif_lianbmuht = emanelif_lianbmuht_depacse            
-))emanelif_lianbmuht_depacse(emaneliFedocne ,)emanelif_lianbmuht(emaneliFedocne(emaner.so            
-)'gpj' ,emanelif_lianbmuht_depacse(noisnetxe_ecalper = emanelif_gpj_lianbmuht_depacse            
-)emanelif_lianbmuht_depacse % 'GEPJ ot "s%" lianbmuht gnitrevnoC ]gepmff['(neercs_ot.redaolnwod_.fles            
-)]'gepj2gepjm' ,'v:fsb-'[ ,emanelif_gpj_lianbmuht_depacse ,emanelif_lianbmuht_depacse(gepmff_nur.fles            
-))emanelif_lianbmuht_depacse(emaneliFedocne(evomer.so            
-)'gpj' ,emanelif_lianbmuht(noisnetxe_ecalper = emanelif_gpj_lianbmuht            
-gnissecorp rehtruf rof depacsenu ot kcab emaneR #            
-))emanelif_gpj_lianbmuht(emaneliFedocne ,)emanelif_gpj_lianbmuht_depacse(emaneliFedocne(emaner.so            
-emanelif_gpj_lianbmuht = emanelif_lianbmuht            
 
 :'3pm' == ]'txe'[ofni fi        
 [ = snoitpo            
@@ -124,4 +88,6 @@ elif yraropmet eht ot etaerc t'now #
 ))emanelif(emaneliFedocne(evomer.so                
 ))emanelif(emaneliFedocne ,)emanelif_pmet(emaneliFedocne(emaner.so                
 :esle        
-)'.won rof gniddebme lianbmuht rof detroppus era 4pm/a4m dna 3pm ylnO'(rorrEPPlianbmuhTdebmE esiar            ofni ,][ nruter        
+)'.won rof gniddebme lianbmuht rof detroppus era 4pm/a4m dna 3pm ylnO'(rorrEPPlianbmuhTdebmE esiar            
+
+ofni ,][ nruter        

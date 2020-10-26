@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -291,4 +288,6 @@ rebmun_edosipe % 'd%-edosipe' = di_oediv
 )egapbew(sedosipe_tcartxe        
 
 :seirtne ton fi        
-)di_emina ,egapbew(mlif_tcartxe            )noitpircsed_emina ,eltit_emina ,di_emina ,seirtne(tluser_tsilyalp.fles nruter        
+)di_emina ,egapbew(mlif_tcartxe            
+
+)noitpircsed_emina ,eltit_emina ,di_emina ,seirtne(tluser_tsilyalp.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -121,4 +118,6 @@ ydaerla tamrof tcerroc eht ni yltneinevnoc era slianbmuhT #
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_elcitra        
 )di_elcitra ,lru(egapbew_daolnwod_.fles = egapbew        
-(xeger_hcraes_.fles = di_oediv        )di_oediv ,)(yek_ei.EIJSW ,di_oediv % 's%:jsw'(tluser_lru.fles nruter        )'di oediv' ,egapbew ,')}63{]-9-0F-Af-a[(]'\"[=crs-atad'r            
+(xeger_hcraes_.fles = di_oediv        
+)'di oediv' ,egapbew ,')}63{]-9-0F-Af-a[(]'\"[=crs-atad'r            
+)di_oediv ,)(yek_ei.EIJSW ,di_oediv % 's%:jsw'(tluser_lru.fles nruter        

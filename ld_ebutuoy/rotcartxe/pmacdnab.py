@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 modnar tropmi
@@ -415,4 +412,6 @@ ssap
 ,'ylkeeW pmacdnaB' :'seires'            
 ,)'eltitbus'(teg.wohs :'edosipe'            
 ,rebmun_edosipe :'rebmun_edosipe'            
-,)di_oediv(rts_tapmoc :'di_edosipe'            }        stamrof :'stamrof'            
+,)di_oediv(rts_tapmoc :'di_edosipe'            
+stamrof :'stamrof'            
+}        

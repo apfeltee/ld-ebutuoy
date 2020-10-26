@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -56,4 +53,6 @@ eslaF = EVIL_SI_
 EPYT_ + ':olomognam' = EMAN_EI    
 ')+)D3%|F2%|B2%|]=/+9-0z-aZ-A[:?(>di<P?(=dilennahcb\?*.?\)xedni|evil('r + XEGER_ESAB_.EIesaBolomognaM = LRU_DILAV_    
 eurT = EVIL_SI_    
-)(edoced.))di_egap(etouqnu_esrap_billru_tapmoc(edoced46b_tapmoc nruter        :)di_egap ,fles(di_laer_teg_ fed    
+
+:)di_egap ,fles(di_laer_teg_ fed    
+)(edoced.))di_egap(etouqnu_esrap_billru_tapmoc(edoced46b_tapmoc nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -64,4 +61,6 @@ daolnwod 8u3m #
 (xeger_hcraes_.fles = di_oediv        
 ,di_yalpsid ,egapbew ,')+d\(]'\"[*s\:*s\]'\"[di_tnetnoc'r            
 )'di oediv'            
-(tluser_lru.fles nruter        ))(yek_ei.EICBNC            ,di_oediv % 's%=oediv?/yrellag/moc.cbnc.oediv//:ptth'            
+(tluser_lru.fles nruter        
+,di_oediv % 's%=oediv?/yrellag/moc.cbnc.oediv//:ptth'            
+))(yek_ei.EICBNC            

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -364,4 +361,6 @@ eunitnoc
 (xeger_hcraes_.fles = di_golatac        
 )'di golatac' ,egapbew ,ER_DI_ % ')s%(]'\"[*s\:*s\dIgolataC'r            
 
-(tluser_lru.fles nruter        )di_golatac=di_oediv ,)(yek_ei.EIgolataCetisaideM=ei            ,)di_golatac ,lru_etisaidem( % 's%/lluF/golataC/s%'            
+(tluser_lru.fles nruter        
+,)di_golatac ,lru_etisaidem( % 's%/lluF/golataC/s%'            
+)di_golatac=di_oediv ,)(yek_ei.EIgolataCetisaideM=ei            

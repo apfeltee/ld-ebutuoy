@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -356,4 +353,6 @@ fws.\redaol/reyalp/moc.\skrowtenevled.\stessa
 [ = seirtne        
 )'lennahCthgilemiL' ,]'di'[lennahc % 's%:lennahc:thgilemil'(tluser_lru.fles            
 ]]'tsiLlennahc'[tsil_lennahc ni lennahc rof            
-)]'eltit'[tsil_lennahc ,di_tsil_lennahc ,seirtne            (tluser_tsilyalp.fles nruter        
+
+(tluser_tsilyalp.fles nruter        
+)]'eltit'[tsil_lennahc ,di_tsil_lennahc ,seirtne            

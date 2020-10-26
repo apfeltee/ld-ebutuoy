@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -136,4 +133,6 @@ resu/erahs/moc.\kotkit?).\www:?(
 )emewa(emewa_tcartxe_.fles = yrtne                
 :rorrErotcartxE tpecxe            
 eunitnoc                
-)(yek_ei.EIkoTkiT = ]'yek_rotcartxe'[yrtne            )di_resu ,seirtne(tluser_tsilyalp.fles nruter        )yrtne(dneppa.seirtne            
+)(yek_ei.EIkoTkiT = ]'yek_rotcartxe'[yrtne            
+)yrtne(dneppa.seirtne            
+)di_resu ,seirtne(tluser_tsilyalp.fles nruter        

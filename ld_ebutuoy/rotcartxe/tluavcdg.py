@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -186,4 +183,6 @@ egap detacitnehtua eht morf lru eht barG #
 ,'tnerapsnart_lru' :'epyt_'            
 ,di_oediv :'di'            
 ,di_yalpsid :'di_yalpsid'            
-,lru_debme :'lru'            }        ,yek_ei :'yek_ei'            
+,lru_debme :'lru'            
+,yek_ei :'yek_ei'            
+}        

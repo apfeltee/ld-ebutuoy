@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -82,4 +79,6 @@ esraplru_tapmoc tropmi tapmoc.. morf
 ,noitpircsed :'noitpircsed'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
 ,etad_daolpu :'etad_daolpu'            
-,tnuoc_weiv :'tnuoc_weiv'            }        ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+}        

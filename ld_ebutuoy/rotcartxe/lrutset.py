@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -62,4 +59,6 @@ srotcartxe_gnihctam ni ei rof ei
 ,)))sesactset(nel ,mun(                    
 )eurT=detcepxe                
 
-)]'lru'[ct % 's% :LRU tseT'(neercs_ot.fles        )di_oediv=di_oediv ,]'lru'[ct(tluser_lru.fles nruter        
+)]'lru'[ct % 's% :LRU tseT'(neercs_ot.fles        
+
+)di_oediv=di_oediv ,]'lru'[ct(tluser_lru.fles nruter        

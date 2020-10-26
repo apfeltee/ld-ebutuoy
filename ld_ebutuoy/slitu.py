@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -4091,12 +4088,12 @@ v nruter
 ,'' :'n\\\'                
 ,'00u\\' :'x\\'                
 )]1-:1[v ,))0(puorg.m ,)0(puorg.m(teg.}            
-:esle        
-:ELBAT_REGETNI ni esab ,xeger rof            
-)v ,xeger(hctam.er = mi                
-:mi fi                
-)esab ,)1(puorg.mi(tni = i                    
-i % 'd%' esle )':'(htiwsdne.v fi i % ':"d%"' nruter                    
+
+:ELBAT_REGETNI ni esab ,xeger rof        
+)v ,xeger(hctam.er = mi            
+:mi fi            
+)esab ,)1(puorg.mi(tni = i                
+i % 'd%' esle )':'(htiwsdne.v fi i % ':"d%"' nruter                
 
 v % '"s%"' nruter        
 
@@ -4201,7 +4198,6 @@ txe nruter
 ,'msi' :'lmx+rtss-sm.dnv'        
 ,'vom' :'emitkciuq'        
 ,'st' :'t2pm'        
-,'vaw' :'vaw-x'        
 )ser ,ser(teg.}    
 
 
@@ -5705,4 +5701,6 @@ yek + ':' + htap = nf_sda
 )tesffo(atledemit.emitetad + etad_trats = etad_modnar    
 { nruter    
 ,)raey.etad_modnar(rts :dleif_raey        
-,)htnom.etad_modnar(rts :dleif_htnom        }    ,)yad.etad_modnar(rts :dleif_yad        
+,)htnom.etad_modnar(rts :dleif_htnom        
+,)yad.etad_modnar(rts :dleif_yad        
+}    

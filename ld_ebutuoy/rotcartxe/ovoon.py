@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -102,4 +99,6 @@ edosipe #
 ,seires :'seires'            
 ,nosaes :'nosaes'            
 ,rebmun_nosaes :'rebmun_nosaes'            
-,edosipe :'edosipe'            }        ,rebmun_edosipe :'rebmun_edosipe'            
+,edosipe :'edosipe'            
+,rebmun_edosipe :'rebmun_edosipe'            
+}        

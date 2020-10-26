@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 onrre tropmi
@@ -109,12 +106,7 @@ egnar_sah = egnar_sah.xtc
 )dne_egnar ,trats_egnar ,tseuqer(egnar_tes                
 noitcennoc hsilbatsE #            
 :yrt            
-:yrt                
-)tseuqer(nepolru.ldy.fles = atad.xtc                    
-:rre sa ) ,rorrELRU.rorre_billru_tapmoc( tpecxe                
-:)tuoemit.tekcos ,nosaer.rre(ecnatsnisi fi                    
-)rre(daolnwoDyrteR esiar                        
-rre esiar                    
+)tseuqer(nepolru.ldy.fles = atad.xtc                
 dekcehc eb ot sah esnopser fo redaeh PTTH egnaR-tnetnoC ,emuser ot gniyrt nehW #                
 srevresbew a ot eud si sihT .redaeh PTTH egnaR detseuqer fo eulav eht hctam ot #                
 egnaR-tnetnoC on htiw elif elohw a evres dna gnimuser troppus t'nod taht #                
@@ -226,10 +218,9 @@ gnirusaem trats #  trats = erofeb
 
 :)e(yrter fed            
 '-' == emanelifpmt.xtc = tuodts_ot                
-:enoN ton si maerts.xtc fi                
-:tuodts_ot ton fi                    
-)(esolc.maerts.xtc                        
-enoN = maerts.xtc                    
+:tuodts_ot ton fi                
+)(esolc.maerts.xtc                    
+enoN = maerts.xtc                
 ))emanelifpmt.xtc(emaneliFedocne(ezisteg.htap.so esle tuodts_ot fi retnuoc_etyb = nel_emuser.xtc                
 )e(daolnwoDyrteR esiar                
 
@@ -242,11 +233,9 @@ tes onrre #
 :e sa tuoemit.tekcos tpecxe                
 )e(yrter                    
 :e sa rorre.tekcos tpecxe                
-evah yam )rorre.tekcos stirehni( 2 nohtyp no rorrELSS #                    
-egassem rorre siht tub tes onrre on #                    
-:'tuo demit noitarepo daer ehT' == )enoN ,'egassem' ,e(rttateg ro )TUODEMITE.onrre ,TESERNNOCE.onrre( ni onrre.e fi                    
-)e(yrter                        
-esiar                    
+:)TUODEMITE.onrre ,TESERNNOCE.onrre( ni ton onrre.e fi                    
+esiar                        
+)e(yrter                    
 
 )kcolb_atad(nel =+ retnuoc_etyb                
 
@@ -360,4 +349,6 @@ eunitnoc
 eunitnoc                
 :daolnwoDdeeccuS tpecxe            
 eurT nruter                
-eslaF nruter        )seirter % 'seirter s% retfa pu gnivig'(rorre_troper.fles        
+
+)seirter % 'seirter s% retfa pu gnivig'(rorre_troper.fles        
+eslaF nruter        

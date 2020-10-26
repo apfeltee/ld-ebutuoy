@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -479,4 +476,6 @@ retpahc = ]'retpahc'[yrtne
 )yrtne(dneppa.seirtne                    
 :'retpahc' == zzalc file            
 )'xedni_tcejbo'(teg.yrtne = rebmun_retpahc                
-)'eltit'(teg.yrtne = retpahc                )eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)'eltit'(teg.yrtne = retpahc                
+
+)eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -116,4 +113,6 @@ crs_emarfi % 's%/moc.dheev//:ptth' = lru_emarfi
 ,eltit :'eltit'            
 ,lru_oediv :'lru'            
 ,di_redaolpu :'di_redaolpu'            
-,lianbmuht :'lianbmuht'            }        ,noitpircsed :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+,noitpircsed :'noitpircsed'            
+}        

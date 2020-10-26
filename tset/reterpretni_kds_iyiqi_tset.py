@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -46,4 +43,6 @@ rorre 655 PTTH na sworht llac etadilav/ ,tcerrocni si `ngis` fI
 )(nigol_.ei        
 )]0[segassem.reggol ni ':ni gol ot elbanu'(eurTtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

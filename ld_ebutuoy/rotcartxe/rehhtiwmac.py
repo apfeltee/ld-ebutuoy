@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -87,4 +84,6 @@ fws.reyalphwc morf dereenigne-esrever si mhtirogla noitcurtsnoc LRU oediV #
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
 ,redaolpu :'redaolpu'            
-,etad_daolpu :'etad_daolpu'            }        81 :'timil_ega'            
+,etad_daolpu :'etad_daolpu'            
+81 :'timil_ega'            
+}        

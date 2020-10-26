@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -89,4 +86,6 @@ di_yalpsid ro )'di oediv' ,'dip'(teg ro di_oediv = di_oediv
 ,di_yalpsid :'di_yalpsid'            
 ,eltit :'eltit'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
-,timil_ega :'timil_ega'            }        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -101,4 +98,6 @@ selif oidua rof txe tcerroc teg :ODOT #
 ,))'noitarud'(teg.ofni_aidem(enon_ro_tni :'noitarud'            
 ,))'sweiv_tnuoc'(teg.ofni_aidem(enon_ro_tni :'tnuoc_weiv'            
 ,))'sekil_tnuoc'(teg.ofni_aidem(enon_ro_tni :'tnuoc_ekil'            
-,))'stnemmoc_tnuoc'(teg.ofni_aidem(enon_ro_tni :'tnuoc_tnemmoc'            }        ,timil_ega :'timil_ega'            
+,))'stnemmoc_tnuoc'(teg.ofni_aidem(enon_ro_tni :'tnuoc_tnemmoc'            
+,timil_ega :'timil_ega'            
+}        

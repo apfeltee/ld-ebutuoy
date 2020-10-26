@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -80,4 +77,6 @@ nekot = ]'nekot'[yreuq
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,noitarud :'noitarud'            
-,pmatsemit :'pmatsemit'            }        ,stamrof :'stamrof'            
+,pmatsemit :'pmatsemit'            
+,stamrof :'stamrof'            
+}        

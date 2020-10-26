@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -89,4 +86,6 @@ egap tooR #  :esle
 
 ))egaptoor ,'>")+]"^[?\php.\egaPesruoC("=ferh a<'r(lladnif.er(teSderedro = sknil            
 (tluser_lru.fles[ = ]'seirtne'[ofni            
-)l(LMTHepacsenu % 's%/redloFniaM/ude.drofnats.moorssalcnepo//:ptth'                ofni nruter            ]sknil ni l rof )            
+)l(LMTHepacsenu % 's%/redloFniaM/ude.drofnats.moorssalcnepo//:ptth'                
+]sknil ni l rof )            
+ofni nruter            

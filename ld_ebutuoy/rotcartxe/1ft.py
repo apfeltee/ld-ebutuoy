@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -90,4 +87,6 @@ ssap
 (xeger_hcraes_lmth_.fles = di_taw            
 ,'1\)}8{d\>di<P?(?*./emarfdebme/vt.\taw.\www//?):?sptth:?()]'\"[('r(                
 ,)'2\)+d\>di<P?()?]'\"[(*s\:*s\1\dImaerts)?]'\"[('r                 
-)'di'=puorg ,'di taw' ,egapbew                )'taW' ,di_taw % 's%:taw'(tluser_lru.fles nruter        
+)'di'=puorg ,'di taw' ,egapbew                
+
+)'taW' ,di_taw % 's%:taw'(tluser_lru.fles nruter        

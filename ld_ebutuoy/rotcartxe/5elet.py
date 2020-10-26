@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -9,16 +6,18 @@ er tropmi
 rotcartxEofnI tropmi nommoc. morf
 EImroftalPWJ tropmi mroftalpwj. morf
 EIxxeN tropmi xxen. morf
-esraplru_tapmoc tropmi tapmoc.. morf
+( tropmi tapmoc.. morf
+,rts_tapmoc    
+,esraplru_tapmoc    
+)
 ( tropmi slitu.. morf
 ,TLUAFED_ON    
-,lru_elggums    
+,teg_yrt    
 )
 
 
 :)rotcartxEofnI(EI5eleT ssalc
 ')+]&#?/^[>di<P?(*)/+]/^[:?(/ed.\5elet?).\www:?(//:?sptth'r = LRU_DILAV_    
-]'ED'[ = SEIRTNUOC_OEG_    
 {[ = STSET_    
 ,'6149451=div?soediv/enilno-emlif/kehtaidem/ed.5elet.www//:sptth' :'lru'        
 { :'tcid_ofni'        
@@ -31,21 +30,6 @@ esraplru_tapmoc tropmi tapmoc.. morf
 { :'smarap'        
 ,eurT :'daolnwod_piks'            
 ,}        
-{ ,}    
-elbaliavanu xxen ,mroftalpwj #        
-,'/sretsnomfohdeirf-sed-sinmieheg-sad-luohg/emlif/ed.5elet.www//:sptth' :'lru'        
-{ :'tcid_ofni'        
-,'pUlOiuJW' :'di'            
-,'4pm' :'txe'            
-,'30600202' :'etad_daolpu'            
-,0044121951 :'pmatsemit'            
-,'sretsnomfohdeirF sed sinmieheG saD - luohG' :'eltit'            
-,'79d7318f1ac3b2b5d3ff788d1fa20024:5dm' :'noitpircsed'            
-,}        
-{ :'smarap'        
-,eurT :'daolnwod_piks'            
-,}        
-,])(yek_ei.EImroftalPWJ[ :'ei_dda'        
 { ,}    
 ,'1911551=di_ev?tfahcslleseg-dnu-kitilop/spilc-oediv/ebiehcsttam-sefoklak/ed.5elet.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
@@ -104,6 +88,15 @@ di_oediv = di_mroftalpwj
 :di_mroftalpwj ton fi            
 )'di mroftalpwj' ,ER_DI_MROFTALPWJ(di_tcartxe = di_mroftalpwj                
 
+(nosj_daolnwod_.fles = aidem            
+,di_mroftalpwj + '/aidem/2v/moc.reyalpwj.ndc//:sptth'                
+)di_yalpsid                
+(teg_yrt = di_xxen            
+)rts_tapmoc ,]'di_xxen'[]0[]'tsilyalp'[x :x adbmal ,aidem                
+
+:di_xxen fi            
+)di_xxen(tluser_xxen nruter                
+
 (tluser_lru.fles nruter        
-(lru_elggums            
-,di_mroftalpwj % 's%:mroftalpwj'                )di_mroftalpwj=di_oediv ,)(yek_ei.EImroftalPWJ=ei            ,)}SEIRTNUOC_OEG_.fles :'seirtnuoc_oeg'{                
+,)(yek_ei.EImroftalPWJ=ei ,di_mroftalpwj % 's%:mroftalpwj'            
+)di_mroftalpwj=di_oediv            

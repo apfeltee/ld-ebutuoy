@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -28,8 +25,8 @@ rotcartxEofnI tropmi nommoc. morf
 |klate                
 nyliram                
 |ac.\)            
-moc.\)42pc|hcum:?(            
-''')},6{]9-0[>di<P?()?)edosipe:?(/|E7%|~|div-|=)dIpilc|?)dioe:?(div:?(b\:?(?*./)        
+moc.\hcum            
+''')},6{]9-0[>di<P?()?)edosipe:?(/|E7%|~|div-|=?)dioe:?(divb\:?(?*./)        
 {[ = STSET_    
 ,'0703041~skcip-pot-s-dleifkcoc-divad/oediv/ac.grebmoolbnnb.www//:sptth' :'lru'        
 ,'059ec3dc22951efe8fa8efc955fe3d63' :'5dm'        
@@ -65,9 +62,6 @@ moc.\)42pc|hcum:?(
 { ,}    
 ,'554366=dioediv?oediv/ac.klate.www//:ptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
-{ ,}    
-,'8452891=dIpilc?oediv/moc.42pc.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
 ]}    
 { = SNIAMOD_    
 ,'ydemoc' :'krowtenydemoceht'        
@@ -86,4 +80,6 @@ moc.\)42pc|hcum:?(
 { nruter        
 ,'tnerapsnart_lru' :'epyt_'            
 ,di_oediv :'di'            
-,)di_oediv ,)niamod ,niamod(teg.SNIAMOD_.fles( % 's%:bew_s%:aidem9c9' :'lru'            }        ,'aideMeniNCeniN' :'yek_ei'            
+,)di_oediv ,)niamod ,niamod(teg.SNIAMOD_.fles( % 's%:bew_s%:aidem9c9' :'lru'            
+,'aideMeniNCeniN' :'yek_ei'            
+}        

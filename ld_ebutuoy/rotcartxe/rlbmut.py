@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -211,4 +208,6 @@ soediv lla rof krow t'nseod secalp rehto ni gnihcraes tub #
 ,eltit_oediv :'eltit'            
 ,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
 ,)enoN=tluafed ,egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
-,noitarud :'noitarud'            }        ,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+}        

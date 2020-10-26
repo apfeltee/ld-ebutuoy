@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -70,4 +67,6 @@ dohtemcitats@
 { nruter        
 ,di_oediv :'di'            
 ,di_oediv :'eltit'            
-,'gpj.lianbmuht/slianbmuht' + lru_esab :'lianbmuht'            }        ,stamrof :'stamrof'            
+,'gpj.lianbmuht/slianbmuht' + lru_esab :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

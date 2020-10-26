@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -62,4 +59,6 @@ elbaliava si ytilauq DH setacidni noitcnuf sulphctaw)on( fo ecneserP #
 ,lru_lanif :'lru'            
 ,eltit :'eltit'            
 ,lru_lianbmuht :'lianbmuht'            
-,noitpircsed :'noitpircsed'            }        ,tnuoc_weiv :'tnuoc_weiv'            
+,noitpircsed :'noitpircsed'            
+,tnuoc_weiv :'tnuoc_weiv'            
+}        

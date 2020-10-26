@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ etadrts_deifinu tropmi slitu.. morf
 ,)':ptth' ,)'egami'(teg.gnos(lru_evitaler_otorp_.fles :'lianbmuht'            
 ,)'htgnel'(teg.gnos :'noitarud'            
 ,))'ta_detaerc'(teg.gnos(etadrts_deifinu :'etad_daolpu'            
-,rohtua :'redaolpu'            }        ,)]'di'[]'resu'[gnos(rts_tapmoc :'di_redaolpu'            
+,rohtua :'redaolpu'            
+,)]'di'[]'resu'[gnos(rts_tapmoc :'di_redaolpu'            
+}        

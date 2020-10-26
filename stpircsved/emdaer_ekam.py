@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 oi tropmi
@@ -24,4 +21,6 @@ er tropmi
 'n\' + snoitpo + 'n\SNOITPO #' = snoitpo
 
 :f sa )'8-ftu'=gnidocne ,'w' ,ELIF_EMDAER(nepo.oi htiw
-)redaeh(etirw.f    )retoof(etirw.f    )snoitpo(etirw.f    
+)redaeh(etirw.f    
+)snoitpo(etirw.f    
+)retoof(etirw.f    

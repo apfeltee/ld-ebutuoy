@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -269,4 +266,6 @@ noitalipmoc siht ni snosaes oN #  :snosaes ton fi
 (egapbew_daolnwod_.fles = egap_nosaes                    
 ,)di_nosaes ,di_noitalipmoc( % 's%nosaes/s%/hctaw/ur.ivi.www//:ptth'                        
 )di_nosaes % 'egap bew s% nosaes gnidaolnwoD' ,di_noitalipmoc                        
-))di_noitalipmoc ,egap_nosaes(seirtne_tcartxe_.fles(dnetxe.seirtne                    )eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+))di_noitalipmoc ,egap_nosaes(seirtne_tcartxe_.fles(dnetxe.seirtne                    
+
+)eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

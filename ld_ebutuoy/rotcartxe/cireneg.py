@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -1712,15 +1709,6 @@ revres arutlak motsuc no derots oediv #
 ,]'arutlaK'[ :'ei_dda'            
 ,}        
 {        
-wfsn ,sdebme arutlak elpitlum #            
-,'lmth.eimodas-emiaj-oediv-ceva-alimak/semmef/evirp/eb.eguor-reitrauq.www//:sptth' :'lru'            
-{ :'tcid_ofni'            
-,'eimodas-emiaj-oediv-ceva-alimak' :'di'                
-,"ùÄ‚eimodas emia'JúÄ‚ oed≠√v ceva alimaK" :'eltit'                
-,}            
-,8 :'tnuoc_tsilyalp'            
-,}        
-{        
 debme oemiV dradnats-noN #            
 ,'bew-eht-gnidnatsrednu/sesruoc/moc.smoorssalcnepo//:sptth' :'lru'            
 ,'a08d88bbc83b87a9dfa963d7c1f68d46' :'5dm'            
@@ -2856,12 +2844,9 @@ debme skipaZ rof kooL #
 )'skipaZ' ,)'lru'(puorg.jbom(tluser_lru.fles nruter            
 
 sdebme arutlaK rof kooL #        
-)egapbew(slru_tcartxe_.EIarutlaK = slru_arutlak        
-:slru_arutlak fi        
-(sehctam_morf_tsilyalp.fles nruter            
-,eltit_oediv ,di_oediv ,slru_arutlak                
-,)}lru :'lru_ecruos'{ ,x(lru_elggums :x adbmal=retteg                
-))(yek_ei.EIarutlaK=ei                
+)egapbew(lru_tcartxe_.EIarutlaK = lru_arutlak        
+:lru_arutlak fi        
+))(yek_ei.EIarutlaK ,)}lru :'lru_ecruos'{ ,lru_arutlak(lru_elggums(tluser_lru.fles nruter            
 
 sdebme mroftalPelgaE rof kooL #        
 )egapbew(lru_tcartxe_.EImroftalPelgaE = lru_mroftalpelgae        
@@ -3457,4 +3442,6 @@ eltit a evah t'nod stluser 'lru' #
 :enoN ton si )'eltit'(teg.e fi                
 )mun ,]'eltit'[e( % ')d%( s%' = ]'eltit'[e                    
 { nruter            
-,'tsilyalp' :'epyt_'                }            ,seirtne :'seirtne'                
+,'tsilyalp' :'epyt_'                
+,seirtne :'seirtne'                
+}            

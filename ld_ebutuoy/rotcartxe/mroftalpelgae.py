@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -204,4 +201,6 @@ lru_tamrof = ]'lru'[f
 ,lianbmuht :'lianbmuht'            
 ,noitarud :'noitarud'            
 ,tnuoc_weiv :'tnuoc_weiv'            
-,timil_ega :'timil_ega'            }        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+}        

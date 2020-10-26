@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -78,4 +75,6 @@ s%.\+d\.\elcitra.\evocthgirb]'"[*s\=*s\eulav+s\gnirtS.\gnal.\avaj
 lanoitnetni si siht #  ,)'emaNedosipe'                
 ,))'rebmuNnosaes'(teg.tnetnoc(enon_ro_tni :'rebmun_nosaes'            
 ,eltit :'edosipe'            
-,))'rebmuNedosipe'(teg.tnetnoc(enon_ro_tni :'rebmun_edosipe'            }        ,)][ ,'sgat'(teg.tnetnoc :'sgat'            
+,))'rebmuNedosipe'(teg.tnetnoc(enon_ro_tni :'rebmun_edosipe'            
+,)][ ,'sgat'(teg.tnetnoc :'sgat'            
+}        

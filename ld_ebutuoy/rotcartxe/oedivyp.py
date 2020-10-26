@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -70,4 +67,6 @@ enon_ro_tni tropmi slitu.. morf
 ,di_oediv :'di'                        
 ,lru_aidem :'lru'                        
 ,eltit :'eltit'                        
-)}                    )di_oediv ,seirtne(tluser_tsilyalp.fles nruter        
+)}                    
+
+)di_oediv ,seirtne(tluser_tsilyalp.fles nruter        

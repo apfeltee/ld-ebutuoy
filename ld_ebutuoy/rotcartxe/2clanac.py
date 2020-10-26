@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -71,4 +68,6 @@ noitarud_esrap tropmi slitu.. morf
 ,eltit :'eltit'            
 (xeger_hcraes_.fles(noitarud_esrap :'noitarud'            
 ,')+]<^[(>*]>^[]'\"[eerud_oediv]'\"[=di'r                
-,))eslaF=lataf ,'noitarud' ,egapbew                ofni nruter        )}        
+,))eslaF=lataf ,'noitarud' ,egapbew                
+)}        
+ofni nruter        

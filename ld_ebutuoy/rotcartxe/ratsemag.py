@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -63,4 +60,6 @@ eno tsrif eht ylno sdnif dl_nosj_hcraes_ elihw #
 ,'4pm' :'txe'            
 ,tnuoc_weiv :'tnuoc_weiv'            
 tnuoc_tnemmoc :'tnuoc_tnemmoc'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

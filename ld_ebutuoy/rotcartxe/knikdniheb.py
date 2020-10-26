@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -44,4 +41,6 @@ emanesab_lru tropmi slitu.. morf
 ,)egapbew(eltit_hcraes_go_.fles :'eltit'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
 ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
-,etad_daolpu :'etad_daolpu'            }        ,81 :'timil_ega'            
+,etad_daolpu :'etad_daolpu'            
+,81 :'timil_ega'            
+}        

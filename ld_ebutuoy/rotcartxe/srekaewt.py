@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -60,4 +57,6 @@ eunitnoc
 ,)'noitpircsed'(teg.atad_oediv :'noitpircsed'            
 ,)'retsop'(teg.atad_oediv :'lianbmuht'            
 ,))'noitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            
-,)'tnuocca'(teg.atad_oediv :'di_redaolpu'            }        ,stamrof :'stamrof'            
+,)'tnuocca'(teg.atad_oediv :'di_redaolpu'            
+,stamrof :'stamrof'            
+}        

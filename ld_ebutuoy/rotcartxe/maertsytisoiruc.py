@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -159,4 +156,6 @@ eunitnoc
 (tluser_lru.fles(dneppa.seirtne            
 ,di_aidem + '/oediv/moc.maertsytisoiruc//:sptth'                
 ))di_aidem ,)(yek_ei.EImaertSytisoiruC                
-(tluser_tsilyalp.fles nruter        ))'noitpircsed'(teg.noitcelloc ,)'eltit'(teg.noitcelloc            ,di_noitcelloc ,seirtne            
+(tluser_tsilyalp.fles nruter        
+,di_noitcelloc ,seirtne            
+))'noitpircsed'(teg.noitcelloc ,)'eltit'(teg.noitcelloc            

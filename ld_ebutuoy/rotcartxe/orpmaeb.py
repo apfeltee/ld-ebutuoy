@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -192,4 +189,6 @@ enoN = lru_lianbmuht
 ,))'latoTsweiv'(teg.ofni_dov(enon_ro_tni :'tnuoc_weiv'            
 ,stamrof :'stamrof'            
 }        
-))}{ ro )'lennahc'(teg.ofni_dov(ofni_lennahc_tcartxe_.fles(etadpu.ofni        ofni nruter        
+))}{ ro )'lennahc'(teg.ofni_dov(ofni_lennahc_tcartxe_.fles(etadpu.ofni        
+
+ofni nruter        

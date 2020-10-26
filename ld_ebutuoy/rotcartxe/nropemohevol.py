@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -35,4 +32,6 @@ EIesaBoveuN tropmi oveun. morf
 )di_oediv            
 {(etadpu.ofni        
 ,di_yalpsid :'di_yalpsid'            
-81 :'timil_ega'            ofni nruter        )}        
+81 :'timil_ega'            
+)}        
+ofni nruter        

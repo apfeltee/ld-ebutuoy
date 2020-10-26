@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -78,4 +75,6 @@ esiar
 
 :)RID_TSET(ridtsil.so ni eliftset rof
 )eliftset(cnuftset_ekam_    
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

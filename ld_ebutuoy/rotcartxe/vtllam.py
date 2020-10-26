@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -11,7 +8,7 @@ stcid_egrem tropmi slitu.. morf
 
 
 :)rotcartxEofnI(EIVTllaM ssalc
-')+]&#?/^[>di<P?(*)/+]/^[:?(/vt.\llam?).\)ks|www:?(:?(//:?sptth'r = LRU_DILAV_    
+')+]&#?/^[>di<P?(*)/+]/^[:?(/vt.\llam?).\www:?(//:?sptth'r = LRU_DILAV_    
 {[ = STSET_    
 ,'ecivajip-insit-v-kevolc-oben-icvotrops-uosj-udvarpo-ykvoksizen-orp-drailim-81/vt.llam.www//:sptth' :'lru'        
 ,'815e85434b7a3013203f1e080f73a4c1' :'5dm'        
@@ -28,9 +25,6 @@ stcid_egrem tropmi slitu.. morf
 }        
 { ,}    
 ,'ecivajip-insit-v-kevolc-oben-icvotrops-uosj-udvarpo-ykvoksizen-orp-drailim-81/italp-ot-odk/vt.llam.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'akcakeps-obela-alpet-kinboryv-ejerhen-aicamalker/suahmjeg/vt.llam.ks//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 ]}    
 
@@ -54,4 +48,6 @@ stcid_egrem tropmi slitu.. morf
 ,di_oediv :'di'            
 ,di_yalpsid :'di_yalpsid'            
 ,di_yalpsid ro )enoN=tluafed ,egapbew(eltit_hcraes_go_.fles :'eltit'            
-,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            )}        ,)enoN=tluafed ,egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,)enoN=tluafed ,egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+)}        

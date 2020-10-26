@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -44,4 +41,6 @@ di_oediv % 's%/debme/moc.daolpuruoy.www//:ptth' = lru_debme
 ,lru_oediv :'lru'            
 ,lianbmuht :'lianbmuht'            
 { :'sredaeh_ptth'            
-,lru_debme :'rerefeR'                }        ,}            
+,lru_debme :'rerefeR'                
+,}            
+}        

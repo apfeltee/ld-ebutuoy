@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -113,4 +110,6 @@ enoN = etad_daolpu
 ,))'tarud_yrtne'(teg.rtta(noitarud_esrap :'noitarud'            
 ,etad_daolpu :'etad_daolpu'            
 ,)'eltit_lennahc'(teg.rtta :'redaolpu'            
-,)'yekdi_lennahc'(teg.rtta :'di_redaolpu'            }        ,stamrof :'stamrof'            
+,)'yekdi_lennahc'(teg.rtta :'di_redaolpu'            
+,stamrof :'stamrof'            
+}        

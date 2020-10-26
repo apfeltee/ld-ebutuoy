@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -15,4 +12,6 @@ PPeltiTmorFatadateM tropmi rossecorptsop.ld_ebutuoy morf
 
 
 :)esaCtseT.tsettinu(eltiTmorFatadateMtseT ssalc
-:)fles(xeger_ot_tamrof_tset fed    )')+.>tsitra<P?( \-\ \)+.>eltit<P?('r ,xegereltit_.pp(lauqEtressa.fles        )'s)tsitra(% - s)eltit(%' ,enoN(PPeltiTmorFatadateM = pp        
+:)fles(xeger_ot_tamrof_tset fed    
+)'s)tsitra(% - s)eltit(%' ,enoN(PPeltiTmorFatadateM = pp        
+)')+.>tsitra<P?( \-\ \)+.>eltit<P?('r ,xegereltit_.pp(lauqEtressa.fles        

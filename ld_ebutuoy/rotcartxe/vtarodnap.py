@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -132,4 +129,6 @@ eunitnoc
 ,)'emankcin'(teg.ofni :'redaolpu'            
 ,)'diresu_daolpu'(teg.ofni :'di_redaolpu'            
 ,))'tih'(teg.ofni(tni_ot_rts :'tnuoc_weiv'            
-,))'tncekil'(teg.ofni(tni_ot_rts :'tnuoc_ekil'            }        ,stamrof :'stamrof'            
+,))'tncekil'(teg.ofni(tni_ot_rts :'tnuoc_ekil'            
+,stamrof :'stamrof'            
+}        

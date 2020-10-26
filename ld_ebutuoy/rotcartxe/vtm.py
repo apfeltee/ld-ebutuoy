@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -472,4 +469,6 @@ daolnwod pmtr #
 
 :)iru ,fles(yreuq_deef_teg_ fed    
 { nruter        
-,'ed.vtm' :'pEcra'            }        ,iru :'digm'            
+,'ed.vtm' :'pEcra'            
+,iru :'digm'            
+}        

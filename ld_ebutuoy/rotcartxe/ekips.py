@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnIsecivreSVTM tropmi vtm. morf
@@ -53,4 +50,6 @@ daolnwod 8u3m #
 
 :)epyt_atad ,atad(atad_bus_dnif fed        
 )epyt_atad == )'epyt'(teg.c fi ]'nerdlihc'[atad ni c rof c(txen nruter            
-]'iru'[]'gifnoc'[]'oediv'[]'aidem'[]'sporp'[c nruter        )'reyalPoediV' ,)'reniatnoCniaM' ,atad_toor(atad_bus_dnif(atad_bus_dnif = c        
+
+)'reyalPoediV' ,)'reniatnoCniaM' ,atad_toor(atad_bus_dnif(atad_bus_dnif = c        
+]'iru'[]'gifnoc'[]'oediv'[]'aidem'[]'sporp'[c nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -63,4 +60,6 @@ nosj_ot_sj tropmi slitu.. morf
 ,]'div'[ofni :'di'            
 ,]'tcejbuS'[ofni :'eltit'            
 ,0.0001 / )]'noitarud'[ofni(tni :'noitarud'            
-,stamrof :'stamrof'            }        ,)'gmi'(teg.ofni ro )'gmib'(teg.ofni :'lianbmuht'            
+,stamrof :'stamrof'            
+,)'gmi'(teg.ofni ro )'gmib'(teg.ofni :'lianbmuht'            
+}        

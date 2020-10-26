@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -159,4 +156,6 @@ eunitnoc
 ,))'noitaruDlaer'(teg.atad(enon_ro_taolf :'noitarud'            
 ,))'morFevil'(teg.atad(enon_ro_tni :'pmatsemit'            
 ,)'lebaLmargorp'(teg.atad :'seires'            
-,seltitbus :'seltitbus'            }        ,evil_si :'evil_si'            
+,seltitbus :'seltitbus'            
+,evil_si :'evil_si'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -138,4 +135,6 @@ ofni nruter
 ,rebmun_retpahc :'rebmun_retpahc'                            
 )}                        
 )'esruoC ' ,eltit(dne_evomer = eltit                    
-)noitpircsed ,eltit ,di_yalpsid ,seirtne                (tluser_tsilyalp.fles nruter            
+
+(tluser_tsilyalp.fles nruter            
+)noitpircsed ,eltit ,di_yalpsid ,seirtne                

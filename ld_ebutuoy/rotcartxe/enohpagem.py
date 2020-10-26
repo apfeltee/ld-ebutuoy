@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -53,4 +50,6 @@ nosj_ot_sj tropmi slitu.. morf
 }        
 
 dohtemssalc@    
-:)egapbew ,slc(slru_tcartxe_ fed    ])egapbew ,LRU_DILAV_.slc % ')s%(]'\"[=crss\?*]>^[emarfi<'r            (lladnif.er ni m rof ]0[m[ nruter        
+:)egapbew ,slc(slru_tcartxe_ fed    
+(lladnif.er ni m rof ]0[m[ nruter        
+])egapbew ,LRU_DILAV_.slc % ')s%(]'\"[=crss\?*]>^[emarfi<'r            

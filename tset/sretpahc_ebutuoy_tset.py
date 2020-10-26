@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
@@ -270,7 +267,9 @@ noitarud naht erom tniop emit #
 :SESAC_TSET_.fles ni sretpahc_detcepxe ,noitarud ,noitpircsed rof        
 )(EIebutuoY = ei            
 (eulav_tcepxe            
-,)noitarud ,noitpircsed(noitpircsed_morf_sretpahc_tcartxe_.ei ,fles                
+,)noitarud ,noitpircsed(sretpahc_tcartxe_.ei ,fles                
 )enoN ,sretpahc_detcepxe                
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -170,4 +167,6 @@ enoN = tnuoc_tnemmoc
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_ekil :'tnuoc_ekil'            
 ,tnuoc_ekilsid :'tnuoc_ekilsid'            
-,tnuoc_tnemmoc :'tnuoc_tnemmoc'            }        ,seirogetac :'seirogetac'            
+,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+,seirogetac :'seirogetac'            
+}        

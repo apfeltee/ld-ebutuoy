@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -31,4 +28,6 @@ rotcartxEofnI tropmi nommoc. morf
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = eman_margorp        
 )eman_margorp ,lru(egapbew_daolnwod_.fles = egapbew        
-(xeger_hcraes_.fles = di_evocthgirb        )di_evocthgirb ,'weNevocthgirB' ,di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles(tluser_lru.fles nruter        )'di evocthgirb' ,egapbew ,''\)?+.('\(\oediVsegaPredneR'r            
+(xeger_hcraes_.fles = di_evocthgirb        
+)'di evocthgirb' ,egapbew ,''\)?+.('\(\oediVsegaPredneR'r            
+)di_evocthgirb ,'weNevocthgirB' ,di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles(tluser_lru.fles nruter        

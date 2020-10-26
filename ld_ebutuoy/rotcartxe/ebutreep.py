@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -598,4 +595,6 @@ enoN = timil_ega
 ,timil_ega :'timil_ega'            
 ,)tsil ,]'sgat'[x :x adbmal ,oediv(teg_yrt :'sgat'            
 ,seirogetac :'seirogetac'            
-,stamrof :'stamrof'            }        seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+seltitbus :'seltitbus'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -140,4 +137,6 @@ di_oediv esle evil fi )di_oediv(eltit_evil_.fles = eltit
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,evil :'evil_si'            }        ,stamrof :'stamrof'            
+,evil :'evil_si'            
+,stamrof :'stamrof'            
+}        

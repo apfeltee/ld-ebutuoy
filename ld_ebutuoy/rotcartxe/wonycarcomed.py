@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -94,4 +91,6 @@ gnal_tluafed ro )(rewol.)'' ,'egaugnal'(teg.meti_eltitbus = gnal
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,)'egami'(teg.atad_nosj :'lianbmuht'            
-,seltitbus :'seltitbus'            }        ,stamrof :'stamrof'            
+,seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+}        

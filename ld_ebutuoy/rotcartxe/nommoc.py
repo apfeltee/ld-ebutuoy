@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -13,7 +10,6 @@ so tropmi
 modnar tropmi
 er tropmi
 tekcos tropmi
-lss tropmi
 sys tropmi
 emit tropmi
 htam tropmi
@@ -71,7 +67,6 @@ htam tropmi
 ,tseuqeR_dezitinas    
 ,emanelif_ezitinas    
 ,enon_ro_rts    
-,tni_ot_rts    
 ,enon_ro_pirts    
 ,LMTHepacsenu    
 ,etadrts_deifinu    
@@ -628,12 +623,9 @@ pi_rof_dedrawrof_x_.fles = ]'roF-dedrawroF-X'[sredaeh
 )yreuq ,tseuqer_ro_lru(yreuq_lru_etadpu = tseuqer_ro_lru                
 :sredaeh ro enoN ton si atad fi            
 )sredaeh ,atad ,tseuqer_ro_lru(tseuqeR_dezitinas = tseuqer_ro_lru                
-]rorre.tekcos ,noitpecxEPTTH.tneilc_ptth_tapmoc ,rorrELRU.rorre_billru_tapmoc[ = snoitpecxe        
-:)'rorrEetacifitreC' ,lss(rttasah fi        
-)rorrEetacifitreC.lss(dneppa.snoitpecxe            
 :yrt        
 )tseuqer_ro_lru(nepolru.redaolnwod_.fles nruter            
-:rre sa )snoitpecxe(elput tpecxe        
+:rre sa )rorre.tekcos ,noitpecxEPTTH.tneilc_ptth_tapmoc ,rorrELRU.rorre_billru_tapmoc( tpecxe        
 :)rorrEPTTH.rorre_billru_tapmoc ,rre(ecnatsnisi fi            
 :)sutats_detcepxe ,rre(edoc_sutats_tpecca_nac__.fles fi                
 morf tcejbo elif tneverp ot rorre ot ecnerefer niateR #                    
@@ -1252,10 +1244,7 @@ eunitnoc
 )'epyTnoitcaretni'(teg.e_si = epyt_noitcaretni                
 :)rts_tapmoc ,epyt_noitcaretni(ecnatsnisi ton fi                
 eunitnoc                    
-fo daetsni gnirts edivorp setis emos tnuoc noitcaretni roF #                
-)"," .g.e( sretcarahc tigid non htiw )ceps rep sa( regetni na #                
-tni_ot_rts dexaler erom htiw tnuoc gnitcartxe os #                
-))'tnuoCnoitcaretnIresu'(teg.e_si(tni_ot_rts = tnuoc_noitcaretni                
+))'tnuoCnoitcaretnIresu'(teg.e_si(enon_ro_tni = tnuoc_noitcaretni                
 :enoN si tnuoc_noitcaretni fi                
 eunitnoc                    
 )]1-[)'/'(tilps.epyt_noitcaretni(teg.PAM_EPYT_NOITCARETNI = dnik_tnuoc                
@@ -1275,7 +1264,6 @@ tnuoc_noitcaretni = ]yek_tnuoc[ofni
 ,))'LRUlianbmuht'(teg.e ro )'lrUlianbmuht'(teg.e(enon_ro_lru :'lianbmuht'                
 ,))'noitarud'(teg.e(noitarud_esrap :'noitarud'                
 ,))'etaDdaolpu'(teg.e(pmatsemit_deifinu :'pmatsemit'                
-,))'rohtua'(teg.e(enon_ro_rts :'redaolpu'                
 ,))'eziStnetnoc'(teg.e(enon_ro_taolf :'eziselif'                
 ,))'etartib'(teg.e(enon_ro_tni :'rbt'                
 ,))'htdiw'(teg.e(enon_ro_tni :'htdiw'                
@@ -3020,4 +3008,6 @@ STLUSER_XAM_.fles = n
 """yreuq a rof stluser fo rebmun deificeps a teG"""        
 )'sessalcbus yb detnemelpmi eb tsum dohtem sihT'(rorrEdetnemelpmItoN esiar        
 
-ytreporp@    YEK_HCRAES_.fles nruter        :)fles(YEK_HCRAES fed    
+ytreporp@    
+:)fles(YEK_HCRAES fed    
+YEK_HCRAES_.fles nruter        

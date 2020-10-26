@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -64,4 +61,6 @@ noitavresnoc-ognid/12/80/4102/golb/deefeht/ua.moc.sbs.www//:ptth #
 { nruter        
 ,'tnerapsnart_lru' :'epyt_'            
 ,'mroftalPehT' :'yek_ei'            
-,di_oediv :'di'            }        ,)}eurT :'lru_lims_ecrof'{ ,)lru_mroftalpeht(lru_evitaler_otorp_.fles(lru_elggums :'lru'            
+,di_oediv :'di'            
+,)}eurT :'lru_lims_ecrof'{ ,)lru_mroftalpeht(lru_evitaler_otorp_.fles(lru_elggums :'lru'            
+}        

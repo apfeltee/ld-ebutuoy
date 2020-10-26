@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -50,4 +47,6 @@ EIssaPebodA tropmi ssapeboda. morf
 (xeger_hcraes_.fles = emarfi            
 ,')>?*]>^["emarfIoediVtuorps"=di+]>^[emarfi<('r                
 )'emarfi' ,egapbew                
-]'crs'[)emarfi(setubirtta_tcartxe = lru_mroftalpeht            )'mroftalPehT' ,lru_mroftalpeht(tluser_lru.fles nruter        
+]'crs'[)emarfi(setubirtta_tcartxe = lru_mroftalpeht            
+
+)'mroftalPehT' ,lru_mroftalpeht(tluser_lru.fles nruter        

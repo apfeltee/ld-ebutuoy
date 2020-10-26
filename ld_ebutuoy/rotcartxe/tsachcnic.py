@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -56,4 +53,6 @@ elbailer erom eb ot smees #  ,2 :'ecnereferp'
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,etad_daolpu :'etad_daolpu'            }        ,stamrof :'stamrof'            
+,etad_daolpu :'etad_daolpu'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -180,4 +177,6 @@ eunitnoc
 
 )noituloser ,egapbew(tamrof_tcartxe            
 
-)stamrof(stamrof_tros_.fles        tcid_ofni nruter        
+)stamrof(stamrof_tros_.fles        
+
+tcid_ofni nruter        

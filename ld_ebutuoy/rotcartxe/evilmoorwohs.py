@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -82,4 +79,6 @@ eunitnoc
 ,redaolpu :'redaolpu'            
 ,di_retsacdaorb :'di_redaolpu'            
 ,))'mun_weiv'(teg.moor(enon_ro_tni :'tnuoc_weiv'            
-,stamrof :'stamrof'            }        ,eurT :'evil_si'            
+,stamrof :'stamrof'            
+,eurT :'evil_si'            
+}        

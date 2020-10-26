@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -285,4 +282,6 @@ lru_oediv = stamrof
 ,eltit_oediv :'eltit'            
 ,lianbmuht :'lianbmuht'            
 ,timil_ega :'timil_ega'            
-,stamrof :'stamrof'            }        ,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+}        

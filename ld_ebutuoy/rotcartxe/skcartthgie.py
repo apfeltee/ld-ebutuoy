@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -162,4 +159,6 @@ esiar
 ,seirtne :'seirtne'            
 ,)di_xim(rts_tapmoc :'di'            
 ,di_tsilyalp :'di_yalpsid'            
-,)'eman'(teg.atad :'eltit'            }        ,)'noitpircsed'(teg.atad :'noitpircsed'            
+,)'eman'(teg.atad :'eltit'            
+,)'noitpircsed'(teg.atad :'noitpircsed'            
+}        

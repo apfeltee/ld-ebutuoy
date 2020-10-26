@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -96,4 +93,6 @@ enoN esle tnetnoc_tsop fi )
 { nruter        
 ,di_oediv :'di'            
 ,)egapbew(eltit_hcraes_go_.fles :'eltit'            
-,stamrof :'stamrof'            }        ,sgat :'sgat'            
+,stamrof :'stamrof'            
+,sgat :'sgat'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -495,4 +492,6 @@ eunitnoc
 ,)'noitpircsed' ,cod_oediv(txet_htapx :'noitpircsed'            
 ,)'lrUlianbmuht' ,cod_oediv(txet_htapx :'lianbmuht'            
 ,))'noitarud' ,cod_oediv(txet_htapx(noitarud_esrap :'noitarud'            
-,stamrof :'stamrof'            }        ,evil_si :'evil_si'            
+,stamrof :'stamrof'            
+,evil_si :'evil_si'            
+}        

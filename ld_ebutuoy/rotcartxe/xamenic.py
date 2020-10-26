@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -27,4 +24,6 @@ EIesaBOBH tropmi obh. morf
 
 :)lru ,fles(tcartxe_laer_ fed    
 )(spuorg.)lru ,LRU_DILAV_.fles(hctam.er = di_oediv ,htap        
-)di_oediv ,htap % 'lmx.s%/moc.xamenic.www//:sptth'(ofni_tcartxe_.fles = ofni        ofni nruter        di_oediv = ]'di'[ofni        
+)di_oediv ,htap % 'lmx.s%/moc.xamenic.www//:sptth'(ofni_tcartxe_.fles = ofni        
+di_oediv = ]'di'[ofni        
+ofni nruter        

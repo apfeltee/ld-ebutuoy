@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -42,4 +39,6 @@ esraplru_tapmoc tropmi tapmoc.. morf
 { nruter        
 ,'tnerapsnart_lru' :'epyt_'            
 ,di_yalpsid :'di_yalpsid'            
-,lru_reyalp :'lru'            }        ,'tsaNednoC' :'yek_ei'            
+,lru_reyalp :'lru'            
+,'tsaNednoC' :'yek_ei'            
+}        

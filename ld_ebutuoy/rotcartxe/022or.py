@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -41,4 +38,6 @@ etouqnu_esrap_billru_tapmoc tropmi tapmoc.. morf
 ,di_oediv :'di'            
 ,stamrof :'stamrof'            
 ,eltit :'eltit'            
-,noitpircsed :'noitpircsed'            }        ,lianbmuht :'lianbmuht'            
+,noitpircsed :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+}        

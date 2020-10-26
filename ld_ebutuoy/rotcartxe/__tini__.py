@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 :yrt
@@ -44,4 +41,6 @@ SESSALC_LLA_ nruter
 ))(rewol.EMAN_EI.ei :ei adbmal=yek        
 
 
-:)eman_ei(rotcartxe_ofni_teg fed]'EI' + eman_ei[)(slabolg nruter    """eman_ei nevig eht htiw ssalc rotcartxe ofni eht snruteR"""    
+:)eman_ei(rotcartxe_ofni_teg fed
+"""eman_ei nevig eht htiw ssalc rotcartxe ofni eht snruteR"""    
+]'EI' + eman_ei[)(slabolg nruter    

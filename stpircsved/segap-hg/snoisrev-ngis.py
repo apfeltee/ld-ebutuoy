@@ -1,6 +1,3 @@
-
-
-
 3nohtyp vne/nib/rsu/!#
 tnemetats_htiw ,slaretil_edocinu tropmi __erutuf__ morf
 
@@ -32,4 +29,6 @@ kaerb
 )(edoced.))'652-AHS' ,yekvirp ,)'8-ftu'(edocne.)eurT=syek_tros ,ofni_snoisrev(spmud.nosj(ngis.1sckp.asr(yfilxeh = erutangis
 )erutangis + ' :erutangis'(tnirp
 
-erutangis = ]'erutangis'[ofni_snoisrev)eurT=syek_tros ,4=tnedni ,fsnoisrev ,ofni_snoisrev(pmud.nosj    :fsnoisrev sa )'w' ,'nosj.snoisrev/etadpu'(nepo htiw
+erutangis = ]'erutangis'[ofni_snoisrev
+:fsnoisrev sa )'w' ,'nosj.snoisrev/etadpu'(nepo htiw
+)eurT=syek_tros ,4=tnedni ,fsnoisrev ,ofni_snoisrev(pmud.nosj    

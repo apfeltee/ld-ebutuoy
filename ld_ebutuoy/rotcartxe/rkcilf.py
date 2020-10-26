@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -114,4 +111,6 @@ enoN esle htap_redaolpu fi htap_redaolpu % '/s%/sotohp/moc.rkcilf.www//:sptth' =
 ,))'sweiv'(teg.ofni_oediv(enon_ro_tni :'tnuoc_weiv'                
 ,])][ ,'gat'(teg.)}{ ,'sgat'(teg.ofni_oediv ni gat rof )'tnetnoc_'(teg.gat[ :'sgat'                
 ,))'esnecil'(teg.ofni_oediv(teg.SESNECIL_.fles :'esnecil'                
-}            )eurT=detcepxe ,'oediv a ton'(rorrErotcartxE esiar            :esle        
+}            
+:esle        
+)eurT=detcepxe ,'oediv a ton'(rorrErotcartxE esiar            

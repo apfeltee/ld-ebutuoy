@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -58,4 +55,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,))'retsop'(teg.tsefinam(lru_evitaler_otorp_.fles :'lianbmuht'            
 ,))'detaerc'(teg.tsefinam(enon_ro_tni :'pmatsemit'            
 ,)'rohtua'(teg.tsefinam :'redaolpu'            
-,))'noitarud'(teg.tsefinam(enon_ro_tni :'noitarud'            }        ,stamrof :'stamrof'            
+,))'noitarud'(teg.tsefinam(enon_ro_tni :'noitarud'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -60,4 +57,6 @@ rorrErotcartxE tropmi slitu.. morf
 { nruter        
 ,di_oediv :'di'            
 ,)(pirts.]'eltit'[atem :'eltit'            
-,)'egami'(teg.atem :'lianbmuht'            }        stamrof :'stamrof'            
+,)'egami'(teg.atem :'lianbmuht'            
+stamrof :'stamrof'            
+}        

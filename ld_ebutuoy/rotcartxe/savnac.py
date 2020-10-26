@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -366,4 +363,6 @@ eno tsrif eht #
 ,noitpircsed :'noitpircsed'            
 ,nosaes :'nosaes'            
 ,rebmun_nosaes :'rebmun_nosaes'            
-,rebmun_edosipe :'rebmun_edosipe'            )}        ,etad_esaeler :'etad_esaeler'            
+,rebmun_edosipe :'rebmun_edosipe'            
+,etad_esaeler :'etad_esaeler'            
+)}        

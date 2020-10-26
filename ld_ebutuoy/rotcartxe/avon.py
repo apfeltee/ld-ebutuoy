@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -303,4 +300,6 @@ smarap = smarap_gifnoc
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,etad_daolpu :'etad_daolpu'            
-,lianbmuht :'lianbmuht'            }        ,stamrof :'stamrof'            
+,lianbmuht :'lianbmuht'            
+,stamrof :'stamrof'            
+}        

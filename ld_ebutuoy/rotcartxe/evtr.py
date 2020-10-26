@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -290,4 +287,6 @@ di_reyalpdiv % 'gnp.s%/soediv/tenoma/lianbmuht/livom/rntz/se.evtr.www//:ptth' = 
 )enoN=tluafed ,'lru atracala' ,egapbew            
 :enoN si lru_atracala fi        
 (rorrErotcartxE esiar            
-)eurT=detcepxe ,'oediv yna niatnoc t'\nseod egapbew ehT'                ))(yek_ei.EIatraCaLAEVTR=ei ,lru_atracala(tluser_lru.fles nruter        
+)eurT=detcepxe ,'oediv yna niatnoc t'\nseod egapbew ehT'                
+
+))(yek_ei.EIatraCaLAEVTR=ei ,lru_atracala(tluser_lru.fles nruter        

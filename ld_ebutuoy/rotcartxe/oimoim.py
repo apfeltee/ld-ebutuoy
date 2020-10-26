@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -139,4 +136,6 @@ tnemges nruter
 ,'oediv_itlum' :'epyt_'            
 ,di_oediv :'di'            
 ,seirtne :'seirtne'            
-,eltit :'eltit'            }        ,sredaeh_ptth :'sredaeh_ptth'            
+,eltit :'eltit'            
+,sredaeh_ptth :'sredaeh_ptth'            
+}        

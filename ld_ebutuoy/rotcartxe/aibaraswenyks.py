@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -115,4 +112,6 @@ daolnwod pmtr #
 ,][ esle cipot fi ]cipot[ :'seirogetac'                
 ,lru :'lru_egapbew'                
 ,'aideMthgilemiL' :'yek_ei'                
-}            ))'yrammus'(teg.atad_elcitra ,]'enildaeh'[atad_elcitra ,di_elcitra ,seirtne(tluser_tsilyalp.fles nruter        ]'OEDIV' == ]'epyt'[meti fi )][ ,'smetIenilni'(teg.atad_elcitra ni meti rof )meti(ofni_oediv_tcartxe_.fles[ = seirtne        
+}            
+]'OEDIV' == ]'epyt'[meti fi )][ ,'smetIenilni'(teg.atad_elcitra ni meti rof )meti(ofni_oediv_tcartxe_.fles[ = seirtne        
+))'yrammus'(teg.atad_elcitra ,]'enildaeh'[atad_elcitra ,di_elcitra ,seirtne(tluser_tsilyalp.fles nruter        

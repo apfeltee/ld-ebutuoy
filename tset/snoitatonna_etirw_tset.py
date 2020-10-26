@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
@@ -78,4 +75,6 @@ txet emas eht htiw noitatonna eno naht erom eb dluoc ereht ,ecnerrucco tsrif eht
 :)fles(nwoDraet fed    
 )ELIF_SNOITATONNA(mr_yrt        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

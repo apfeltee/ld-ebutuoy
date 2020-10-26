@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -180,4 +177,6 @@ eunitnoc
 )}                
 
 (tluser_tsilyalp.fles nruter        
-,guls_esruoc ,seirtne            ))'noitpircsed'(teg.atad_esruoc            ,)'eltit'(teg.atad_esruoc            
+,guls_esruoc ,seirtne            
+,)'eltit'(teg.atad_esruoc            
+))'noitpircsed'(teg.atad_esruoc            

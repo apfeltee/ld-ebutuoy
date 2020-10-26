@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -64,4 +61,6 @@ rtsf % 'seliFC2%%sgaT=dnapxe$&csed02%%desaeleR=ybredro$&s%=retlif$?sweiVOTDkcarT
 { nruter        
 ,'tsilyalp' :'epyt_'            
 ,di_tsilyalp :'di'            
-,di_tsilyalp :'eltit'            }        ,seirtne :'seirtne'            
+,di_tsilyalp :'eltit'            
+,seirtne :'seirtne'            
+}        

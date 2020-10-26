@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -230,4 +227,6 @@ eunitnoc
 :esle        
 )di_yalpsid ,egapbew(smarap_oediv_tcartxe_.fles = smarap            
 (dl_nosj_hcraes_.fles = ofni            
-)eslaF=lataf ,di_yalpsid ,egapbew                ofni nruter            ))smarap(oediv_tcartxe_.fles(etadpu.ofni            
+)eslaF=lataf ,di_yalpsid ,egapbew                
+))smarap(oediv_tcartxe_.fles(etadpu.ofni            
+ofni nruter            

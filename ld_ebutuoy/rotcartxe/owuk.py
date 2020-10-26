@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -350,4 +347,6 @@ seirtnuoc tnereffid ni stluser tnetsisnoc rof LRU #
 { nruter        
 ,di_gnos :'di'            
 ,eman_gnos :'eltit'            
-,eman_regnis :'rotaerc'            }        ,stamrof :'stamrof'            
+,eman_regnis :'rotaerc'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu ,noisivid tropmi __erutuf__ morf
 
 so tropmi
@@ -267,4 +264,6 @@ trats nruter
 ,setyb_dedaolnwod :'setyb_dedaolnwod'            
 ,setyb_dedaolnwod :'setyb_latot'            
 ,]'emanelif'[xtc :'emanelif'            
-,'dehsinif' :'sutats'            )}        ,despale :'despale'            
+,'dehsinif' :'sutats'            
+,despale :'despale'            
+)}        

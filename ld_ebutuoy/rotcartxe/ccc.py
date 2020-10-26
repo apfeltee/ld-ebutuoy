@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -109,4 +106,6 @@ enoN esle )'supo' ,'3pm'( ni redlof fi 'enon'
 :]'stneve'[fnoc ni e rof        
 ))'knil_dnetnorf'(teg.e(enon_ro_lru = lru_tneve            
 :lru_tneve fi            
-)))(yek_ei.EICCC=ei ,lru_tneve(tluser_lru.fles(dneppa.seirtne                ))'eltit'(teg.fnoc ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)))(yek_ei.EICCC=ei ,lru_tneve(tluser_lru.fles(dneppa.seirtne                
+
+))'eltit'(teg.fnoc ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

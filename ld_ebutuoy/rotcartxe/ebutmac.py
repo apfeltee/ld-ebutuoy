@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -69,4 +66,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_ekil :'tnuoc_ekil'            
 ,rotaerc :'rotaerc'            
-,stamrof :'stamrof'            }        81 :'timil_ega'            
+,stamrof :'stamrof'            
+81 :'timil_ega'            
+}        

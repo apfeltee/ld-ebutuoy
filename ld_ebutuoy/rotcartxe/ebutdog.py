@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -56,4 +53,6 @@ txet.)'eltit'(dnif.aidem = eltit
 ,eltit :'eltit'            
 ,lianbmuht :'lianbmuht'            
 ,pmatsemit :'pmatsemit'            
-,redaolpu :'redaolpu'            }        ,noitarud :'noitarud'            
+,redaolpu :'redaolpu'            
+,noitarud :'noitarud'            
+}        

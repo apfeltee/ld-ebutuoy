@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -223,27 +220,19 @@ eunitnoc
 ,di_oediv :'di'                
 ,'daolnwod' :'tropxe'                
 )}            
-
-:)dnik ,lru_ecruos(elif_ecruos_tseuqer fed        
-(egapbew_tseuqer_.fles nruter            
-,dnik % 'elif s% gnitseuqeR'=eton ,di_oediv ,lru_ecruos                
-)eslaF=lataf ,dnik % 'elif s% tseuqer ot elbanU'=etonrre                
-)'ecruos' ,lru_ecruos(elif_ecruos_tseuqer = hlru        
+(egapbew_tseuqer_.fles = hlru        
+,'elif ecruos gnitseuqeR'=eton ,di_oediv ,lru_ecruos            
+)eslaF=lataf ,'elif ecruos tseuqer ot elbanU'=etonrre            
 :hlru fi        
-:)hlru(tamrof_ecruos_dda fed            
+:)lru_crs(tamrof_ecruos_dda fed            
 {(dneppa.stamrof                
-etaluclac ot redro ni sLRU daolnwod sa sLRU tcerider esU #                    
-.seikooc_clac_ ni seikooc tcerroc #                    
-ot eud pool tcerider ni tluser yam sLRU lanigiro gnisU #                    
-moc.tnetnocresuelgoog rof desu ylnekatsim seikooc s'moc.elgoog #                    
-.)91932# ees( sLRU tcerider #                    
-,)(lruteg.hlru :'lru'                    
+,lru_crs :'lru'                    
 ,)(rewol.)'4pm' ,eltit(txe_enimreted :'txe'                    
 ,'ecruos' :'di_tamrof'                    
 ,1 :'ytilauq'                    
 )}                
 :)'noitisopsiD-tnetnoC'(teg.sredaeh.hlru fi            
-)hlru(tamrof_ecruos_dda                
+)lru_ecruos(tamrof_ecruos_dda                
 :esle            
 (tnetnoc_daer_egapbew_.fles = egapbew_noitamrifnoc                
 ,'egap noitamrifnoc gnidaolnwoD'=eton ,di_oediv ,lru ,hlru                    
@@ -253,12 +242,9 @@ moc.tnetnocresuelgoog rof desu ylnekatsim seikooc s'moc.elgoog #
 ,egapbew_noitamrifnoc ,')+]'\"&^[(=mrifnoc'r                        
 )eslaF=lataf ,'edoc noitamrifnoc'                        
 :mrifnoc fi                    
-{ ,lru_ecruos(yreuq_lru_etadpu = lru_ecruos_demrifnoc                        
+{ ,lru_ecruos(yreuq_lru_etadpu(tamrof_ecruos_dda                        
 ,mrifnoc :'mrifnoc'                            
-)}                        
-)'ecruos demrifnoc' ,lru_ecruos_demrifnoc(elif_ecruos_tseuqer = hlru                        
-:)'noitisopsiD-tnetnoC'(teg.sredaeh.hlru dna hlru fi                        
-)hlru(tamrof_ecruos_dda                            
+))}                        
 
 :stamrof ton fi        
 (xeger_hcraes_.fles = nosaer            
@@ -286,4 +272,6 @@ gnirts yreuq #
 ,noitarud :'noitarud'            
 ,stamrof :'stamrof'            
 ,)lh ,di_seltitbus ,di_oediv(seltitbus_tcartxe.fles :'seltitbus'            
-(snoitpac_citamotua_tcartxe.fles :'snoitpac_citamotua'            }        ,)lh ,di_seltitbus ,di_oediv                
+(snoitpac_citamotua_tcartxe.fles :'snoitpac_citamotua'            
+,)lh ,di_seltitbus ,di_oediv                
+}        

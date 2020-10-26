@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rossecorPtsoP tropmi nommoc. morf
@@ -77,4 +74,6 @@ ofni ,][ nruter
 :'tn' == eman_so_tapmoc fi                
 '.SFTN esu ot deen uoY' =+ gsm                    
 :esle                
-')batsf/cte/ ruoy ni meht elbane ot evah yam uoY(' =+ gsm                    ofni ,][ nruter            )gsm(rorre_troper.redaolnwod_.fles                
+')batsf/cte/ ruoy ni meht elbane ot evah yam uoY(' =+ gsm                    
+)gsm(rorre_troper.redaolnwod_.fles                
+ofni ,][ nruter            

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -60,4 +57,6 @@ er_tnetnoc + '_tnetnoc.\atadatem_oediv|'r = er_atadatem
 :)'edosipe' ,'nosaes'( ni dleif rof        
 'rebmuN' + dleif = eman_dleif            
 (dleif_dnif(enon_ro_tni = ]'rebmun_' + dleif[ofni            
-))egapbew ,eman_dleif(atem_hcraes_lmth_.fles ro )'+d\'r=er_eulav ,'rebmun ' + dleif ,eman_dleif                ofni nruter        
+))egapbew ,eman_dleif(atem_hcraes_lmth_.fles ro )'+d\'r=er_eulav ,'rebmun ' + dleif ,eman_dleif                
+
+ofni nruter        

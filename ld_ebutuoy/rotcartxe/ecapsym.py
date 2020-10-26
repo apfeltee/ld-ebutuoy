@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -210,4 +207,6 @@ di_tsilyalp + )'eltit'(puorg.jbom = di_yalpsid
 ,'tsilyalp' :'epyt_'            
 ,di_tsilyalp :'di'            
 ,di_yalpsid :'di_yalpsid'            
-,)egapbew(eltit_hcraes_go_.fles :'eltit'            }        ,seirtne :'seirtne'            
+,)egapbew(eltit_hcraes_go_.fles :'eltit'            
+,seirtne :'seirtne'            
+}        

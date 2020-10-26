@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -219,4 +216,6 @@ enoN = lianbmuht
 ,)'krowten'(teg.gmf :'redaolpu'                
 ,))'noitaruDelif'(teg.ctpi(enon_ro_tni :'noitarud'                
 ,stamrof :'stamrof'                
-,)rts_tapmoc ,]'ne'[]'noitpircsed'[x :x adbmal ,ctpi(teg_yrt :'noitpircsed'                }            ,))'desaeleRetad'(teg.ctpi(1068osi_esrap :'pmatsemit'                
+,)rts_tapmoc ,]'ne'[]'noitpircsed'[x :x adbmal ,ctpi(teg_yrt :'noitpircsed'                
+,))'desaeleRetad'(teg.ctpi(1068osi_esrap :'pmatsemit'                
+}            

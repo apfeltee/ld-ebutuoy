@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -53,4 +50,6 @@ daolnwod 8u3m #
 ,di_oediv :'di'            
 ,]'eltit'[sliated_edosipe :'eltit'            
 ,stamrof :'stamrof'            
-,slianbmuht :'slianbmuht'            }        ,)'tnuoc_weiv'(teg.sliated_edosipe :'tnuoc_weiv'            
+,slianbmuht :'slianbmuht'            
+,)'tnuoc_weiv'(teg.sliated_edosipe :'tnuoc_weiv'            
+}        

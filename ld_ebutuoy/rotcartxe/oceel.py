@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -366,4 +363,6 @@ uv + '_' + uu = di_aidem
 
 { nruter        
 ,di_aidem :'di'            
-,di_aidem % 's% oediV' :'eltit'            }        ,stamrof :'stamrof'            
+,di_aidem % 's% oediV' :'eltit'            
+,stamrof :'stamrof'            
+}        

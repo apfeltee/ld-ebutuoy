@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -142,4 +139,6 @@ eunitnoc
 eunitnoc                
 'mrocs' == )'dnik'(puorg.jbom fi )(yek_ei.EIETCS( = ei            
 ))(yek_ei.EIesruoCETCS esle                  
-))ei=ei ,lru_meti(tluser_lru.fles(dneppa.seirtne            )eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+))ei=ei ,lru_meti(tluser_lru.fles(dneppa.seirtne            
+
+)eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

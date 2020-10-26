@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -131,4 +128,6 @@ seikooc emos steS #
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
 ,tnuoc_ekil :'tnuoc_ekil'            
 ,tnuoc_ekilsid :'tnuoc_ekilsid'            
-,timil_ega :'timil_ega'            }        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+}        

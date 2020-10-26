@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -122,4 +119,6 @@ eunitnoc
 ,)'txet$'(teg.)}{ ,'lrUegamItla'(teg.aidem :'lianbmuht'                
 ,))'txet$'(teg.)}{ ,'noitarud'(teg.aidem(enon_ro_tni :'noitarud'                
 ,stamrof :'stamrof'                
-)}            )eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)}            
+
+)eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

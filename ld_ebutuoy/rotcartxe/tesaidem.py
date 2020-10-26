@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -177,4 +174,6 @@ e_tsrif esiar
 {(etadpu.ofni        
 ,diug :'di'            
 ,stamrof :'stamrof'            
-,seltitbus :'seltitbus'            ofni nruter        )}        
+,seltitbus :'seltitbus'            
+)}        
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -38,4 +35,6 @@ lru_elggums tropmi slitu.. morf
 (tluser_lru.fles nruter        
 { ,di_evocthgirb % ETALPMET_LRU_EVOCTHGIRB.fles(lru_elggums            
 ,]'NI'[ :'seirtnuoc_oeg'                
-,lru :'rerrefer'                )di_evocthgirb ,'weNevocthgirB'            ,)}            
+,lru :'rerrefer'                
+,)}            
+)di_evocthgirb ,'weNevocthgirB'            

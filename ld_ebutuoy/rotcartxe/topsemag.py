@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -137,4 +134,6 @@ elif vlf a ot knil a yllautca s'tI #
 ,di_egap :'di_yalpsid'            
 ,)]'eltit'[oediv_atad(etouqnu_esrap_billru_tapmoc :'eltit'            
 ,stamrof :'stamrof'            
-,)egapbew ,'noitpircsed'(atem_hcraes_lmth_.fles :'noitpircsed'            }        ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,)egapbew ,'noitpircsed'(atem_hcraes_lmth_.fles :'noitpircsed'            
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -260,4 +257,6 @@ jbo nruter
 :)';'(tilps.edoc ni tmts rof            
 )srav_lacol ,tmts(tnemetats_terpretni.fles = troba ,ser                
 :troba fi                
-kaerb                    fser nruter        ser nruter            
+kaerb                    
+ser nruter            
+fser nruter        

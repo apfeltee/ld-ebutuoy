@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -100,4 +97,6 @@ eunitnoc
 ,'trs' + lru_esab_tsefinam :'lru'                    
 ,'trs' :'txe'                    
 ]}                
-}            ofni nruter        
+}            
+
+ofni nruter        

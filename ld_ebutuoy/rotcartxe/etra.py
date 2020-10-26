@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -199,4 +196,6 @@ vt.\etra.\www//:sptth
 )'txeTresaet'(teg.noitcelloc ro )'noitpircseDtrohs'(teg.noitcelloc = noitpircsed        
 [ = seirtne        
 (lru_nosj_morf_tcartxe_.fles            
-)gnal ,di_tsilyalp ro )'dImargorp'(teg.oediv ,]'lrUnosj'[oediv                )noitpircsed ,eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        ])'lrUnosj'(teg.oediv fi ]'soediv'[noitcelloc ni oediv rof            
+)gnal ,di_tsilyalp ro )'dImargorp'(teg.oediv ,]'lrUnosj'[oediv                
+])'lrUnosj'(teg.oediv fi ]'soediv'[noitcelloc ni oediv rof            
+)noitpircsed ,eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

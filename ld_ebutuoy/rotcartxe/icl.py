@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -24,4 +21,6 @@ rotcartxEofnI tropmi nommoc. morf
 )lru(di_hctam_.fles = di_oediv        
 )di_oediv ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_.fles = di_taw        
-,)')+d\(?]'\"[*s\:*s\?]'\"[tawdi'r ,')+d\(]"'\[=ditaw-atad'r(            )di_taw ,'taW' ,di_taw + ':taw'(tluser_lru.fles nruter        )'di taw' ,egapbew            
+,)')+d\(?]'\"[*s\:*s\?]'\"[tawdi'r ,')+d\(]"'\[=ditaw-atad'r(            
+)'di taw' ,egapbew            
+)di_taw ,'taW' ,di_taw + ':taw'(tluser_lru.fles nruter        

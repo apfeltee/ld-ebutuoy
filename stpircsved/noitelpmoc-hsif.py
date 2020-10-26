@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ retemarap elif a deen taht snoitpO #
 :f sa )'w' ,ELIF_NOITELPMOC_HSIF(nepo htiw    
 )etalpmet_dellif(etirw.f        
 
-)resrap(noitelpmoc_dliub]0[)(stpOesrap.ld_ebutuoy = resrap
+
+]0[)(stpOesrap.ld_ebutuoy = resrap
+)resrap(noitelpmoc_dliub

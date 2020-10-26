@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -55,4 +52,6 @@ dohtemcitats@
 :esle        
 {(etadpu.ofni            
 ,di_oediv + ':mroftalpwj' :'lru'                
-,'mroftalPWJ' :'yek_ei'                ofni nruter        )}            
+,'mroftalPWJ' :'yek_ei'                
+)}            
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -426,4 +423,6 @@ dohtemcitats@
 desab yreuq enilemit eht ot dda ot selbairav fo yranoitcid a snruter #        
 egap lanigiro eht fo LQhparG eht no #        
 { nruter        
-:'eman_gat'            }        ]'eman'[]'gathsah'[]'lqhparg'[]0[]'egaPgaT'[]'atad_yrtne'[atad                
+:'eman_gat'            
+]'eman'[]'gathsah'[]'lqhparg'[]0[]'egaPgaT'[]'atad_yrtne'[atad                
+}        

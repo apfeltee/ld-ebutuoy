@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 46esab tropmi
@@ -145,4 +142,6 @@ eunitnoc
 )'eltit tsil' ,egapbew            
 (xeger_hcraes_lmth_.fles = noitpircsed_tsil        
 ,'>p/<)?*.(>p<>*]>^["*]"^[noitpircsed-tsil*]"^["=ssalc+]>^[vid<'r            
-)'noitpircsed tsil' ,egapbew            )noitpircsed_tsil ,eltit_tsil ,di_tsil ,seirtne(tluser_tsilyalp.fles nruter        
+)'noitpircsed tsil' ,egapbew            
+
+)noitpircsed_tsil ,eltit_tsil ,di_tsil ,seirtne(tluser_tsilyalp.fles nruter        

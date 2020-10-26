@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -15,4 +12,6 @@ EIxxeN tropmi xxen. morf
 }    
 
 :)lru ,fles(tcartxe_laer_ fed    
-(tluser_lru.fles nruter        ))(yek_ei.EIxxeN=ei ,)lru(di_hctam_.fles %            's%/diyb/soediv/847/3v/duolc.xxen.ipa//:sptth'            
+(tluser_lru.fles nruter        
+'s%/diyb/soediv/847/3v/duolc.xxen.ipa//:sptth'            
+))(yek_ei.EIxxeN=ei ,)lru(di_hctam_.fles %            

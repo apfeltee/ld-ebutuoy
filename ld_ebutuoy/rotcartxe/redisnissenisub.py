@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -46,4 +43,6 @@ EImroftalPWJ tropmi mroftalpwj. morf
 ,')}8{]9-0Z-Az-a[(?]'\"[*s\:*s\?]'\"[di'r             
 ,)')}8{]9-0Z-Az-a[()_reyalpwj|/sreyalp/moc.\mroftalpwj:?('r             
 )'di mroftalpwj' ,egapbew            
-(tluser_lru.fles nruter        )di_oediv=di_oediv            ,)(yek_ei.EImroftalPWJ=ei ,di_mroftalpwj % 's%:mroftalpwj'            
+(tluser_lru.fles nruter        
+,)(yek_ei.EImroftalPWJ=ei ,di_mroftalpwj % 's%:mroftalpwj'            
+)di_oediv=di_oediv            

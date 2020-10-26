@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -123,4 +120,6 @@ eunitnoc
 ,))'noitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            
 ,di_redaolpu :'di_redaolpu'            
 ,)'sdrowyek'(teg.atad_oediv :'sgat'            
-,slianbmuht :'slianbmuht'            }        ,stamrof :'stamrof'            
+,slianbmuht :'slianbmuht'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 EItaSierD tropmi tasierd. morf
@@ -43,4 +40,6 @@ EItaSierD tropmi tasierd. morf
 (xeger_hcraes_.fles = di_lanretni        
 ,'")+]9-0[(_dov_xhp"=di "dov_xhp"=ssalc vid<'r            
 )'DI oediv lanretni' ,egapbew            
-)lru_ipa ,di_oediv(lru_lmx_morf_tcartxe.fles nruter        di_lanretni % 's%=di&bew=ka?php.sliated_sgartieb/atad/reyalpaidem/php/ed.xineohp.www//:ptth' = lru_ipa        
+
+di_lanretni % 's%=di&bew=ka?php.sliated_sgartieb/atad/reyalpaidem/php/ed.xineohp.www//:ptth' = lru_ipa        
+)lru_ipa ,di_oediv(lru_lmx_morf_tcartxe.fles nruter        

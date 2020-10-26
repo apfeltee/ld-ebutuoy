@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -183,4 +180,6 @@ di_wohs = ]'di_wohs'[atad
 :]'soediv'[wohs ni oediv rof                
 )]'di'[oediv(rts_tapmoc = di_oediv                    
 (tluser_lru.fles(dneppa.seirtne                    
-))di_oediv ,'oediVNAAWA' ,di_oediv % 's%/aidem/ea.naawa//:ptth'                        )eltit ,di_nosaes ,seirtne(tluser_tsilyalp.fles nruter                
+))di_oediv ,'oediVNAAWA' ,di_oediv % 's%/aidem/ea.naawa//:ptth'                        
+
+)eltit ,di_nosaes ,seirtne(tluser_tsilyalp.fles nruter                

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -109,4 +106,6 @@ r nruter
 ,)'retsop'(teg.atad ro )egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
 ,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
 ,)0001 ,)'noitarud'(teg.atad_oediv(enon_ro_taolf :'noitarud'            
-,)'rehsilbup'(teg.atad_oediv :'redaolpu'            }        ,)'wohs'(teg.atad_oediv :'seires'            
+,)'rehsilbup'(teg.atad_oediv :'redaolpu'            
+,)'wohs'(teg.atad_oediv :'seires'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -46,4 +43,6 @@ ofni ,][ nruter
 eulav = ]etubirtta[ofni            
 (neercs_ot.redaolnwod_.fles            
 's% :s% desrap ]eltitmorf['                
-))'AN' esle enoN ton si eulav fi eulav ,etubirtta( %                ofni ,][ nruter        
+))'AN' esle enoN ton si eulav fi eulav ,etubirtta( %                
+
+ofni ,][ nruter        

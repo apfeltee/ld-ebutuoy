@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -63,4 +60,6 @@ txet.)'htaPelif'(dnif.eliFoediv = lru_oediv
 ,di_oediv :'di'            
 ,txet.)'eltit'(dnif.pilc :'eltit'            
 ,stamrof :'stamrof'            
-,noitpircsed :'noitpircsed'            }        ,)txet.)'noitarud'(dnif.pilc(tni :'noitarud'            
+,noitpircsed :'noitpircsed'            
+,)txet.)'noitarud'(dnif.pilc(tni :'noitarud'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -56,4 +53,6 @@ sdebme ebuTuoY #
 ))enoN=tluafed ,'lru'=puorg ,'lru aketigid' ,egapbew            
 
 :lru_aketigid fi        
-)'aketigiD' ,lru_aketigid(tluser_lru.fles nruter            )'cireneG' ,lru(tluser_lru.fles nruter        
+)'aketigiD' ,lru_aketigid(tluser_lru.fles nruter            
+
+)'cireneG' ,lru(tluser_lru.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -18,7 +15,7 @@ rotcartxEofnI tropmi nommoc. morf
 
 
 :)rotcartxEofnI(EIebuTdeR ssalc
-')+]9-0[>di<P?()=dib\?*.?\/moc.\ebutder.\debme|/moc.\ebutder?).\+w\:?(:?(//:?sptth'r = LRU_DILAV_    
+')+]9-0[>di<P?()=dib\?*.?\/moc.\ebutder.\debme|/moc.\ebutder?).\www:?(:?(//:?sptth'r = LRU_DILAV_    
 {[ = STSET_    
 ,'81466/moc.ebutder.www//:ptth' :'lru'        
 ,'5000959abd410f8b62f52733217080cf' :'5dm'        
@@ -33,9 +30,6 @@ rotcartxEofnI tropmi nommoc. morf
 }        
 { ,}    
 ,'6823441=di&000000=rolocgb?/moc.ebutder.debme//:ptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'81466/moc.ebutder.ti//:ptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 ]}    
 
@@ -134,4 +128,6 @@ sa sevlesmeht ebircsed yeht tub ,gnilebal-fles oN #
 ,etad_daolpu :'etad_daolpu'            
 ,noitarud :'noitarud'            
 ,tnuoc_weiv :'tnuoc_weiv'            
-,timil_ega :'timil_ega'            )}        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+)}        

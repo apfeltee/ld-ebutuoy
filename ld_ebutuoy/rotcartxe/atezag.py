@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -46,4 +43,6 @@ rotcartxEofnI tropmi nommoc. morf
 
 (xeger_hcraes_.fles = di_oediv        
 )'di oediv' ,egap_debme ,'")+]"^[("=di-atad?*]>^["reyalpelgae"=ssalc?*]>^[vid<'r            
-)'mroftalPelgaE' ,di_oediv % 's%:moc.mroftalpelgae.aidem.atezag:mroftalpelgae'            (tluser_lru.fles nruter        
+
+(tluser_lru.fles nruter        
+)'mroftalPelgaE' ,di_oediv % 's%:moc.mroftalpelgae.aidem.atezag:mroftalpelgae'            

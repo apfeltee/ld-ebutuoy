@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -117,7 +114,7 @@ atad_aidem nruter
 |+]?^[/)oidua|oediv>epyt<P?(/+]/^[                            
 reyalp)oidua|oediv>2_epyt<P?(pupop                            
 )                        
-)+d\|}63{]-\f-a9-0[>di<P?():oediv:+]:^[:nru=nru|=di:?(b\?*.?\                        
+)+d\|}63{]-\f-a9-0[>di<P?(=di?\                        
 '''                    
 
 {[ = STSET_    
@@ -178,16 +175,12 @@ daolnwod 8u3m #
 { ,}    
 ,'10e2394a807f-f43a-2b34-b57e-ac0abd4c=di?reyalpoedivpupop/vt/yalp/hc.frs.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
-{ ,}    
-,'5c6e170f7909-3ba8-9934-67b5-d75a1e82:oediv:frs:nru=nru?dnalssur-ni-lysa-tgartnaeb-nedwons/oediv/01rov01/vt/yalp/hc.frs.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'0628436:oediv:str:nru=nru?03h91-el/oediv/03h91/vt/yalp/hc.str.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
 ]}    
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru ,LRU_DILAV_.fles(hctam.er = jbom        
 )'ub'(puorg.jbom = ub        
 )'2_epyt'(puorg.jbom ro )'epyt'(puorg.jbom = epyt_aidem        
-)'di'(puorg.jbom = di_aidem        )'RSSGRS' ,)di_aidem ,epyt_aidem ,]3:[ub( % 's%:s%:s%:rssgrs'(tluser_lru.fles nruter        'nosj=tuoyal&' + lru morf detcartxe eb nac ofni rehto #        
+)'di'(puorg.jbom = di_aidem        
+'nosj=tuoyal&' + lru morf detcartxe eb nac ofni rehto #        
+)'RSSGRS' ,)di_aidem ,epyt_aidem ,]3:[ub( % 's%:s%:s%:rssgrs'(tluser_lru.fles nruter        

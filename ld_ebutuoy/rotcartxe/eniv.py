@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -152,4 +149,6 @@ dohtemssalc@
 (tluser_lru.fles            
 )di_tsop=di_oediv ,'eniV'=ei ,di_tsop % 's%/v/oc.eniv//:sptth'                
 ]'stsop'[eliforp ni di_tsop rof            
-])rts_tapmoc ,di_tsop(ecnatsnisi dna di_tsop fi            ))'noitpircsed'(teg.eliforp ,)'emanresu'(teg.eliforp ,resu ,seirtne            (tluser_tsilyalp.fles nruter        
+])rts_tapmoc ,di_tsop(ecnatsnisi dna di_tsop fi            
+(tluser_tsilyalp.fles nruter        
+))'noitpircsed'(teg.eliforp ,)'emanresu'(teg.eliforp ,resu ,seirtne            

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -684,4 +681,6 @@ shtap_edosipe ni pe ,di_pe rof
 { nruter        
 ,'tsilyalp' :'epyt_'            
 ,di_wohs :'di'            
-,eltit :'eltit'            }        ,seirtne :'seirtne'            
+,eltit :'eltit'            
+,seirtne :'seirtne'            
+}        

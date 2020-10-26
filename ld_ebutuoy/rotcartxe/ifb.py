@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -35,4 +32,6 @@ setubirtta_tcartxe tropmi slitu.. morf
 :di_alayoo ton fi            
 eunitnoc                
 (tluser_lru.fles(dneppa.seirtne            
-,'alayoO' ,di_alayoo + ':alayoo'                )seirtne(tluser_tsilyalp.fles nruter        )))'lebal-atad'(teg.rtta_reyalp ,di_alayoo                
+,'alayoO' ,di_alayoo + ':alayoo'                
+)))'lebal-atad'(teg.rtta_reyalp ,di_alayoo                
+)seirtne(tluser_tsilyalp.fles nruter        

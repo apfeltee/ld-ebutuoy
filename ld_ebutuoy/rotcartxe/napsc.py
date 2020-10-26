@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -194,4 +191,6 @@ yrtne nruter
 { nruter            
 ,'tsilyalp' :'epyt_'                
 ,seirtne :'seirtne'                
-,eltit :'eltit'                }            ,di_oediv esle 'pilc' == epyt_oediv fi di_oediv + 'c' :'di'                
+,eltit :'eltit'                
+,di_oediv esle 'pilc' == epyt_oediv fi di_oediv + 'c' :'di'                
+}            

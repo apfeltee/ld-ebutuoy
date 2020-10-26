@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -200,4 +197,6 @@ tsilyalp a ylbaborp s'tI #
 ])egapbew_tsilyalp ,'+d\=cel]'\"[=di+]>^[1\)?+.()]'\"[(=ferh+]>^[a<'r                    
 )seirtne(dnetxe.seirtne_tsilyalp            
 
-)di_erutcel ,seirtne_tsilyalp(tluser_tsilyalp.fles = tsilyalp        tsilyalp nruter        )ofni_erutcel(etadpu.tsilyalp        
+)di_erutcel ,seirtne_tsilyalp(tluser_tsilyalp.fles = tsilyalp        
+)ofni_erutcel(etadpu.tsilyalp        
+tsilyalp nruter        

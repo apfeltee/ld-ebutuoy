@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -260,4 +257,6 @@ srohtua = ]'srohtua'[nommoc
 )(ypoc.nommoc = d                
 )}stamrof :'stamrof' ,eltit :'eltit'{(etadpu.d                
 )d(dneppa.stnetnoc                
-)stnetnoc(tluser_tsilyalp.fles nruter            )htap_tnetnoc(tsil_tcartxe_.fles nruter            :esle        
+)stnetnoc(tluser_tsilyalp.fles nruter            
+:esle        
+)htap_tnetnoc(tsil_tcartxe_.fles nruter            

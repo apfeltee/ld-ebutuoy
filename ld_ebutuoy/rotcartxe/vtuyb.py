@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -115,4 +112,6 @@ eunitnoc
 { ,ofni(stcid_egrem nruter        
 ,di_oediv :'di'            
 ,di_yalpsid :'di_yalpsid'            
-,di_yalpsid :'eltit'            )}        ,stamrof :'stamrof'            
+,di_yalpsid :'eltit'            
+,stamrof :'stamrof'            
+)}        

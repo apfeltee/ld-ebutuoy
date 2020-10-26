@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -38,4 +35,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)(pirts.)]'eltit'[atad_oediv(LMTHepacsenu :'eltit'            
 ,))'noitpircsed'(teg.atad_oediv(LMTHepacsenu :'noitpircsed'            
 ,]'crs'[]0[]'secrs'[]0[]'tsiLpilc'[atad_oediv :'lru'            
-,)'retsop'(teg.atad_oediv :'lianbmuht'            }        ,))'ceSnoitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            
+,)'retsop'(teg.atad_oediv :'lianbmuht'            
+,))'ceSnoitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            
+}        

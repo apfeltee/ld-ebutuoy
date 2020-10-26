@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -106,4 +103,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,gnitar_egareva :'gnitar_egareva'            
 ,seirogetac :'seirogetac'            
-,81 :'timil_ega'            }        ,seltitbus :'seltitbus'            
+,81 :'timil_ega'            
+,seltitbus :'seltitbus'            
+}        

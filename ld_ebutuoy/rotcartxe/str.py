@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -228,4 +225,6 @@ etar % 'kd%-' =+ di_tamrof
 ,noitarud :'noitarud'            
 ,))'syalp'(teg.ofni(enon_ro_tni :'tnuoc_weiv'            
 ,)'emaNmargorp'(teg.ofni :'redaolpu'            
-,))'etad_tsacdaorb'(teg.ofni(1068osi_esrap :'pmatsemit'            }        ,))'lru_egami_weiverp'(teg.ofni(LMTHepacsenu :'lianbmuht'            
+,))'etad_tsacdaorb'(teg.ofni(1068osi_esrap :'pmatsemit'            
+,))'lru_egami_weiverp'(teg.ofni(LMTHepacsenu :'lianbmuht'            
+}        

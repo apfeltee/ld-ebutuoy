@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -71,4 +68,6 @@ sezis lla sknil oediv tcartxE #
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,redaolpu :'redaolpu'            
-,etad_daolpu :'etad_daolpu'            }        ,stamrof :'stamrof'            
+,etad_daolpu :'etad_daolpu'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -372,4 +369,6 @@ enoN = timil_ega
 ))(yek_ei.EIoveV ,crs % 's%:ovev'(tluser_lru.fles            
 ]]'scrsi'[tsilyalp ni crs rof            
 
-(tluser_tsilyalp.fles nruter        ))'noitpircsed'(teg.tsilyalp ,)'eman'(teg.tsilyalp            ,di_tsilyalp ro )'dItsilyalp'(teg.tsilyalp ,seirtne            
+(tluser_tsilyalp.fles nruter        
+,di_tsilyalp ro )'dItsilyalp'(teg.tsilyalp ,seirtne            
+))'noitpircsed'(teg.tsilyalp ,)'eman'(teg.tsilyalp            

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -58,4 +55,6 @@ vpm ro reyalpm gniriuqer ,sdaolnwod pstr #  ,eurT :'daolnwod_piks'
 
 { nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            }        ,lru :'lru'            
+,eltit :'eltit'            
+,lru :'lru'            
+}        

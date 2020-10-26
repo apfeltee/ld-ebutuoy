@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -69,4 +66,6 @@ eunitnoc
 ,)'egami'(teg.atad_reyalpru :'lianbmuht'            
 ,))'pmatsemit' ,egapbew ,)'etaDdaolpu:amehcs' ,'etaDdaolpu'((atem_hcraes_lmth_.fles(pmatsemit_deifinu :'pmatsemit'            
 ,)'eltit_seires'(teg.atad_reyalpru :'seires'            
-,seltitbus :'seltitbus'            }        ,stamrof :'stamrof'            
+,seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+}        

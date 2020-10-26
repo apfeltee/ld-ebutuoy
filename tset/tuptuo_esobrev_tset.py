@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -69,4 +66,6 @@ ssecorpbus tropmi
 )rres ni 'p-'b(eurTtressa.fles        
 )rres ni ton 'terces'b(eurTtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

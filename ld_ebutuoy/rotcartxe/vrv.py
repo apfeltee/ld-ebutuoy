@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -275,4 +272,6 @@ eunitnoc
 ]'di'[edosipe = di_edosipe                
 (tluser_lru.fles(dneppa.seirtne                
 ,di_edosipe + '/hctaw/oc.vrv//:sptth'                    
-)))'eltit'(teg.edosipe ,di_edosipe ,'VRV'                    )di_seires ,seirtne(tluser_tsilyalp.fles nruter        
+)))'eltit'(teg.edosipe ,di_edosipe ,'VRV'                    
+
+)di_seires ,seirtne(tluser_tsilyalp.fles nruter        

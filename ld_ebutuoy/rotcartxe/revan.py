@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -164,4 +161,6 @@ eslaF = SSAPYB_OEG_
 ,)0001 ,)'emiTerusopxEtsrif'(teg.pilc_tnerruc(enon_ro_tni :'pmatsemit'            
 ,))'emiTyalPyalpsid'(teg.pilc_tnerruc(noitarud_esrap :'noitarud'            
 ,))'tnioPdnemmocer'(teg.pilc_tnerruc(enon_ro_tni :'tnuoc_ekil'            
-,enoN esle )'tluda'(teg.pilc_tnerruc fi 91 :'timil_ega'            ofni nruter        )}        
+,enoN esle )'tluda'(teg.pilc_tnerruc fi 91 :'timil_ega'            
+)}        
+ofni nruter        

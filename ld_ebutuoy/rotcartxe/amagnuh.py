@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -115,4 +112,6 @@ kcart esle tsitra fi )kcart ,tsitra( % 's% - s%' = eltit
 ,kcart :'kcart'            
 ,tsitra :'tsitra'            
 ,)'eman_mubla'(teg.atad :'mubla'            
-,))'etad'(teg.atad(enon_ro_tni :'raey_esaeler'            }        ,stamrof :'stamrof'            
+,))'etad'(teg.atad(enon_ro_tni :'raey_esaeler'            
+,stamrof :'stamrof'            
+}        

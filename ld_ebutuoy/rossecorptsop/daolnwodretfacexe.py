@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 ssecorpbus tropmi
@@ -29,4 +26,6 @@ dmc_cexe.fles = dmc
 )eurT=llehs ,)dmc(tnemugrAedocne(llac.ssecorpbus = edoCter        
 :0 =! edoCter fi        
 (rorrEgnissecorPtsoP esiar            
-)edoCter % 'd% edoc rorre denruter dnammoC'                noitamrofni ,][ nruter        
+)edoCter % 'd% edoc rorre denruter dnammoC'                
+
+noitamrofni ,][ nruter        

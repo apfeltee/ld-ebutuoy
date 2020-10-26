@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -87,4 +84,6 @@ di_yrogetac % 'www=d?nosj.s%/seirogetac/a0.2-ipac/ten.ehcacelpmis.ed.onikzten.ip
 ,)' '=retimiled ,)'etad'(teg.ofni(1068osi_esrap :'pmatsemit'            
 ,))'tnetnoc'(teg.ofni(lmth_naelc :'noitpircsed'            
 ,)'lianbmuht'(teg.ofni :'lianbmuht'            
-,)'eltit'(teg.ofni_ipa :'eltit_tsilyalp'            }        ,di_yrogetac :'di_tsilyalp'            
+,)'eltit'(teg.ofni_ipa :'eltit_tsilyalp'            
+,di_yrogetac :'di_tsilyalp'            
+}        

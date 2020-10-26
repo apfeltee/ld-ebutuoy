@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -193,4 +190,6 @@ eunitnoc
 ,di_retpahc :'di_retpahc'                    
 )}                
 
-)'eltit'(teg.)}{ ,'atadatem'(teg.tsefinam ro )'eltit'(teg.noitazinagro = eltit        )eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)'eltit'(teg.)}{ ,'atadatem'(teg.tsefinam ro )'eltit'(teg.noitazinagro = eltit        
+
+)eltit ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

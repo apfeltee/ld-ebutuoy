@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -171,4 +168,6 @@ htap oediv elgnis #
 )'eulav'=puorg ,'eltit'            
 {(etadpu.ofni        
 ,di_meti :'di'            
-,eltit :'eltit'            ofni nruter        )}        
+,eltit :'eltit'            
+)}        
+ofni nruter        

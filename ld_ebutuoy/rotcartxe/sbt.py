@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -87,4 +84,6 @@ eunitnoc
 ,))'detaerc'(teg.atad_oediv(enon_ro_tni :'pmatsemit'            
 ,))'nosaes'(teg.atad_oediv(enon_ro_tni :'rebmun_nosaes'            
 ,))'edosipe'(teg.atad_oediv(enon_ro_tni :'rebmun_edosipe'            
-,slianbmuht :'slianbmuht'            ofni nruter        )}        
+,slianbmuht :'slianbmuht'            
+)}        
+ofni nruter        

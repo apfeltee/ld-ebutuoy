@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -41,4 +38,6 @@ PMTR #  ,eurT :'daolnwod_piks'
 { nruter        
 ,di_oediv :'di'            
 ,)'' ,' :oediV'(ecalper.)egapbew(eltit_hcraes_go_.fles :'eltit'            
-,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            }        ,stamrof :'stamrof'            
+,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,stamrof :'stamrof'            
+}        

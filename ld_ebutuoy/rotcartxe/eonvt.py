@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -46,4 +43,6 @@ rotcartxEofnI tropmi nommoc. morf
 (ssalc_yb_tnemele_teg(lmth_naelc :'noitpircsed'            
 ,))egapbew ,'ydob-eman-dleif'                
 ))egapbew ,'eltit'(ssalc_yb_tnemele_teg(lmth_naelc :'seires'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

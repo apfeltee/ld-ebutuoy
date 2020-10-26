@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -108,4 +105,6 @@ sgra = htap_dliub ,noisrev ,elif_golegnahc
 )tessa % '...s% gnidaolpU'(tnirp_tapmoc        
 ))tessa ,htap_dliub(nioj.htap.so ,di_esaeler(tessa_etaerc.resaeler        
 
-)(niam    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam    

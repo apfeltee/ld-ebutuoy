@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -135,4 +132,6 @@ skcart poT #
 ,1 ,)tsil_ei(nel                
 )))tsil_ei(nioj.' ,' ,eman_ei( % ')s%( "s%" EMAN_EI emas eht htiw srotcartxe elpitluM'                
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

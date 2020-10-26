@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -80,4 +77,6 @@ oediv SIHT rof noitpircsed sselgninaem #  ,'*.:er' :'noitpircsed'
 ,)'noitarud'(teg.tessa :'noitarud'            
 ,seirogetac :'seirogetac'            
 ,)'sweiv'(teg.tessa :'tnuoc_weiv'            
-,)'evil'(teg.tessa :'evil_pmtr'            }        ,))'etad'(teg.tessa(1068osi_esrap :'pmatsemit'            
+,)'evil'(teg.tessa :'evil_pmtr'            
+,))'etad'(teg.tessa(1068osi_esrap :'pmatsemit'            
+}        

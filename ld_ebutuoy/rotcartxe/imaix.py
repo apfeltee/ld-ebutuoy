@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -199,4 +196,6 @@ htnel_trohs = htgnel
 { :'tcid_ofni'        
 ,'193725651' :'di'            
 ,}        
-,92 :'tnuocnim_tsilyalp'        }    ,'detcirtseroeG' :'piks'        
+,92 :'tnuocnim_tsilyalp'        
+,'detcirtseroeG' :'piks'        
+}    

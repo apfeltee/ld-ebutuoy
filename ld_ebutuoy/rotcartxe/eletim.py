@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -91,4 +88,6 @@ detroppus si SLH ylno nosaer emos rof #
 ,))'rebmun_edosipe'(teg.ofni(enon_ro_tni :'rebmun_edosipe'            
 ,))'noitarud'(teg.ofni(enon_ro_tni :'noitarud'            
 ,)'retsoPatad'(teg.oediv :'lianbmuht'            
-,))'gnitar'(teg.ofni(enon_ro_tni :'timil_ega'            }        ,))'emiTdehsilbup'(teg.reyalp_erp(1068osi_esrap :'pmatsemit'            
+,))'gnitar'(teg.ofni(enon_ro_tni :'timil_ega'            
+,))'emiTdehsilbup'(teg.reyalp_erp(1068osi_esrap :'pmatsemit'            
+}        

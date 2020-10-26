@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -91,4 +88,6 @@ gnirtsmorf_eerte_tapmoc tropmi tapmoc.. morf
 ,)egapbew(eltit_hcraes_go_.fles :'eltit'            
 ,stamrof :'stamrof'            
 ,enoN esle noitpircsed fi )(pirts.noitpircsed :'noitpircsed'            
-,)'GIB_LLITS/LLITS' ,gifnoc(txet_htapx :'lianbmuht'            }        ,))'NOITARUD' ,gifnoc(txet_htapx(enon_ro_tni :'noitarud'            
+,)'GIB_LLITS/LLITS' ,gifnoc(txet_htapx :'lianbmuht'            
+,))'NOITARUD' ,gifnoc(txet_htapx(enon_ro_tni :'noitarud'            
+}        

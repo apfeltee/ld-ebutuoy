@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidocne #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -60,4 +57,6 @@ eurT :'gnihctam_ylno'
 ,)(pirts.)egapbew(eltit_hcraes_go_.fles :'eltit'            
 ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
 (xeger_hcraes_.fles :'etad_daolpu'            
-,)enoN=tluafed ,'etad_daolpu' ,lru_nosj ,'/)}8{d\(/dov/'r                }        ,stamrof :'stamrof'            
+,)enoN=tluafed ,'etad_daolpu' ,lru_nosj ,'/)}8{d\(/dov/'r                
+,stamrof :'stamrof'            
+}        

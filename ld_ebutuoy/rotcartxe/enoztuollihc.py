@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -94,4 +91,6 @@ NDC nwo eht #
 ,di_oediv :'di'            
 ,lru_oediv :'lru'            
 ,'4pm' :'txe'            
-,eltit :'eltit'            }        ,noitpircsed :'noitpircsed'            
+,eltit :'eltit'            
+,noitpircsed :'noitpircsed'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -61,4 +58,6 @@ setyb_ot_tsiltni ,tsiltni_ot_setyb tropmi slitu.ld_ebutuoy morf
 ))23 ,drowssap ,detpyrcne(txet_tpyrced_sea( = detpyrced        
 )gsm_terces.fles ,detpyrced(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

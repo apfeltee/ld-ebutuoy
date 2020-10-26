@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -75,4 +72,6 @@ noitamitse #  ,004 :'rbt'
 ,)'rekcik'(teg.ofni :'eltit_tla'            
 ,pmatsemit :'pmatsemit'            
 ,)'retsoPoediV5lmth'(teg.atadv :'lianbmuht'            
-,noitarud :'noitarud'            }        ,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+}        

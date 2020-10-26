@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 oi tropmi
@@ -77,4 +74,6 @@ eunitnoc
 
 ter nruter    
 
-)(niam    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam    

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -316,9 +313,9 @@ txet.)'emaNelif/.'(dnif.a = ]'lru'[f
 
 
 :)EIesaBkehtaideMDRA(EIkehtaideMateBDRA ssalc
-')+]9-0Z-Az-a[>di_oediv<P?()*)/+]/^[:?(>di_yalpsid<P?(/)oediv|evil|reyalp:?(/)+]/^[>tneilc<P?(/ed.\kehtaidemdra?).\)www|ateb:?(:?(//:sptth'r = LRU_DILAV_    
+'?))+]#?/^[>di_yalpsid<P?(/:?()+]9-0Z-Az-a[>di_oediv<P?(/)evil|reyalp:?(/)+]/^[>tneilc<P?(/ed.\kehtaidemdra.\)www|ateb:?(//:sptth'r = LRU_DILAV_    
 {[ = STSET_    
-,'EDMyEGNxITZyczYw0SZhFWYtYGZmRTL4UzNx0CN1MGN4MmYm9Cdy9GdhR3LlRmLlR3cyV2chR2LvoDZpJ3Y/atiwsor-etsubor-eid/oediv/dra/ed.kehtaidemdra//:sptth' :'lru'        
+,'atiwsor-etsubor-eid/EDMyEGNxITZyczYw0SZhFWYtYGZmRTL4UzNx0CN1MGN4MmYm9Cdy9GdhR3LlRmLlR3cyV2chR2LvoDZpJ3Y/reyalp/dra/ed.kehtaidemdra.ateb//:sptth' :'lru'        
 ,'f88ec9a07708a5d370d90e7e2d78cdfd' :'5dm'        
 { :'tcid_ofni'        
 ,'atiwsor-etsubor-eid' :'di_yalpsid'            
@@ -332,15 +329,6 @@ txet.)'emaNelif/.'(dnif.a = ]'lru'[f
 ,'4pm' :'txe'            
 ,}        
 { ,}    
-,'EDMyEGNxITZyczYw0SZhFWYtYGZmRTL4UzNx0CN1MGN4MmYm9Cdy9GdhR3LlRmLlR3cyV2chR2LvoDZpJ3Y/oediv/dra/ed.kehtaidemdra.ateb//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'/AM4YTM48FVT9SZk5SZulGbu9WLyN3LvoDZpJ3Y/nehesnref-rs/ssah-negeg-gnutlah-tfigstfahcslleseg-klatraas/klatraas/oediv/dra/ed.kehtaidemdra//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-,'/QY1QmZxQWOzYGM5gTLyUjMi1SMkNGNtETMiNWLzczYwgTM1ETLnFmc0lWZC9SZk5ickd3LvoDZpJ3Y/eno/10e-10s-seye-etavirp/reliart/oediv/dra/ed.kehtaidemdra.www//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
 ,'/UTM5EzNwEzbvgXZh9SZk5ic3N3LvoDZpJ3Y/reyalp/dra/ed.kehtaidemdra.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
@@ -351,11 +339,7 @@ txet.)'emaNelif/.'(dnif.a = ]'lru'[f
 :)lru ,fles(tcartxe_laer_ fed    
 )lru ,LRU_DILAV_.fles(hctam.er = jbom        
 )'di_oediv'(puorg.jbom = di_oediv        
-)'di_yalpsid'(puorg.jbom = di_yalpsid        
-:di_yalpsid fi        
-)'/'(pirtsr.di_yalpsid = di_yalpsid            
-:di_yalpsid ton fi        
-di_oediv = di_yalpsid            
+di_oediv ro )'di_yalpsid'(puorg.jbom = di_yalpsid        
 
 (nosj_daolnwod_.fles = egap_reyalp        
 ,'yawetag-cilbup/ed.kehtaidemdra.ipa//:sptth'            
@@ -420,4 +404,6 @@ enoN = timil_ega
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,))'nOdetsacdaorb'(teg.egap_reyalp(pmatsemit_deifinu :'pmatsemit'            
-,)]'eltit'[]'wohs'[x :x adbmal ,egap_reyalp(teg_yrt :'seires'            ofni nruter        )}        
+,)]'eltit'[]'wohs'[x :x adbmal ,egap_reyalp(teg_yrt :'seires'            
+)}        
+ofni nruter        

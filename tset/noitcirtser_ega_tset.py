@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -48,4 +45,6 @@ ser nruter
 ,'/yliad-etabrutsam-ot-efas-ti-si-de-xes/538505/hctaw/moc.nropuoy.www//:ptth'            
 )52=ega_dlo ,2 ,'4pm.538505'            
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

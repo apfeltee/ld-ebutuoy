@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -173,4 +170,6 @@ enoN = seltitbus
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_yalpsid        
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
-(xeger_hcraes_lmth_.fles(nosj_esrap_.fles = htap_noitacol        )di_yalpsid ,)htap_noitacol ,lru(niojlru(ofni_tcartxe_.fles nruter        ]'lrUnoitacol'[]'oediv'[)di_yalpsid ,)'etats' ,egapbew ,'")}?+.{("=etats-atad'r            
+(xeger_hcraes_lmth_.fles(nosj_esrap_.fles = htap_noitacol        
+]'lrUnoitacol'[]'oediv'[)di_yalpsid ,)'etats' ,egapbew ,'")}?+.{("=etats-atad'r            
+)di_yalpsid ,)htap_noitacol ,lru(niojlru(ofni_tcartxe_.fles nruter        

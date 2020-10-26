@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -305,4 +302,6 @@ eunitnoc
 [ = seirtne            
 (lladnif.er ni meti rof )meti(tluser_lru.fles                
 '"csed-meti-tegdiw"=ssalc+]>^[")+]/^[/s%/ur.\eromoediv//?):?sptth:?(("=ferh+]>^[a<'r                    
-])egapbew ,di_yalpsid %                    )eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        
+])egapbew ,di_yalpsid %                    
+
+)eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        

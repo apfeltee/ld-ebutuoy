@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -85,4 +82,6 @@ enoN = pmatsemit
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,lianbmuht :'lianbmuht'            }        ,pmatsemit :'pmatsemit'            
+,lianbmuht :'lianbmuht'            
+,pmatsemit :'pmatsemit'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -191,4 +188,6 @@ eunitnoc
 }        
 
 :)lru ,fles(tcartxe_laer_ fed    
-)lru(di_hctam_.fles = di_oediv        )lru_sliated ,di_oediv(lru_lmx_morf_tcartxe.fles nruter        di_oediv % 's%=di?sliateDsgartieb/bew/ecivreslmx/kehtaidem/ed.tas3.www//:ptth' = lru_sliated        
+)lru(di_hctam_.fles = di_oediv        
+di_oediv % 's%=di?sliateDsgartieb/bew/ecivreslmx/kehtaidem/ed.tas3.www//:ptth' = lru_sliated        
+)lru_sliated ,di_oediv(lru_lmx_morf_tcartxe.fles nruter        

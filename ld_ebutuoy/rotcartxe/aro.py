@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -73,4 +70,6 @@ htap.)lru_8u3m(esraplru.esraplru_tapmoc = htap_8u3m
 (etubirtta_yb_tnemele_teg :'noitpircsed'            
 ,)egapbew ,'noitpirced_txt_oediv' ,'ssalc'                
 (xeger_hcraes_.fles(lru_evitaler_otorp_.fles :'lianbmuht'            
-,))enoN ,'lianbmuht' ,atad_oediv ,')+]"^[("*s\:*s\"bmuht"'r                }        ,stamrof :'stamrof'            
+,))enoN ,'lianbmuht' ,atad_oediv ,')+]"^[("*s\:*s\"bmuht"'r                
+,stamrof :'stamrof'            
+}        

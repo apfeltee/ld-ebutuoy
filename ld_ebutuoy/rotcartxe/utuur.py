@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -151,4 +148,6 @@ eunitnoc
 ,)'noitpircsed' ,'noitpircsed' ,'margorP/roivaheB//.' ,lmx_oediv(rtta_htapx :'noitpircsed'            
 ,)'lianbmuht' ,'ferh' ,'erutciptratS/roivaheB//.' ,lmx_oediv(rtta_htapx :'lianbmuht'            
 ,))'noitarud' ,'emitnuR//.' ,lmx_oediv(txet_htapx(enon_ro_tni :'noitarud'            
-,))'timil ega' ,'timiLegA//.' ,lmx_oediv(txet_htapx(enon_ro_tni :'timil_ega'            }        ,stamrof :'stamrof'            
+,))'timil ega' ,'timiLegA//.' ,lmx_oediv(txet_htapx(enon_ro_tni :'timil_ega'            
+,stamrof :'stamrof'            
+}        

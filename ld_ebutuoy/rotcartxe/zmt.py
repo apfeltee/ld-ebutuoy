@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ rotcartxEofnI tropmi nommoc. morf
 (xeger_hcraes_lmth_.fles(nosj_esrap_.fles = ofni_oediv_deddebme        
 ,)'ofni oediv deddebme' ,egapbew ,';)\)}?+.{((\debmEoediVzmt'r            
 )di_oediv            
-)]'di'[ofni_oediv_deddebme % '/s%/soediv/moc.zmt.www//:ptth'            (tluser_lru.fles nruter        
+
+(tluser_lru.fles nruter        
+)]'di'[ofni_oediv_deddebme % '/s%/soediv/moc.zmt.www//:ptth'            

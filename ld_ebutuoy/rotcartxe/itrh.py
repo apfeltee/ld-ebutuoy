@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -206,4 +203,6 @@ di_yrogetac ro )'di_yalpsid'(puorg.jbom = di_yalpsid
 ,]'tsil'[]0[]'sevitanretla'[]0[]'sgnitsil_oediv'[x :x adbmal ,esnopser            
 ])'di'(teg.oediv fi )][ ,'soediv'(teg.esnopser ni oediv rof ]'di'[oediv[ ro )tsil            
 
-]sdi_oediv ni di_oediv rof )di_oediv % 's%:itrh'(tluser_lru.fles[ = seirtne        )di_yalpsid ,di_yrogetac ,seirtne(tluser_tsilyalp.fles nruter        
+]sdi_oediv ni di_oediv rof )di_oediv % 's%:itrh'(tluser_lru.fles[ = seirtne        
+
+)di_yalpsid ,di_yrogetac ,seirtne(tluser_tsilyalp.fles nruter        

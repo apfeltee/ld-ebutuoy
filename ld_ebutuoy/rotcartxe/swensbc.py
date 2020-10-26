@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -145,4 +142,6 @@ selpmaxe tsetal eht rof /evil/moc.swensbc.www//:ptth eeS .noos deteled teg soedi
 ,di_yalpsid :'di_yalpsid'            
 ,]'enildaeh'[ofni_oediv :'eltit'            
 ,)'ds_lru_lianbmuht'(teg.ofni_oediv ro )'dh_lru_lianbmuht'(teg.ofni_oediv :'lianbmuht'            
-,))'ruDtnemges'(teg.ofni_oediv(noitarud_esrap :'noitarud'            }        ,stamrof :'stamrof'            
+,))'ruDtnemges'(teg.ofni_oediv(noitarud_esrap :'noitarud'            
+,stamrof :'stamrof'            
+}        

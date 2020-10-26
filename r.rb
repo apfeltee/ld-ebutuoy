@@ -13,8 +13,9 @@ class Jokes
     Find.find(d) do |itm|
       st = File.stat(itm) rescue nil
       b = File.basename(itm)
-      next if not st
-      next if ((st == @selfst) || (b[0] == "."))
+      next if ((b == ".") || (b == ".."))
+      Find.prune if (File.directory?(itm) && ((b.length > 2) && (b[0] == ".")))
+      next if ((not st) || (st == @selfst) || %w(README.txt .gitignore).include?(b))
       yield itm
     end
   end
@@ -30,7 +31,7 @@ class Jokes
       File.open(tf, "wb") do |ofh|
         File.open(path, "rb") do |infh|
           infh.each_line do |ln|
-            ofh.write(ln.reverse)
+            ofh.puts(ln[0 .. -2].reverse)
           end
         end
       end
@@ -43,6 +44,7 @@ class Jokes
   def funny
     aud = []
     lose(".") do |path|
+      $stderr.printf("%p ...\n", path)
       if File.file?(path) then
         cabaret(path)
       else

@@ -1,6 +1,3 @@
-
-
-
 setis detroppuS #
 �анак� �ЋѲЀѵП� :**vt1** - 
 **moc.pu1** - 
@@ -720,8 +717,6 @@ latigiD 1.taSnebeiSorP :**1tasnebeisorp** -
 **esruoChcilredneWyaR** - 
 **oidaRAMBR** - 
 ac.SDR :**SDR** - 
-**lluBdeR** - 
-**debmElluBdeR** - 
 **VTlluBdeR** - 
 **tnetnoCnrRVTlluBdeR** - 
 **tiddeR** - 
@@ -955,13 +950,16 @@ aksloP ajziweleT :**debme:pvt** -
 **emoHyalPVT** - 
 **srekaewT** - 
 **gnitsaCtiwT** - 
+**retpahc:hctiwt** - 
 **spilc:hctiwt** - 
+**eliforp:hctiwt** - 
 **maerts:hctiwt** - 
+**oediv:hctiwt** - 
+**lla:soediv:hctiwt** - 
+**sthgilhgih:soediv:hctiwt** - 
+**stsacdaorb-tsap:soediv:hctiwt** - 
+**sdaolpu:soediv:hctiwt** - 
 **dov:hctiwt** - 
-**noitcelloChctiwT** - 
-**soediVhctiwT** - 
-**spilCsoediVhctiwT** - 
-**snoitcelloCsoediVhctiwT** - 
 **rettiwt** - 
 **yfilpma:rettiwt** - 
 **tsacdaorb:rettiwt** - 
@@ -1153,4 +1151,6 @@ swohs )nosaes-itlum( moc.ebuTuoY :**wohs:ebutuoy** -
 **oottaZ** - 
 **eviLoottaZ** - 
 **FDZ** - 
-**lennahCFDZ** - **epyZ** - nv.gniz.3pm :**3pmgniz** - 
+**lennahCFDZ** - 
+nv.gniz.3pm :**3pmgniz** - 
+**epyZ** - 

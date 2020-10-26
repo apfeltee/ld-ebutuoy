@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -278,7 +275,7 @@ galf = rorre
 ]1-[))'oediv/kcart/.'(htapx_tapmoc(lladnif.lmx_oediv = tnemele_oediv        
 :enoN si txet.tnemele_oediv ro enoN si tnemele_oediv fi        
 (rorrErotcartxE esiar            
-)eurT=detcepxe ,di_oediv % 'tsixe ton seod s% oediV'                
+)eurT=detcepxe ,di_oediv % 'tsixe ton seod oediv s% oediV'                
 
 )(pirts.txet.tnemele_oediv = lru_oediv        
 
@@ -365,4 +362,6 @@ ofni_seirtne nruter
 ,'vlf' :'txe'                
 ,htapyalp + ':4pm' :'htap_yalp'                
 siht tuohtiw dne t'now gnidaolnwod #  ,eurT :'evil_pmtr'                
-)}            ofni nruter        
+)}            
+
+ofni nruter        

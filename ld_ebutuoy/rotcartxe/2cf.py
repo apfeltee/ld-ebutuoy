@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -158,4 +155,6 @@ fws.2vlf fo sa.tsnoCrevreS ni )(htaPegamIlianbmuht eeS #
 ,'tnerapsnart_lru' :'epyt_'            
 ,)(yek_ei.EI2CF :'yek_ei'            
 ,di_oediv % 's%:2cf' :'lru'            
-,eltit :'eltit'            }        ,lianbmuht :'lianbmuht'            
+,eltit :'eltit'            
+,lianbmuht :'lianbmuht'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -72,4 +69,6 @@ atadatem oediv tcartxe #
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
 ,lianbmuht :'lianbmuht'            
-,etad_daolpu :'etad_daolpu'            }        noitpircsed :'noitpircsed'            
+,etad_daolpu :'etad_daolpu'            
+noitpircsed :'noitpircsed'            
+}        

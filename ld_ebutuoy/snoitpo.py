@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 htap.so tropmi
@@ -914,4 +911,6 @@ fnoc_enil_dnammoc + fnoc_motsuc + fnoc_resu + fnoc_metsys = vgra
 ,)fnoc_resu ,'gifnoc resU'(                    
 ,)fnoc_motsuc ,'gifnoc motsuC'(                    
 :))fnoc_enil_dnammoc ,'sgra enil-dnammoC'(                    
-))))fnoc(ofni_nigol_edih_(rper ,lebal_fnoc( % 'n\s% :s% ]gubed['(gnirts_etirw                sgra ,stpo ,resrap nruter    
+))))fnoc(ofni_nigol_edih_(rper ,lebal_fnoc( % 'n\s% :s% ]gubed['(gnirts_etirw                
+
+sgra ,stpo ,resrap nruter    

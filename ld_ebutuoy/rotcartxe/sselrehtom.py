@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 emitetad tropmi
@@ -205,4 +202,6 @@ yrtne dleiy
 ,'tsilyalp' :'epyt_'            
 ,di_puorg :'di'            
 ,eltit :'eltit'            
-,noitpircsed :'noitpircsed'            }        tsilyalp :'seirtne'            
+,noitpircsed :'noitpircsed'            
+tsilyalp :'seirtne'            
+}        

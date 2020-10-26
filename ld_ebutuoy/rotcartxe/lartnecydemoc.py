@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnIsecivreSVTM tropmi vtm. morf
@@ -140,4 +137,6 @@ daolnwod pmtr #
 { = pam_tuctrohs        
 ,'sedosipe-lluf/haon-rovert-htiw-wohs-yliad-eht/swohs/moc.cc.www//:ptth' :'sdt'            
 ,'sedosipe-lluf/haon-rovert-htiw-wohs-yliad-eht/swohs/moc.cc.www//:ptth' :'wohsyliadeht'            
-,'sedosipe-lluf/reppelk-nadroj-htiw-noitisoppo-eht/swohs/moc.cc.www//:ptth' :'noitisoppoeht'            )]di_oediv[pam_tuctrohs(tluser_lru.fles nruter        }        
+,'sedosipe-lluf/reppelk-nadroj-htiw-noitisoppo-eht/swohs/moc.cc.www//:ptth' :'noitisoppoeht'            
+}        
+)]di_oediv[pam_tuctrohs(tluser_lru.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -53,4 +50,6 @@ txet_htapx tropmi slitu.. morf
 { nruter        
 ,di_oediv :'di'            
 ,)'Ä—∏–Ñ—ç— π–æ–º–è—Ä—ü– - í–¢– á—Ç—∞–ú–'(eltit_evil_.fles :'eltit'            
-,eurT :'evil_si'            }        ,stamrof :'stamrof'            
+,eurT :'evil_si'            
+,stamrof :'stamrof'            
+}        

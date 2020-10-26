@@ -1,6 +1,3 @@
-
-
-
 3nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -74,4 +71,6 @@ kaerb
 
 )'t\' ,)seirtne(nioj.''(tnedni.parwtxet = rts_seirtne
 )rts_seirtne ,'@SEIRTNE@'(ecalper.etalpmet_mota = etalpmet_mota
-)etalpmet_mota(etirw.elif_mota    :elif_mota sa )'8-ftu'=gnidocne ,'w' ,'mota.sesaeler/etadpu'(nepo.oi htiw
+
+:elif_mota sa )'8-ftu'=gnidocne ,'w' ,'mota.sesaeler/etadpu'(nepo.oi htiw
+)etalpmet_mota(etirw.elif_mota    

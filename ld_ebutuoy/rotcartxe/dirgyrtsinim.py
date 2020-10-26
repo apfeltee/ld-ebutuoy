@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -55,4 +52,6 @@ daolnwod 8u3m #
 :lru_emarfi_oediv fi            
 (tluser_lru.fles nruter                
 ,)}di_oediv :'dioediv_ecrof'{ ,lru_emarfi_oediv(lru_elggums                    
-)di_oediv=di_oediv                    )'steltrop yna ni emarfi oediv dnif ton dluoC'(rorrErotcartxE esiar        
+)di_oediv=di_oediv                    
+
+)'steltrop yna ni emarfi oediv dnif ton dluoC'(rorrErotcartxE esiar        

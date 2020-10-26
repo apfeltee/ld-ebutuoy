@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
@@ -113,4 +110,6 @@ eurT = nomead.daerht_revres.fles
 ,0001 :'ezis_knuhc_ptth'            
 )}        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

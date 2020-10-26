@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -47,4 +44,6 @@ rotcartxEofnI tropmi nommoc. morf
 )di_mubla ,di_mubla % 's%=edoca?noitca.tsila/pvt/moc.uodut.www//:ptth'            
 (tluser_lru.fles[ = seirtne        
 ,]'edoci'[meti % 's%/weiv/smargorp/moc.uodut.www//:ptth'            
-,]'edoci'[meti ,'uoduT'            )di_mubla ,seirtne(tluser_tsilyalp.fles nruter        ]]'smeti'[atad_mubla ni meti rof )]'wk'[meti            
+,]'edoci'[meti ,'uoduT'            
+]]'smeti'[atad_mubla ni meti rof )]'wk'[meti            
+)di_mubla ,seirtne(tluser_tsilyalp.fles nruter        

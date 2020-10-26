@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -97,4 +94,6 @@ erehwesle kool ,ton fi ;sravhsalf eht ni eb dluohs - eltit tcartxE #
 ,eltit_oediv :'eltit'            
 ,lianbmuht_oediv :'lianbmuht'            
 ,noitarud :'noitarud'            
-,enoN :'noitpircsed'            }        81 :'timil_ega'            
+,enoN :'noitpircsed'            
+81 :'timil_ega'            
+}        

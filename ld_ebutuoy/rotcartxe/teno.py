@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -266,4 +263,6 @@ debmeslup aiv deddebme #
 (egapbew_daolnwod_.fles = egapbew            
 )'egapbew debmeslup gnidaolnwoD' ,di_oediv ,lru_debmeslup                
 )egapbew(di_pvm_hcraes_.fles = di_pvm            
-)di_pvm=di_oediv ,)(yek_ei.EIPVMtenO ,di_pvm % 's%:pvmteno'            (tluser_lru.fles nruter        
+
+(tluser_lru.fles nruter        
+)di_pvm=di_oediv ,)(yek_ei.EIPVMtenO ,di_pvm % 's%:pvmteno'            

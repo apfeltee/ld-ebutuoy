@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -93,4 +90,6 @@ LMTH dilavni sah reyalp 5LMTH s'zziJuoY #
 ,)egapbew(hcraes_atr_.fles :'timil_ega'            
 ,noitarud :'noitarud'            
 ,redaolpu :'redaolpu'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

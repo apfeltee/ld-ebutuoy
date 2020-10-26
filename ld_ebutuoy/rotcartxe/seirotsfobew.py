@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -158,4 +155,6 @@ dleif % ')s%( ' =+ eltit
 :eltit ton fi        
 (xeger_hcraes_.fles = eltit            
 ,'>eltit/<seirotS+s\fo+s\beW*s\-*s\)+]<^[(*s\-*s\seirots+s\lla+s\yalP>eltit<'r                
-)'eltit' ,egapbew                )eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)'eltit' ,egapbew                
+
+)eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

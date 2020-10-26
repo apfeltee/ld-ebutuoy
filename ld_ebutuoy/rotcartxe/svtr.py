@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -45,4 +42,6 @@ evihcra vt #
 ,egapbew ,'1\)+).)1\!?(:?(>lru<P?()]'\"[(*s\:*s\?]'\"[tsilyalp'r            
 )'lru'=puorg ,'lru tsilyalp'            
 
-(nosj_daolnwod_.fles = atad        )di_oediv=di_oediv ,atad(atad_reyalpwj_esrap_.fles nruter        ]0[)'tsilyalp gnidaolnwoD' ,di_oediv ,lru_tsilyalp            
+(nosj_daolnwod_.fles = atad        
+]0[)'tsilyalp gnidaolnwoD' ,di_oediv ,lru_tsilyalp            
+)di_oediv=di_oediv ,atad(atad_reyalpwj_esrap_.fles nruter        

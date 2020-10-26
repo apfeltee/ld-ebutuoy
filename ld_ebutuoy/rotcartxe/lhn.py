@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -126,4 +123,6 @@ elcitra=epyt #
 ,'30738944-c/873032182-t/pu-dcim-2-emag-fo-tseb-ruenac/oediv/moc.6102hcw.www//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
-,'860591282-c/adanac-maet-sv-eporue-maet-srats-3/swen/moc.6102hcw.www//:sptth' :'lru'        ]}    ,eurT :'gnihctam_ylno'        
+,'860591282-c/adanac-maet-sv-eporue-maet-srats-3/swen/moc.6102hcw.www//:sptth' :'lru'        
+,eurT :'gnihctam_ylno'        
+]}    

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -350,4 +347,6 @@ eunitnoc
 ,di_lennahc :'di'            
 ,eltit :'eltit'            
 ,)'irUegamIyramirP'(teg.atad_lennahc :'lianbmuht'            
-,stamrof :'stamrof'            }        ,eurT :'evil_si'            
+,stamrof :'stamrof'            
+,eurT :'evil_si'            
+}        

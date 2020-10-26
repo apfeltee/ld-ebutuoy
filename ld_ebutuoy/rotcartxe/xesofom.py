@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -77,4 +74,6 @@ dohtemcitats@
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_oediv        
-(tluser_lru.fles nruter        )di_oediv=di_oediv ,)(yek_ei.EIxesofoM=ei            ,)di_oediv(tamrof.'lmth.}0{/}0{/soediv/moc.xesofom.www//:ptth'            
+(tluser_lru.fles nruter        
+,)di_oediv(tamrof.'lmth.}0{/}0{/soediv/moc.xesofom.www//:ptth'            
+)di_oediv=di_oediv ,)(yek_ei.EIxesofoM=ei            

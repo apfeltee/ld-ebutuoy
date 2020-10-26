@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -85,4 +82,6 @@ enoN = noitpircsed
 ,)'egamiretsop-atad'(teg.srtta :'lianbmuht'            
 ,pmatsemit :'pmatsemit'            
 ,)0001 ,)'noitarud-atad'(teg.srtta(enon_ro_taolf :'noitarud'            
-,)di_tessa ,tneilc( % 's%/stessa/s%/1v/ipa/eb.trv.enozaidem//:sptth' :'lru'            }        ,'savnaC' :'yek_ei'            
+,)di_tessa ,tneilc( % 's%/stessa/s%/1v/ipa/eb.trv.enozaidem//:sptth' :'lru'            
+,'savnaC' :'yek_ei'            
+}        

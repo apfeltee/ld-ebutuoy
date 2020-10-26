@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -45,4 +42,6 @@ pilc + lrucn = lru_oediv
 ,eltit :'eltit'            
 ,lru_oediv :'lru'            
 ,'4pm' :'txe'            
-,eurT :'evil_si'            }        ,lianbmuht :'lianbmuht'            
+,eurT :'evil_si'            
+,lianbmuht :'lianbmuht'            
+}        

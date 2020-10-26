@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -76,4 +73,6 @@ esiar
 ,lru_oediv :'lru'            
 ,lianbmuht :'lianbmuht'            
 { :'sredaeh_ptth'            
-,lru :'rerefeR'                }        ,}            
+,lru :'rerefeR'                
+,}            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 EIssaPebodA tropmi ssapeboda. morf
@@ -56,4 +53,6 @@ daolnwod 8u3m #
 ,)yreuq ,)]'LRUesaeler'[xpm_yfys(lru_evitaler_otorp_.fles                
 ,)}eurT :'lru_lims_ecrof'{                
 ,eltit :'eltit'            
-,di_oediv :'di'            }        ,di_yalpsid :'di_yalpsid'            
+,di_oediv :'di'            
+,di_yalpsid :'di_yalpsid'            
+}        

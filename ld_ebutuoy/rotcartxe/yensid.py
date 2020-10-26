@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -168,4 +165,6 @@ eunitnoc
 ,)'eruces_bmuht'(teg.atad_oediv ro )'bmuht'(teg.atad_oediv :'lianbmuht'            
 ,))'ces_noitarud'(teg.atad_oediv(enon_ro_tni :'noitarud'            
 ,))'etad_hsilbup'(teg.atad_oediv(etadrts_deifinu :'etad_daolpu'            
-,stamrof :'stamrof'            }        ,seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+,seltitbus :'seltitbus'            
+}        

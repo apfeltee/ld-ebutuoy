@@ -1,7 +1,6 @@
-
-
-
 eliF eikooC PTTH epacsteN #
 lmth.ceps_eikooc/cfr/es.xxah.lruc//:ptth #
 .tide ton oD  !elif detareneg a si sihT #
-eulaV0seripxELDebutuoY	0seripxELDebutuoY	0	EURT	/	ESLAF	raboof.raboof.wwweulaVytpmEseripxELDebutuoY	ytpmEseripxELDebutuoY		EURT	/	ESLAF	raboof.raboof.www
+
+eulaVytpmEseripxELDebutuoY	ytpmEseripxELDebutuoY		EURT	/	ESLAF	raboof.raboof.www
+eulaV0seripxELDebutuoY	0seripxELDebutuoY	0	EURT	/	ESLAF	raboof.raboof.www

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -102,4 +99,6 @@ MRD htiw HSAD #
 ,pmatsemit :'pmatsemit'            
 ,noitarud :'noitarud'            
 ,seires :'seires'            
-,timil_ega :'timil_ega'            }        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+}        

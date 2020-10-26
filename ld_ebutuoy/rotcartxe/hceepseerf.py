@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -29,4 +26,6 @@ EIebutuoY tropmi ebutuoy. morf
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_.fles = lru_ebutuoy        
 ,'")+]"^[("=lru-oediv-atad'r            
-)'lru ebutuoy' ,egapbew            ))(yek_ei.EIebutuoY ,lru_ebutuoy(tluser_lru.fles nruter        
+)'lru ebutuoy' ,egapbew            
+
+))(yek_ei.EIebutuoY ,lru_ebutuoy(tluser_lru.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -131,4 +128,6 @@ kaerb
 [ = seirtne        
 )]'di'[mele ,mele(oediv_tcartxe_.fles            
 ])'di'(teg.mele dna 'OEDIV' == )'epyt'(teg.mele fi deef ni mele rof            
-(tluser_tsilyalp.fles nruter        )))'noitpircsed'(teg.atad(lmth_naelc            ,)'eltit'(teg.atad ,di_yalpsid ,seirtne            
+(tluser_tsilyalp.fles nruter        
+,)'eltit'(teg.atad ,di_yalpsid ,seirtne            
+)))'noitpircsed'(teg.atad(lmth_naelc            

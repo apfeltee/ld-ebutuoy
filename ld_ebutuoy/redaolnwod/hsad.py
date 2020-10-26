@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 DFtnemgarF tropmi tnemgarf. morf
@@ -78,4 +75,6 @@ eunitnoc
 )seirter_tnemgarf % 'seirter tnemgarf s% retfa pu gnivig'(rorre_troper.fles                
 eslaF nruter                
 
-)xtc(daolnwod_garf_hsinif_.fles        eurT nruter        
+)xtc(daolnwod_garf_hsinif_.fles        
+
+eurT nruter        

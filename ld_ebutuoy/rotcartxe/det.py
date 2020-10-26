@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -361,4 +358,6 @@ tsil_gnal_bus nruter
 ,eman :'di'            
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
-,lianbmuht :'lianbmuht'            }        ,noitpircsed :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+,noitpircsed :'noitpircsed'            
+}        

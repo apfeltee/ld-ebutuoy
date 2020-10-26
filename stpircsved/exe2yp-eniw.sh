@@ -1,6 +1,3 @@
-
-
-
 hsab/nib/!#
 
 yrotcerid tnerruc eht ni skrow taht yp.putes a retemarap sa htiw nuR #
@@ -54,4 +51,6 @@ if
 
 eurt || 1&>2 "gol.exe2yp" > exe2yp "1$" "exe.nohtyp\\72nohtyP\\:C" eniw
 "gol.exe2yp" >> 'lld.72nohtyp gniypoC #' ohce
-/7.2-eldnub/exeniw/23niw.tsidb/dliub "lld.72nohtyp/23metsys/swodniw/c_evird/XIFERPENIW$" pc1&>2 "gol.exe2yp" >> exe2yp "1$" "exe.nohtyp\\72nohtyP\\:C" eniw
+/7.2-eldnub/exeniw/23niw.tsidb/dliub "lld.72nohtyp/23metsys/swodniw/c_evird/XIFERPENIW$" pc
+1&>2 "gol.exe2yp" >> exe2yp "1$" "exe.nohtyp\\72nohtyP\\:C" eniw
+

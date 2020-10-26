@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -189,4 +186,6 @@ sesac tset lautca rof yp.cireneg eeS #
 ,LRU_DILAV_.EIkaeLeviL % ')1q=P?()s%>lru<P?()]"'\[>1q<P?()(\nepo.\wodniw|*s\:*s\lruogol:?('r                
 )'lru'=puorg ,'LRU kaeLeviL' ,egapbew                
 :esle        
-)di_oediv ,dnik( % 's%=s%?weiv/moc.kaelevil.www//:ptth' = lru_kaelevil            ))(yek_ei.EIkaeLeviL=ei ,lru_kaelevil(tluser_lru.fles nruter        
+)di_oediv ,dnik( % 's%=s%?weiv/moc.kaelevil.www//:ptth' = lru_kaelevil            
+
+))(yek_ei.EIkaeLeviL=ei ,lru_kaelevil(tluser_lru.fles nruter        

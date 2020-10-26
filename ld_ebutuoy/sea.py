@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 liec tropmi htam morf
@@ -359,4 +356,6 @@ ypoc #  ]:[atad = atad
 1 + ]i[atad = ]i[atad            
 kaerb            
 atad nruter    
+
+
 ]'txet_tpyrced_sea' ,'tpyrced_cbc_sea' ,'tpyrced_rtc_sea' ,'noisnapxe_yek' ,'tpyrcne_sea'[ = __lla__

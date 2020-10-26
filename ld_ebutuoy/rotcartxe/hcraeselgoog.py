@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -57,4 +54,6 @@ eunitnoc
 )1(puorg.jbom :'lru'                    
 )}                
 
-:)egapbew ,'"txennp"=di'r(hcraes.er ton ro )n => )seirtne(nel( fi            ser nruter                ]n:[seirtne = ]'seirtne'[ser                
+:)egapbew ,'"txennp"=di'r(hcraes.er ton ro )n => )seirtne(nel( fi            
+]n:[seirtne = ]'seirtne'[ser                
+ser nruter                

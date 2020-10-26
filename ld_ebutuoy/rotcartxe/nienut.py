@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -181,4 +178,6 @@ maerts evil #  ,eurT :'daolnwod_piks'
 stseuqer DAEH troppus t'nseod revres ehT #        
 (egapbew_tseuqer_.fles = hlru        
 )'egap tcerider gnidaolnwoD'=eton ,di_tcerider ,lru            
-)(lruteg.hlru = lru        )lru(tluser_lru.fles nruter        )lru % 's% :tcerider gniwolloF'(neercs_ot.fles        
+)(lruteg.hlru = lru        
+)lru % 's% :tcerider gniwolloF'(neercs_ot.fles        
+)lru(tluser_lru.fles nruter        

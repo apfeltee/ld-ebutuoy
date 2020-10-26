@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu ,noisivid tropmi __erutuf__ morf
 
 so tropmi
@@ -389,4 +386,6 @@ nruter
 
 :enoN si exe fi        
 )]0[sgra_rts(emanesab.htap.so = exe            
-)))sgra_rts(etouq_llehs ,exe            ( % 's% :enil dnammoc s% ]gubed['(neercs_ot.fles        
+
+( % 's% :enil dnammoc s% ]gubed['(neercs_ot.fles        
+)))sgra_rts(etouq_llehs ,exe            

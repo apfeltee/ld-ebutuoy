@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -109,4 +106,6 @@ dohtemssalc@
 
 (xeger_hcraes_.fles = di_ivym        
 ,')+]_Z-Az-ad\[(=vb\?*.]'\"[*s\(\*s\reyalPetaerC'r            
-)'di oediv' ,egapbew            ))(yek_ei.EIivyM=ei ,di_ivym % 's%:ivym'(tluser_lru.fles nruter        
+)'di oediv' ,egapbew            
+
+))(yek_ei.EIivyM=ei ,di_ivym % 's%:ivym'(tluser_lru.fles nruter        

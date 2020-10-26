@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -36,4 +33,6 @@ setubirtta_tcartxe tropmi slitu.. morf
 (tluser_lru.fles(dneppa.seirtne            
 ,)di_oediv ,di_tnuocca( % ETALPMET_LRU_EVOCTHGIRB.fles                
 ))di_oediv ,'weNevocthgirB'                
-))eslaF=lataf ,egapbew(eltit_hcraes_go_.fles ,di_elcitra ,seirtne            (tluser_tsilyalp.fles nruter        
+
+(tluser_tsilyalp.fles nruter        
+))eslaF=lataf ,egapbew(eltit_hcraes_go_.fles ,di_elcitra ,seirtne            

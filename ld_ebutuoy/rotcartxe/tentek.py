@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 EIsavnaC tropmi savnac. morf
@@ -91,4 +88,6 @@ eunitnoc
 ,)'noitpircsed'(teg.gifnoc :'noitpircsed'            
 ,)'egami'(teg.gifnoc :'lianbmuht'            
 ,)'margorp'(teg.gifnoc :'seires'            
-,)'edosipe'(teg.gifnoc :'edosipe'            }        ,stamrof :'stamrof'            
+,)'edosipe'(teg.gifnoc :'edosipe'            
+,stamrof :'stamrof'            
+}        

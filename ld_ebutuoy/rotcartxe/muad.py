@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -264,4 +261,6 @@ tluser_pilc nruter
 ]0[]'ditsilyalp'[tcid_yreuq = di_tsilyalp            
 )'tsilyalPmuaD' ,di_tsilyalp % ETALPMET_LRU_.EItsilyalPmuaD(tluser_lru.fles nruter            
 
-)'direnwo' ,di_tsil(seirtne_teg_.fles = seirtne ,eman        )eman ,di_tsil ,seirtne(tluser_tsilyalp.fles nruter        
+)'direnwo' ,di_tsil(seirtne_teg_.fles = seirtne ,eman        
+
+)eman ,di_tsil ,seirtne(tluser_tsilyalp.fles nruter        

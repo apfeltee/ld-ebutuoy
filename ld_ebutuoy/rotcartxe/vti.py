@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -310,4 +307,6 @@ stpecca ti skcolb PI #
 )di_oediv=di_oediv ,)(yek_ei.EIweNevocthgirB=ei                
 ])egapbew ,')+d\(]'\"[=di-oediv-atad'r(lladnif.er ni di_oediv rof            
 
-)eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        )eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        
+
+)eltit ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

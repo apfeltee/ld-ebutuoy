@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -73,4 +70,6 @@ rts_lebal = di_tamrof
 ,di_yalpsid :'di_yalpsid'            
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
-,eurT :'evil_si'            }        ,lianbmuht :'lianbmuht'            
+,eurT :'evil_si'            
+,lianbmuht :'lianbmuht'            
+}        

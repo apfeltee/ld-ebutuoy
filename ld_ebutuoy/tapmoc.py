@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -3048,4 +3045,6 @@ fser nruter
 ,'eveirterlru_tapmoc'    
 ,'rorre_esrap_lmx_tapmoc'    
 ,'htapx_tapmoc'    
-,'piz_tapmoc'    ],'1619gub_esraptpo_dnuorakrow'    
+,'piz_tapmoc'    
+,'1619gub_esraptpo_dnuorakrow'    
+]

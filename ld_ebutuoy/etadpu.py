@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 oi tropmi
@@ -188,4 +185,6 @@ seton nruter
 :)__noisrev__=noisreVmorf ,snoisrev ,neercs_ot(seton_tnirp fed
 )noisreVmorf ,snoisrev(seton_teg = seton    
 :seton fi    
-)':ETON ESAELP'(neercs_ot        )eton(neercs_ot            :seton ni eton rof        
+)':ETON ESAELP'(neercs_ot        
+:seton ni eton rof        
+)eton(neercs_ot            

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -189,4 +186,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,noitpircsed :'noitpircsed'            
 ,redaolpu :'redaolpu'            
 ,pmatsemit :'pmatsemit'            
-,noitarud :'noitarud'            }        ,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+}        

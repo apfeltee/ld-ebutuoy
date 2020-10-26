@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -94,4 +91,6 @@ eunitnoc
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
 ,)'csed'(teg.ofni :'noitpircsed'            
-,))'noitarud'(teg.ofni(enon_ro_tni :'noitarud'            }        ,)'bmuht'(teg.ofni :'lianbmuht'            
+,))'noitarud'(teg.ofni(enon_ro_tni :'noitarud'            
+,)'bmuht'(teg.ofni :'lianbmuht'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -37,4 +34,6 @@ rotcartxEofnI tropmi nommoc. morf
 { nruter        
 ,di_oediv :'di'            
 ,'4pm' :'txe'            
-,lru_oediv :'lru'            }        ,eltit :'eltit'            
+,lru_oediv :'lru'            
+,eltit :'eltit'            
+}        

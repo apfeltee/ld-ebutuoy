@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -81,4 +78,6 @@ enoN ton si )'lrUmaertSevil'(teg.ofni = evil_si
 ,)rts_tapmoc ,]'knilamrep'[]'lennahc'[x :x adbmal ,ofni                
 ,))'tnuoCweiv'(teg.ofni(enon_ro_tni :'tnuoc_weiv'            
 ,))'tnuoCtnemmoc'(teg.ofni(enon_ro_tni :'tnuoc_tnemmoc'            
-,)][ ,'sgat'(teg.ofni :'sgat'            }        ,evil_si :'evil_si'            
+,)][ ,'sgat'(teg.ofni :'sgat'            
+,evil_si :'evil_si'            
+}        

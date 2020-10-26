@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnIsecivreSVTM tropmi vtm. morf
@@ -78,4 +75,6 @@ daolnwod pmtr #
 ,di_yalpsid :'di_yalpsid'            
 ,noitpircsed :'noitpircsed'            
 ,etad_daolpu :'etad_daolpu'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

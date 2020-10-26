@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -483,4 +480,6 @@ enoN = csed
 ]'csed'[oidar = csed                
 
 :]'erom'[ofni ton fi            
-kaerb                )csed ,eman ,di_jd ,seirtne(tluser_tsilyalp.fles nruter        
+kaerb                
+
+)csed ,eman ,di_jd ,seirtne(tluser_tsilyalp.fles nruter        

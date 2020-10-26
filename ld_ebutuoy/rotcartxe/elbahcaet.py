@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -296,4 +293,6 @@ lru_yrtne + XIFERP_LRU_.fles = lru_yrtne
 (xeger_hcraes_lmth_.fles = eltit_esruoc        
 ,'h/<)?+.(>d\h<*s\>+]>^[egami-esruoc]'\"[=ssalc+]>^[gmi<)s?('r(            
 ,)'h/<)?+.(>+]>^[eltit-esruoc]'\"[=ssalc+]>^[d\h<)s?('r             
-)eslaF=lataf ,'eltit esruoc' ,egapbew            )eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        
+)eslaF=lataf ,'eltit esruoc' ,egapbew            
+
+)eltit_esruoc ,di_esruoc ,seirtne(tluser_tsilyalp.fles nruter        

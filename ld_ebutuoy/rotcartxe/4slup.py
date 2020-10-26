@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -55,4 +52,6 @@ EIesaB1taSnebeiSorP tropmi 1tasnebeisorp. morf
 ,)'emaNtraPedosipe'(teg.tnetnoc_reyalp :'edosipe'            
 ,)'lennahc'(teg.aidem :'wohs'            
 ,)'dInosaes'(teg.tnetnoc_reyalp :'di_nosaes'            
-,)'ynapmoCecruos'(teg.tnetnoc_reyalp :'redaolpu'            ofni nruter        )}        
+,)'ynapmoCecruos'(teg.tnetnoc_reyalp :'redaolpu'            
+)}        
+ofni nruter        

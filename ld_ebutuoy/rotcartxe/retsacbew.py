@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -100,4 +97,6 @@ dohtemcitats@
 )di_oediv ,lru(lmx_daolnwod_.fles = deef        
 
 (txet_htapx = lru_oediv        
-)eurT=lataf ,'lru oediv' ,)'oediv' ,'dh_oediv'( ,deef            ))(yek_ei.EIretsacbeW ,lru_oediv(tluser_lru.fles nruter        
+)eurT=lataf ,'lru oediv' ,)'oediv' ,'dh_oediv'( ,deef            
+
+))(yek_ei.EIretsacbeW ,lru_oediv(tluser_lru.fles nruter        

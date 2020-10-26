@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -38,4 +35,6 @@ rotcartxEofnI tropmi nommoc. morf
 ]0[seirtne = ofni        
 {(etadpu.ofni        
 ,di_oediv :'di'            
-,eltit :'eltit'            ofni nruter        )}        
+,eltit :'eltit'            
+)}        
+ofni nruter        

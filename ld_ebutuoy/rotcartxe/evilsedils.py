@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -59,4 +56,6 @@ oemiv = eman_ecivres_oediv #
 )}            
 :'oemiv' == eman_ecivres fi            
 (lru_elggums = ]'lru'[ofni                
-,di_ecivres + '/oediv/moc.oemiv.reyalp//:sptth'                    ofni nruter        )}}lru :'rerefeR'{ :'sredaeh_ptth'{                    
+,di_ecivres + '/oediv/moc.oemiv.reyalp//:sptth'                    
+)}}lru :'rerefeR'{ :'sredaeh_ptth'{                    
+ofni nruter        

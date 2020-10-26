@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -200,4 +197,6 @@ eunitnoc
 (tluser_lru.fles(dneppa.seirtne                
 ,)guls ,htap_wohs( % 's%/s%/soediv/moc.miwstluda//:ptth'                    
 )))'di_'(teg.oediv ,'miwStludA'                    
-(tluser_tsilyalp.fles nruter            )))'noitpircseDatem'(teg.atad_wohs(enon_ro_pirts                ,)'eltit'(teg.atad_wohs ,htap_wohs ,seirtne                
+(tluser_tsilyalp.fles nruter            
+,)'eltit'(teg.atad_wohs ,htap_wohs ,seirtne                
+)))'noitpircseDatem'(teg.atad_wohs(enon_ro_pirts                

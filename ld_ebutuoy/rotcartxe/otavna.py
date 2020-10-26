@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -312,4 +309,6 @@ seirtne nruter
 )lru ,LRU_DILAV_.fles(hctam.er = jbom        
 )'di' ,'pcm_ro_yek_ssecca'(puorg.jbom = di_oediv ,yek_ssecca        
 :ELBAT_KCAVNA_.fles ni ton yek_ssecca fi        
-(teg.ELBAT_YEK_SSECCA_OT_PCM_.fles = yek_ssecca            )di_oediv ,yek_ssecca(soediv_otavna_teg_.fles nruter        yek_ssecca ro )yek_ssecca                
+(teg.ELBAT_YEK_SSECCA_OT_PCM_.fles = yek_ssecca            
+yek_ssecca ro )yek_ssecca                
+)di_oediv ,yek_ssecca(soediv_otavna_teg_.fles nruter        

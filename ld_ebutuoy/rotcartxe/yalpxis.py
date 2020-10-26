@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -127,4 +124,6 @@ v nruter
 ,)]'noitpircsed'[x :x adbmal(teg :'noitpircsed'            
 ,))'noitarud'(teg.atad_pilc(enon_ro_tni :'noitarud'            
 ,)]'eltit'[]'margorp'[x :x adbmal(teg :'seires'            
-,stamrof :'stamrof'            }        ,seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+,seltitbus :'seltitbus'            
+}        

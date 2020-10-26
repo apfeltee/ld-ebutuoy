@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -47,4 +44,6 @@ enon_ro_tni tropmi slitu.. morf
 ,eltit :'eltit'            
 ,)'tsitra'(teg.kcart :'redaolpu'            
 ,))'emit'(teg.kcart(enon_ro_tni :'noitarud'            
-,))'st'(teg.kcart(enon_ro_tni :'pmatsemit'            }        ,eltit :'kcart'            
+,))'st'(teg.kcart(enon_ro_tni :'pmatsemit'            
+,eltit :'kcart'            
+}        

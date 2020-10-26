@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -236,4 +233,6 @@ eman.]'tpircs'[SELIF_PMT_.fles
 :f sa )'br' ,eman.]'lmth'[SELIF_PMT_.fles(nepo htiw        
 )'8-ftu'(edoced.)(daer.f = lmth            
 
-)(seikooc_daol_.fles        ))tuo(tnemugrAedocne ,lmth( nruter        
+)(seikooc_daol_.fles        
+
+))tuo(tnemugrAedocne ,lmth( nruter        

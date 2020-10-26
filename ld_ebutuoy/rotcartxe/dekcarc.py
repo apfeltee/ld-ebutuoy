@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -88,4 +85,6 @@ enoN = thgieh = htdiw
 ,pmatsemit :'pmatsemit'            
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
-,thgieh :'thgieh'            }        ,htdiw :'htdiw'            
+,thgieh :'thgieh'            
+,htdiw :'htdiw'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -67,4 +64,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,txe :'txe'            
 ,enoN esle '3pm' == txe fi 'enon' :'cedocv'            
 ,redaolpu :'redaolpu'            
-,))'etad-detaerc-tessa-atad'(teg.atad_oediv(enon_ro_tni :'pmatsemit'            }        ,))'noitarud-atad'(teg.atad_oediv(enon_ro_tni :'noitarud'            
+,))'etad-detaerc-tessa-atad'(teg.atad_oediv(enon_ro_tni :'pmatsemit'            
+,))'noitarud-atad'(teg.atad_oediv(enon_ro_tni :'noitarud'            
+}        

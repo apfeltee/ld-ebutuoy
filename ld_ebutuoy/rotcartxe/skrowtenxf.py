@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -75,4 +72,6 @@ EIssaPebodA tropmi ssapeboda. morf
 ,))'edosipe-atad'(teg.atad_oediv(enon_ro_tni :'rebmun_edosipe'            
 ,))'nosaes-atad'(teg.atad_oediv(enon_ro_tni :'rebmun_nosaes'            
 ,)'bmuht-egral-atad'(teg.atad_oediv :'lianbmuht'            
-,)gnitar(timil_ega_esrap :'timil_ega'            }        ,'mroftalPehT' :'yek_ei'            
+,)gnitar(timil_ega_esrap :'timil_ega'            
+,'mroftalPehT' :'yek_ei'            
+}        

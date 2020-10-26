@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -162,4 +159,6 @@ eunitnoc
 )ofni_retpahc(etadpu.yrtne                
 )yrtne(dneppa.seirtne                
 
-(tluser_tsilyalp.fles nruter        )))'tuoba'(teg.atadatem(lmth_naelc            ,)'eltit'(teg.atadatem ,di_esruoc ,seirtne            
+(tluser_tsilyalp.fles nruter        
+,)'eltit'(teg.atadatem ,di_esruoc ,seirtne            
+)))'tuoba'(teg.atadatem(lmth_naelc            

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -68,4 +65,6 @@ tseuqer txen eht ni atad nosj dilav teg ot deen si hcihw eikooc DISSESPHP teg ot
 ,noitpircsed :'noitpircsed'            
 ,rotaerc :'rotaerc'            
 ,noitarud :'noitarud'            
-,tnuoc_weiv :'tnuoc_weiv'            }        ,slianbmuht :'slianbmuht'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,slianbmuht :'slianbmuht'            
+}        

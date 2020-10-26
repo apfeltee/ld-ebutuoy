@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -107,4 +104,6 @@ enoN = di_8u3m
 ,)di_oediv(eltit_evil_.fles :'eltit'            
 ,di_oediv % 'gpj.s%/ir/moc.aidembewhgih.maerts.gmimoor//:sptth' :'lianbmuht'            
 ,)egapbew(hcraes_atr_.fles :'timil_ega'            
-,eurT :'evil_si'            }        ,stamrof :'stamrof'            
+,eurT :'evil_si'            
+,stamrof :'stamrof'            
+}        

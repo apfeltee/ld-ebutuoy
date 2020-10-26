@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -93,4 +90,6 @@ yreuq + LRU_NIGOL_.fles = lru_nigol
 ,di_yalpsid :'di_yalpsid'            
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
-,lianbmuht :'lianbmuht'            }        ,81 :'timil_ega'            
+,lianbmuht :'lianbmuht'            
+,81 :'timil_ega'            
+}        

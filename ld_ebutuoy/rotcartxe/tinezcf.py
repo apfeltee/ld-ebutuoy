@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)'weiverp'(teg.atad_ism :'lianbmuht'            
 ,stamrof :'stamrof'            
 ,))'noitarud'(teg.atad_ism(enon_ro_taolf :'noitarud'            
-,))'etad'(teg.atad_ism(enon_ro_tni :'pmatsemit'            }        ,sgat :'sgat'            
+,))'etad'(teg.atad_ism(enon_ro_tni :'pmatsemit'            
+,sgat :'sgat'            
+}        

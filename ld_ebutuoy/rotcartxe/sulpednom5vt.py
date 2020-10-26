@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -115,4 +112,6 @@ eunitnoc
 ,))egapbew ,'noitarud'(atem_hcraes_lmth_.fles(noitarud_esrap ro ))'noitarud-atad'(teg.atad_lpv(enon_ro_tni :'noitarud'            
 ,etad_daolpu :'etad_daolpu'            
 ,stamrof :'stamrof'            
-,seires :'seires'            }        ,edosipe :'edosipe'            
+,seires :'seires'            
+,edosipe :'edosipe'            
+}        

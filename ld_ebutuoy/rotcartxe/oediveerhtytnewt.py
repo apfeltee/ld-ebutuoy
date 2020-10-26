@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -11,8 +8,8 @@ enon_ro_tni tropmi slitu.. morf
 
 :)rotcartxEofnI(EIoediVeerhTytnewT ssalc
 'oediv32' = EMAN_EI    
-')*.)+d\>di<P?(=di)f5%|_:?(otohpb\?*.>yreuq<P?(?\lmth.\reyalp/lmthi.\v/))on.\bewmlif|moc.\oediv32|ten.\eerhtytnewt:?(.\+].^[>niamod<P?(//:?sptth'r = LRU_DILAV_    
-{[ = STSET_    
+')*.)+d\>di<P?(=di)f5%|_:?(otohpb\?*.>yreuq<P?(?\lmth.\reyalp/lmthi.\v/)on.\bewmlif|moc.\oediv32|ten.\eerhtytnewt>niamod<P?(.\oediv//:?sptth'r = LRU_DILAV_    
+{ = TSET_    
 ,'1=yalPotua&67884402=dif5%otohp&etis=ecruos&0=snoitpircseDwohs?lmth.reyalp/lmthi.v/ten.eerhtytnewt.oediv//:sptth' :'lru'        
 ,'4dec58f156d0299ead1be303612fcf57' :'5dm'        
 { :'tcid_ofni'        
@@ -24,14 +21,11 @@ enon_ro_tni tropmi slitu.. morf
 ,'46985221' :'di_redaolpu'            
 ,'detsyB sumsaR' :'redaolpu'            
 }        
-{ ,}    
-,'02673163=dif5%otohp&debme=ecruos&8e13e92a48f1a5dfa31e60e67464cd0f=nekot?lmth.reyalp/lmthi.v/moc.oediv32.kramnad-snoitacilbup-reinnob//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-]}    
+}    
 
 :)lru ,fles(tcartxe_laer_ fed    
 )(spuorg.)lru ,LRU_DILAV_.fles(hctam.er = di_otohp ,yreuq ,niamod        
-niamod % 's%//:sptth' = lru_esab        
+niamod % 's%.oediv//:sptth' = lru_esab        
 (nosj_daolnwod_.fles = atad_otohp        
 {=yreuq ,di_otohp ,yreuq + '?tsil/otohp/ipa/' + lru_esab            
 ,'nosj' :'tamrof'                
@@ -78,4 +72,6 @@ nruter
 ,))'stnemmoc_fo_rebmun'(teg.atad_otohp(enon_ro_tni :'tnuoc_tnemmoc'            
 ,)'di_resu'(teg.atad_otohp :'di_redaolpu'            
 ,)'eman_yalpsid'(teg.atad_otohp :'redaolpu'            
-,slianbmuht :'slianbmuht'            }        ,stamrof :'stamrof'            
+,slianbmuht :'slianbmuht'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -1126,4 +1123,6 @@ tseuqer nruter
 ,egapbew ,')}+.{(*s\=*s\ataDTTO.\wodniw'r            
 ]'lru_gifnoc'[)nosj_ot_sj ,di_oediv ,)'atad tto'            
 )di_oediv ,lru_gifnoc(nosj_daolnwod_.fles = gifnoc        
-)di_oediv ,gifnoc(gifnoc_esrap_.fles = ofni        ofni nruter        )]'stamrof'[ofni(stamrof_tros_oemiv_.fles        
+)di_oediv ,gifnoc(gifnoc_esrap_.fles = ofni        
+)]'stamrof'[ofni(stamrof_tros_oemiv_.fles        
+ofni nruter        

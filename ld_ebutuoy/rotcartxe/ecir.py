@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -114,4 +111,6 @@ eunitnoc
 ,)'tcartsba' ,atadatem(txet_htapx :'noitpircsed'            
 ,))'noitarud' ,atadatem(txet_htapx(enon_ro_tni :'noitarud'            
 ,))'detadpUetad' ,atadatem(txet_htapx(1068osi_esrap :'pmatsemit'            
-,slianbmuht :'slianbmuht'            }        ,stamrof :'stamrof'            
+,slianbmuht :'slianbmuht'            
+,stamrof :'stamrof'            
+}        

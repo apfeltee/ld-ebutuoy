@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -95,4 +92,6 @@ di_oediv % 'U3M=stamrof?s%/9414543072/diug/aidem/vtwc/s/moc.mroftalpeht.knil//:p
 ,)nosaes(enon_ro_tni :'rebmun_nosaes'            
 ,)edosipe(enon_ro_tni :'rebmun_edosipe'            
 ,))'emit_trats'(teg.atad_oediv(1068osi_esrap :'pmatsemit'            
-,))'gnitar'(teg.atad_oediv(timil_ega_esrap :'timil_ega'            }        ,'mroftalPehT' :'yek_ei'            
+,))'gnitar'(teg.atad_oediv(timil_ega_esrap :'timil_ega'            
+,'mroftalPehT' :'yek_ei'            
+}        

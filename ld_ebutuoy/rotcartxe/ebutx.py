@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -198,4 +195,6 @@ kaerb
 :tnuoc_egap == munegap ro tnuoc_egap ton fi            
 kaerb                
 
-)di_resu ,seirtne(tluser_tsilyalp.fles = tsilyalp        tsilyalp nruter        81 = ]'timil_ega'[tsilyalp        
+)di_resu ,seirtne(tluser_tsilyalp.fles = tsilyalp        
+81 = ]'timil_ega'[tsilyalp        
+tsilyalp nruter        

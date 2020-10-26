@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -30,4 +27,6 @@ di_oediv % 'lmth.s%/reyalP4oediVhctef/moc.6uk.v//:ptth' = lrUatad
 
 { nruter        
 ,di_oediv :'di'            
-,eltit :'eltit'            }        lrUdaolnwod :'lru'            
+,eltit :'eltit'            
+lrUdaolnwod :'lru'            
+}        

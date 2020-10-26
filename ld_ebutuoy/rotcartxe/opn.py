@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -765,4 +762,6 @@ eurT :'daolnwod_piks'
 { :'tcid_ofni'        
 ,'mehnrA-jib-galS-ed-revo-netadlos-estiuD' :'di'            
 ,'mehnrA jib galS ed revo netadlos estiuD' :'eltit'            
-,}        ]}    ,3 :'tnuoc_tsilyalp'        
+,}        
+,3 :'tnuoc_tsilyalp'        
+]}    

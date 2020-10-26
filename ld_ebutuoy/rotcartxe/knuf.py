@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ EIxxeN tropmi xxen. morf
 ,))'noitarud'(teg.oediv(enon_ro_tni :'noitarud'            
 ,))'dIlennahc'(teg.oediv(enon_ro_rts :'di_lennahc'            
 ,di_yalpsid :'di_yalpsid'            
-,)'sgat'(teg.oediv :'sgat'            }        ,)'epacsdnaLlrUegami'(teg.oediv :'lianbmuht'            
+,)'sgat'(teg.oediv :'sgat'            
+,)'epacsdnaLlrUegami'(teg.oediv :'lianbmuht'            
+}        

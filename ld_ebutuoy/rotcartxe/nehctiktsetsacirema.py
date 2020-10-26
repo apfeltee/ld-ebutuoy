@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -80,4 +77,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,etad_esaeler :'etad_esaeler'            
 ,"nehctiK tseT s'aciremA" :'seires'            
 ,rebmun_nosaes :'rebmun_nosaes'            
-,edosipe :'edosipe'            }        ,rebmun_edosipe :'rebmun_edosipe'            
+,edosipe :'edosipe'            
+,rebmun_edosipe :'rebmun_edosipe'            
+}        

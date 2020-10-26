@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,]'eltit'[tsop :'eltit'                    
 ,)'tprecxe'(teg.tsop :'noitpircsed'                    
 ,))'etad'(teg.tsop(1068osi_esrap :'pmatsemit'                    
-,))'rebmun_stnemmoc'(teg.tsop(enon_ro_tni :'tnuoc_tnemmoc'                    )'tsop tnerruc eht dnif ot elbanU'(rorrErotcartxE esiar        }                
+,))'rebmun_stnemmoc'(teg.tsop(enon_ro_tni :'tnuoc_tnemmoc'                    
+}                
+)'tsop tnerruc eht dnif ot elbanU'(rorrErotcartxE esiar        

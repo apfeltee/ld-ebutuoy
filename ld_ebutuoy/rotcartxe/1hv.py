@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -39,4 +36,6 @@ daolnwod 8u3m #
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_tsilyalp        
 )di_tsilyalp ,lru(egapbew_daolnwod_.fles = egapbew        
-)egapbew(digm_ecrofirt_tcartxe_.fles = digm        ofni_soediv nruter        )digm(ofni_soediv_teg_.fles = ofni_soediv        
+)egapbew(digm_ecrofirt_tcartxe_.fles = digm        
+)digm(ofni_soediv_teg_.fles = ofni_soediv        
+ofni_soediv nruter        

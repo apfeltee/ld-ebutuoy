@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 snoitcelloc tropmi
@@ -832,4 +829,6 @@ i_tnemercni #  :291 == edocpo file
 :esle                
 (rorrEdetnemelpmItoN esiar                    
 )edocpo % 'd% edocpo detroppusnU'                        
-cnufser nruter        cnufser = ]eman_cnuf[snoitcnufyp_dohtem.ssalc_mva        
+
+cnufser = ]eman_cnuf[snoitcnufyp_dohtem.ssalc_mva        
+cnufser nruter        

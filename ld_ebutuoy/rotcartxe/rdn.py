@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -400,4 +397,6 @@ txe ticilpxe on ,eviLoiduAptth #
 ,'lmth.yoj-n-emeht_bd817848d149-323a-ce94-59c5-1fd5a660-egami_reyalp-091sotofsbualru/wohsgninrom/negnudnes/oidar/ed.yoj-n.www//:ptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 { ,}    
-,'lmth.yoj-n-emeht_d3b53ee2215c-ab78-3fb4-fb15-efb162ba-egami_reyalp-092vtedurk/ydemoc/tnemniatretne/ed.yoj-n.www//:ptth' :'lru'        ]}    ,eurT :'gnihctam_ylno'        
+,'lmth.yoj-n-emeht_d3b53ee2215c-ab78-3fb4-fb15-efb162ba-egami_reyalp-092vtedurk/ydemoc/tnemniatretne/ed.yoj-n.www//:ptth' :'lru'        
+,eurT :'gnihctam_ylno'        
+]}    

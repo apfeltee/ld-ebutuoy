@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -77,4 +74,6 @@ gnidaolnwod lautca litnu nwonknu si noisnetxe ehT #
 ,noitarud :'noitarud'            
 ,xorppa_eziselif :'xorppa_eziselif'            
 ,rbt :'rbt'            
-,tnuoc_weiv :'tnuoc_weiv'            }        ,noitpircsed :'noitpircsed'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,noitpircsed :'noitpircsed'            
+}        

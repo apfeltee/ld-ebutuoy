@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -90,4 +87,6 @@ eunitnoc
 ,'tnerapsnart_lru' :'epyt_'            
 ,di_yalpsid :'di_yalpsid'            
 ,)di_yrtne ,di_rentrap( % 's%:s%:arutlak' :'lru'            
-,'arutlaK' :'yek_ei'            }        eltit :'eltit'            
+,'arutlaK' :'yek_ei'            
+eltit :'eltit'            
+}        

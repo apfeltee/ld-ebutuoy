@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -468,4 +465,6 @@ lru ro )'lru_hctaw'(ofni_oediv_teg = lru_egapbew
 { nruter        
 ,'tsilyalp' :'epyt_'            
 ,)'eltit' ,egapbew ,'")?*.(" :eman+s\'r(xeger_hcraes_.fles :'eltit'            
-,di_tsil :'di'            }        ,seirtne :'seirtne'            
+,di_tsil :'di'            
+,seirtne :'seirtne'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -70,4 +67,6 @@ enoN ro ]8:[)'' ,'tDnepOcvSvm'(teg.ofni_maerts = etad_daolpu
 ,tsitra :'tsitra'            
 ,lianbmuht :'lianbmuht'            
 ,etad_daolpu :'etad_daolpu'            
-,noitarud :'noitarud'            }        stamrof :'stamrof'            
+,noitarud :'noitarud'            
+stamrof :'stamrof'            
+}        

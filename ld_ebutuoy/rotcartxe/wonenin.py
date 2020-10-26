@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -91,4 +88,6 @@ kaerb
 ,eltit :'eltit'            
 ,)'noitpircsed'(teg.atad_nommoc :'noitpircsed'            
 ,)0001 ,)'noitarud'(teg.atad_oediv(enon_ro_taolf :'noitarud'            
-,slianbmuht :'slianbmuht'            }        ,'weNevocthgirB' :'yek_ei'            
+,slianbmuht :'slianbmuht'            
+,'weNevocthgirB' :'yek_ei'            
+}        

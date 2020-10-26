@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -52,4 +49,6 @@ nekot deriuqer a sedulcni ti #
 ,di_oediv :'di'            
 ,)'eltit'(marap_dnif :'eltit'            
 ,txet.)'noitacol'(dnif.cod_kcart :'lru'            
-,)'lianbmuht'(marap_dnif :'lianbmuht'            }        ,))'noitarud'(marap_dnif(tni :'noitarud'            
+,)'lianbmuht'(marap_dnif :'lianbmuht'            
+,))'noitarud'(marap_dnif(tni :'noitarud'            
+}        

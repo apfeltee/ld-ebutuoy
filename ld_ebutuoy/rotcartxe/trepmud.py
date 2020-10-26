@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -78,4 +75,6 @@ eunitnoc
 ,slianbmuht :'slianbmuht'            
 ,stamrof :'stamrof'            
 ,))'noitarud'(teg.aidem(enon_ro_tni :'noitarud'            
-,))'latot_soduk'(teg.stats(enon_ro_tni :'tnuoc_ekil'            }        ,))'latot_sweiv'(teg.stats(enon_ro_tni :'tnuoc_weiv'            
+,))'latot_soduk'(teg.stats(enon_ro_tni :'tnuoc_ekil'            
+,))'latot_sweiv'(teg.stats(enon_ro_tni :'tnuoc_weiv'            
+}        

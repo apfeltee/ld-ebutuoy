@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -86,4 +83,6 @@ daolnwod SLH #  ,eurT :'daolnwod_piks'
 ,))'noitarud'(teg.ofni_oediv(enon_ro_tni :'noitarud'            
 ,))'noitpircseDlmth'(teg.ofni_oediv(lmth_naelc :'noitpircsed'            
 ,)0 ,)'gnitaRgp'(teg.ofni_oediv(teg.STIMIL_EGA_.fles :'timil_ega'            
-,))'etaDria'(teg.ofni_oediv(1068osi_esrap :'pmatsemit'            }        ,))'tnuoCsweiv'(teg.ofni_oediv(enon_ro_tni :'tnuoc_weiv'            
+,))'etaDria'(teg.ofni_oediv(1068osi_esrap :'pmatsemit'            
+,))'tnuoCsweiv'(teg.ofni_oediv(enon_ro_tni :'tnuoc_weiv'            
+}        

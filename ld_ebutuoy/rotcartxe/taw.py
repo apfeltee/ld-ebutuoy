@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -155,4 +152,6 @@ enoN = noitarud
 ,)'noitpircsed'(teg.retpahc_tsrif :'noitpircsed'            
 ,))'sweiv'(teg.ofni_oediv(enon_ro_tni :'tnuoc_weiv'            
 ,etad_daolpu :'etad_daolpu'            
-,noitarud :'noitarud'            }        ,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+}        

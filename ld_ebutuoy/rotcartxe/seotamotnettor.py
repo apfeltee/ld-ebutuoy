@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -30,4 +27,6 @@ EIevihcrAoediVtenretnI tropmi evihcraoedivtenretni. morf
 ,'tnerapsnart_lru' :'epyt_'            
 ,di_avi + '=didehsilbup&146=direyalp&94296=diremotsuc&moc.evitcetedoediv.www=niamod?xhsa.noitarugifnoc/6/reyalp/ten.evihcraoedivtenretni.oediv//:ptth' :'lru'            
 ,)(yek_ei.EIevihcrAoediVtenretnI :'yek_ei'            
-,di_oediv :'di'            }        ,)egapbew(eltit_hcraes_go_.fles :'eltit'            
+,di_oediv :'di'            
+,)egapbew(eltit_hcraes_go_.fles :'eltit'            
+}        

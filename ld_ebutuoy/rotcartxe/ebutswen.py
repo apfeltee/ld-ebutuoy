@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -81,4 +78,6 @@ eunitnoc
 ,eltit :'eltit'            
 ,)egap ,]'noitpircsed:go' ,'noitpircsed'[(atem_hcraes_lmth_.fles :'noitpircsed'            
 ,)egap ,]'egami:rettiwt' ,'egami:go' ,'lru_eruces:egami:go'[(atem_hcraes_lmth_.fles :'lianbmuht'            
-,))egap ,'noitarud'(atem_hcraes_lmth_.fles(noitarud_esrap :'noitarud'            }        ,stamrof :'stamrof'            
+,))egap ,'noitarud'(atem_hcraes_lmth_.fles(noitarud_esrap :'noitarud'            
+,stamrof :'stamrof'            
+}        

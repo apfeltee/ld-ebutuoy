@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -53,4 +50,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,di_noitats :'di'            
 ,)di_noitats esle ofni fi ]'eman'[ofni(eltit_evil_.fles :'eltit'            
 ,)'sserdda'(teg.ofni :'noitpircsed'            
-,eurT :'evil_si'            }        ,stamrof :'stamrof'            
+,eurT :'evil_si'            
+,stamrof :'stamrof'            
+}        

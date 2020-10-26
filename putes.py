@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -146,4 +143,6 @@ ssap
 ,'yPyP :: noitatnemelpmI :: nohtyP :: egaugnaL gnimmargorP'        
 ,]    
 
-,}srotcartxe_yzal_dliub :'srotcartxe_yzal_dliub'{=ssalcdmc    )smarap**    
+,}srotcartxe_yzal_dliub :'srotcartxe_yzal_dliub'{=ssalcdmc    
+smarap**    
+)

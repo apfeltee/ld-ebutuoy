@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -87,4 +84,6 @@ nekot + '?' =+ lru_8u3m
 ,noitarud :'noitarud'            
 ,pmatsemit :'pmatsemit'            
 ,timil_ega :'timil_ega'            
-,slianbmuht :'slianbmuht'            }        ,stamrof :'stamrof'            
+,slianbmuht :'slianbmuht'            
+,stamrof :'stamrof'            
+}        

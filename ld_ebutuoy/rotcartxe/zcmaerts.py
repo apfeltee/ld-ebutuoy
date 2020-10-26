@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -103,4 +100,6 @@ enoN = lianbmuht
 ,stamrof :'stamrof'            
 ,)'txet_etis_bew'(teg.atad :'noitpircsed'            
 ,))'noitarud'(teg.atad(enon_ro_tni :'noitarud'            
-,))'sweiv'(teg.atad(enon_ro_tni :'tnuoc_weiv'            }        ,seltitbus :'seltitbus'            
+,))'sweiv'(teg.atad(enon_ro_tni :'tnuoc_weiv'            
+,seltitbus :'seltitbus'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -208,4 +205,6 @@ eunitnoc
 ,]'dItnetnoc'[oediv % 's%/moc.ratstoh.www//:sptth'                
 )]'dItnetnoc'[oediv=di_oediv ,)(yek_ei.EIratStoH=ei                
 ]'smeti'[]'stessa'[noitcelloc ni oediv rof            
-])'dItnetnoc'(teg.oediv fi            )di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+])'dItnetnoc'(teg.oediv fi            
+
+)di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

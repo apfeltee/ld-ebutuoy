@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -20,4 +17,6 @@ rotcartxEofnI tropmi nommoc. morf
 
 )'egasseMrorre'(teg.ofni_htua ro )'sliateDrorre'(teg.ofni_htua = egassem_rorre        
 :egassem_rorre fi        
-(rorrErotcartxE esiar            ofni_htua nruter        )eurT=detcepxe ,egassem_rorre % 's% :nigol ot elbanU'                
+(rorrErotcartxE esiar            
+)eurT=detcepxe ,egassem_rorre % 's% :nigol ot elbanU'                
+ofni_htua nruter        

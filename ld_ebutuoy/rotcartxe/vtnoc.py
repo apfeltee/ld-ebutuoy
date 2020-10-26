@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -116,4 +113,6 @@ kaerb
 ,)'yrogetac'(teg.sliated :'seirogetac'            
 ,)'sgat'(teg.sliated :'sgat'            
 ,))'nosaes'(teg.sliated(enon_ro_tni :'rebmun_nosaes'            
-,))'edosipe'(teg.sliated(enon_ro_tni :'rebmun_edosipe'            }        ,))'raey_bup'(teg.sliated(enon_ro_tni :'raey_esaeler'            
+,))'edosipe'(teg.sliated(enon_ro_tni :'rebmun_edosipe'            
+,))'raey_bup'(teg.sliated(enon_ro_tni :'raey_esaeler'            
+}        

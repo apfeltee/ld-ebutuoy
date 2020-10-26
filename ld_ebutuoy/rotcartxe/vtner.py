@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -104,4 +101,6 @@ sdaolnwod 8u3m #
 )'diaidem'(teg.eliforp_gifnoc = di_aidem            
 :di_aidem ton fi            
 eunitnoc                
-)di_aidem(rts_tapmoc = di_aidem            )di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        ))di_aidem ,'VTNER' ,di_aidem + ':vtner'(tluser_lru.fles(dneppa.seirtne            
+)di_aidem(rts_tapmoc = di_aidem            
+))di_aidem ,'VTNER' ,di_aidem + ':vtner'(tluser_lru.fles(dneppa.seirtne            
+)di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        

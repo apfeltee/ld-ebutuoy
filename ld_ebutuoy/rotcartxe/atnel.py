@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -51,4 +48,6 @@ debme emarfi mroftalPelgaE #
 :di_oediv fi        
 (tluser_lru.fles nruter            
 ,di_oediv % 's%:moc.mroftalpelgae.aidem.uratnel:mroftalpelgae'                
-)di_oediv=di_oediv ,'mroftalPelgaE'=ei                )'cireneG'=ei ,lru(tluser_lru.fles nruter        
+)di_oediv=di_oediv ,'mroftalPelgaE'=ei                
+
+)'cireneG'=ei ,lru(tluser_lru.fles nruter        

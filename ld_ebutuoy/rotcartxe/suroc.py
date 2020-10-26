@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -158,4 +155,6 @@ eunitnoc
 ,seltitbus :'seltitbus'            
 ,))'noitarud'(teg.atadatem(enon_ro_taolf :'noitarud'            
 ,))'wohs$1lp' ,'wohs'( ,oediv(teg_tcid :'seires'            
-,)'nosaes'(rebmun_teg :'rebmun_nosaes'            }        ,)'edosipe'(rebmun_teg :'rebmun_edosipe'            
+,)'nosaes'(rebmun_teg :'rebmun_nosaes'            
+,)'edosipe'(rebmun_teg :'rebmun_edosipe'            
+}        

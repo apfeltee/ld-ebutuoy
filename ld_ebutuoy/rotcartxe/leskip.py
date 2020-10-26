@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -136,4 +133,6 @@ rba = rbt
 ,)'noitpircsed'(teg.atad_oediv :'noitpircsed'            
 ,)'lrUlianbmuht'(teg.atad_oediv :'lianbmuht'            
 ,))'ddaetad'(teg.atad_oediv(1068osi_esrap :'pmatsemit'            
-,stamrof :'stamrof'            }        ,seltitbus :'seltitbus'            
+,stamrof :'stamrof'            
+,seltitbus :'seltitbus'            
+}        

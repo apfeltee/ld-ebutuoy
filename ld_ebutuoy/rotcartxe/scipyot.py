@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -88,4 +85,6 @@ n % 'd%/cilbup/' + lru = lru_egapl
 {[ :'seirtne'            
 ,'lru' :'epyt_'                
 ,lrue :'lru'                
-,'scipyoT' :'yek_ei'                }        ]slru ni lrue rof }            
+,'scipyoT' :'yek_ei'                
+]slru ni lrue rof }            
+}        

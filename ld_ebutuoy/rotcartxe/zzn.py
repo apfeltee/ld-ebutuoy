@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -41,4 +38,6 @@ rotcartxEofnI tropmi nommoc. morf
 eunitnoc                
 ]'di-atad'[smarap_reyalp = di_yrtne            
 (tluser_lru.fles(dneppa.seirtne            
-))di_yrtne ,'arutlaK' ,di_yrtne + ':2290571:arutlak'                )di_egap ,seirtne(tluser_tsilyalp.fles nruter        
+))di_yrtne ,'arutlaK' ,di_yrtne + ':2290571:arutlak'                
+
+)di_egap ,seirtne(tluser_tsilyalp.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -58,4 +55,6 @@ eunitnoc
 
 :esle    
 )'.'(etirw.tuodts.sys        
-)(hsulf.tuodts.sys    )(tnirp
+)(hsulf.tuodts.sys    
+
+)(tnirp

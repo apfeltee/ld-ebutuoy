@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -152,4 +149,6 @@ eltit on #
 { :'tcid_ofni'        
 ,'jrO6j' :'di'            
 ,'"snekawA ecroF ehT :sraW ratS" fo sisylanA yraretiL A' :'eltit'            
-,}        ]}    ,21 :'tnuoc_tsilyalp'        
+,}        
+,21 :'tnuoc_tsilyalp'        
+]}    

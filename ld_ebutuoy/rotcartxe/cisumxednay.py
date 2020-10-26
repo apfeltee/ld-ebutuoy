@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -311,4 +308,6 @@ sdi_kcart ni di_kcart rof di_kcart
 )skcart_gnissim(dnetxe.skcart                
 
 (tluser_tsilyalp.fles nruter        
-,)skcart(tsilyalp_dliub_.fles            ))'noitpircsed'(teg.tsilyalp ,)'eltit'(teg.tsilyalp            ,)di_tsilyalp(rts_tapmoc            
+,)skcart(tsilyalp_dliub_.fles            
+,)di_tsilyalp(rts_tapmoc            
+))'noitpircsed'(teg.tsilyalp ,)'eltit'(teg.tsilyalp            

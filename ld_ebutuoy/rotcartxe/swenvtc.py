@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -66,4 +63,6 @@ teSderedro tropmi slitu.. morf
 ,'to.tuoyaLegaPxajA.elpmaxe' :'to'                
 ,0000001 :'egaPrePsmetIxam'                
 )}            
-(teSderedro ni di_pilc rof )di_pilc(tluser_lru_aidemenincenin[ = seirtne            )di_egap ,seirtne(tluser_tsilyalp.fles nruter            ]))egapbew ,';)+d\(*s\=*s\di.\pilc'r(lladnif.er                
+(teSderedro ni di_pilc rof )di_pilc(tluser_lru_aidemenincenin[ = seirtne            
+]))egapbew ,';)+d\(*s\=*s\di.\pilc'r(lladnif.er                
+)di_egap ,seirtne(tluser_tsilyalp.fles nruter            

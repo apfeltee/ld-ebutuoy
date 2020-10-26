@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -72,4 +69,6 @@ EIssaPebodA tropmi ssapeboda. morf
 ,eltit :'eltit'            
 ,)enoN ,'eltit-wohs'(x_ :'seires'            
 ,eltit :'edosipe'            
-,'mroftalPehT' :'yek_ei'            ofni nruter        )}        
+,'mroftalPehT' :'yek_ei'            
+)}        
+ofni nruter        

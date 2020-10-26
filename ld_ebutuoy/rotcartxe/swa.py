@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -76,4 +73,6 @@ lmth.tseuqer-ot-erutangis-dda-4vgis/rg/tsetal/lareneg/moc.nozama.swa.scod//:ptth
 ,erutangis % 's%=erutangiS'            
 )]        
 
-(nosj_daolnwod_.fles nruter        )sredaeh=sredaeh ,di_oediv            ,)'' esle gnirtsyreuq_lacinonac fi gnirtsyreuq_lacinonac + '?' ,]'iru'[tcid_swa ,TSOH_YXORP_SWA_.fles( % 's%s%s%//:sptth'            
+(nosj_daolnwod_.fles nruter        
+,)'' esle gnirtsyreuq_lacinonac fi gnirtsyreuq_lacinonac + '?' ,]'iru'[tcid_swa ,TSOH_YXORP_SWA_.fles( % 's%s%s%//:sptth'            
+)sredaeh=sredaeh ,di_oediv            

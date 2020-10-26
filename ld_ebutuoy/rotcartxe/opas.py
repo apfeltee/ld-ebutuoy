@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -117,4 +114,6 @@ txet.)'eliFoediv}/ssrm/tp.opas.soediv//:ptth{/.'(dnif.meti = lru_oediv
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
 ,seirogetac :'seirogetac'            
-,timil_ega :'timil_ega'            }        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+}        

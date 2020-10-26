@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -63,4 +60,6 @@ dohtemssalc@
 ])egapbew ,')+d\>di<P?(?)]'\"[(=di-oediv-atad'r                
 
 )eslaF=lataf ,egapbew(eltit_hcraes_go_.fles = eltit        
-)egapbew(noitpircsed_hcraes_go_.fles = noitpircsed        )noitpircsed ,eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        
+)egapbew(noitpircsed_hcraes_go_.fles = noitpircsed        
+
+)noitpircsed ,eltit ,di_yalpsid ,seirtne(tluser_tsilyalp.fles nruter        

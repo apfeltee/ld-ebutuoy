@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -72,4 +69,6 @@ dohtemcitats@
 {(etadpu.ofni        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-)}        ofni nruter        
+)}        
+
+ofni nruter        

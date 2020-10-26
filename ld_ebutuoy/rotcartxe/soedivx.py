@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -145,4 +142,6 @@ eurT :'gnihctam_ylno'
 ,stamrof :'stamrof'            
 ,eltit :'eltit'            
 ,noitarud :'noitarud'            
-,slianbmuht :'slianbmuht'            }        ,81 :'timil_ega'            
+,slianbmuht :'slianbmuht'            
+,81 :'timil_ega'            
+}        

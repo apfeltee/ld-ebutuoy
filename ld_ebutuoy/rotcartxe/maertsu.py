@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 modnar tropmi
@@ -22,7 +19,7 @@ rotcartxEofnI tropmi nommoc. morf
 
 
 :)rotcartxEofnI(EImaertsU ssalc
-')+d\>di<P?(/)dedrocer/debme|debme|dedrocer>epyt<P?(/)moc.\mbi.\oediv|vt.\maertsu:?(?).\www:?(//:?sptth'r = LRU_DILAV_    
+')+d\>di<P?(/)dedrocer/debme|debme|dedrocer>epyt<P?(/vt.\maertsu?).\www:?(//:?sptth'r = LRU_DILAV_    
 'maertsu' = EMAN_EI    
 {[ = STSET_    
 ,'45947202/dedrocer/vt.maertsu.www//:ptth' :'lru'        
@@ -70,15 +67,12 @@ NOSJ smarap morf ylno elbaliava redaolpu dna eltiT #
 { :'smarap'        
 daolnwod 8u3m #  ,eurT :'daolnwod_piks'            
 ,}        
-{ ,}    
-,'001=emulov&eurt=slortnoc&eurt=yalpotua&?122042821/dedrocer/debme/moc.mbi.oediv//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
 ]}    
 
 dohtemcitats@    
 :)egapbew(lru_tcartxe_ fed    
 (hcraes.er = jbom        
-)egapbew ,'1\)?+./debme/)moc.\mbi.\oediv|vt.\maertsu:?(?).\www:?(//:ptth>lru<P?()]'\"[(=crs?+]>^[emarfi<'r            
+)egapbew ,'1\)?+./debme/vt.\maertsu.\www//:ptth>lru<P?()]'\"[(=crs?+]>^[emarfi<'r            
 :enoN ton si jbom fi        
 )'lru'(puorg.jbom nruter            
 
@@ -282,4 +276,6 @@ di_lennahc % 'nosj.1/s%/soediv/maertslaicos/xaja/' = lru_txen
 { nruter        
 ,'tsilyalp' :'epyt_'            
 ,di_lennahc :'di'            
-,di_yalpsid :'di_yalpsid'            }        ,seirtne :'seirtne'            
+,di_yalpsid :'di_yalpsid'            
+,seirtne :'seirtne'            
+}        

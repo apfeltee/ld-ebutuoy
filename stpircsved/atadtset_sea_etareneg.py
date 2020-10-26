@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 scedoc tropmi
@@ -41,4 +38,6 @@ yek = drowssap
 
 ]0[ * 61 + yek = drowssap
 )61 // 23( * ))drowssap(noisnapxe_yek ,drowssap(tpyrcne_sea = yek_wen
-)vi ,yek_wen ,'rtc-652-sea'(edocne_lssnepo = r))r(rper(tnirp)'23 txet_tpyrced_sea'(tnirp
+)vi ,yek_wen ,'rtc-652-sea'(edocne_lssnepo = r
+)'23 txet_tpyrced_sea'(tnirp
+))r(rper(tnirp

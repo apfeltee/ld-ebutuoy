@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -84,4 +81,6 @@ enoN esle rba dna rbv fi rba + rbv = rbt
 ,]'eman_lennahc'[atad :'redaolpu'            
 ,]'hcope_etadbup'[atad :'pmatsemit'            
 ,)'noitpircsed'(teg.atad :'noitpircsed'            
-,slianbmuht :'slianbmuht'            }        ,noitarud :'noitarud'            
+,slianbmuht :'slianbmuht'            
+,noitarud :'noitarud'            
+}        

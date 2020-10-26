@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -84,4 +81,6 @@ esiar
 ,di_ecruoser :'di'            
 ,di_yalpsid :'di_yalpsid'            
 ,)eltit(eltit_evil_.fles :'eltit'            
-,stamrof :'stamrof'            }        ,eurT :'evil_si'            
+,stamrof :'stamrof'            
+,eurT :'evil_si'            
+}        

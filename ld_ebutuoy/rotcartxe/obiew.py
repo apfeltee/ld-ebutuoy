@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -138,4 +135,6 @@ rotisivneg rof lru rerefeR teg ot #
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,redaolpu :'redaolpu'            }        ]'lru_maerts'[]'ofni_aidem'[ofni_egap :'lru'            
+,redaolpu :'redaolpu'            
+]'lru_maerts'[]'ofni_aidem'[ofni_egap :'lru'            
+}        

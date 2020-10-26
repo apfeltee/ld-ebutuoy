@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ eunitnoc
 )daolyap(lru_tcartxe_.EIelbamaertS = lru_elbamaerts            
 :lru_elbamaerts fi            
 (tluser_lru.fles(dneppa.seirtne                
-)))(yek_ei.EIelbamaertS ,lru_elbamaerts                    )eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        
+)))(yek_ei.EIelbamaertS ,lru_elbamaerts                    
+
+)eltit_tsilyalp ,di_tsilyalp ,seirtne(tluser_tsilyalp.fles nruter        

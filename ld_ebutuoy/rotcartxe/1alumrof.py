@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -31,4 +28,6 @@ daolnwod 8u3m #
 )lru(di_hctam_.fles = di_yalpsid        
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_.fles = edoc_debme_alayoo        
-)'edoc debme alayoo' ,egapbew ,'")+]"^[("=dioediv-atad'r            )edoc_debme_alayoo ,'alayoO' ,edoc_debme_alayoo % 's%:alayoo'            (tluser_lru.fles nruter        
+)'edoc debme alayoo' ,egapbew ,'")+]"^[("=dioediv-atad'r            
+(tluser_lru.fles nruter        
+)edoc_debme_alayoo ,'alayoO' ,edoc_debme_alayoo % 's%:alayoo'            

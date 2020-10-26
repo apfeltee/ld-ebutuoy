@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,)'tamrof' ,atadatem(txet_htapx :'seires'            
 ,))'nosaes' ,atadatem(txet_htapx(enon_ro_tni :'rebmun_nosaes'            
 ,)'di_nosaes' ,atadatem(txet_htapx :'di_nosaes'            
-,eltit :'edosipe'            }        ,))'edosipe' ,atadatem(txet_htapx(enon_ro_tni :'rebmun_edosipe'            
+,eltit :'edosipe'            
+,))'edosipe' ,atadatem(txet_htapx(enon_ro_tni :'rebmun_edosipe'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 EIdeeFmroftalPehT tropmi mroftalpeht. morf
@@ -110,4 +107,6 @@ e_tsal esiar
 )}        
 ofni nruter        
 
-:)lru ,fles(tcartxe_laer_ fed    )di_tnetnoc(ofni_oediv_tcartxe_.fles nruter        )lru(di_hctam_.fles = di_tnetnoc        
+:)lru ,fles(tcartxe_laer_ fed    
+)lru(di_hctam_.fles = di_tnetnoc        
+)di_tnetnoc(ofni_oediv_tcartxe_.fles nruter        

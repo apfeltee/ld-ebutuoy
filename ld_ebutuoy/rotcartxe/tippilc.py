@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -72,4 +69,6 @@ redaolpu + '/p/vt.resutippilc.www//:sptth'( = lru_redaolpu
 ,redaolpu :'redaolpu'            
 ,lru_redaolpu :'lru_redaolpu'            
 ,)pmatsemit(1068osi_esrap :'pmatsemit'            
-,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            }        ,lianbmuht :'lianbmuht'            
+,)egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+}        

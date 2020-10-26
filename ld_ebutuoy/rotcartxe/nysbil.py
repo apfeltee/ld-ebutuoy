@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -91,4 +88,6 @@ secaps lamron dna gnikaerb-non pirtS #
 ,noitpircsed :'noitpircsed'            
 ,)'lru_lianbmuht'(teg.atad :'lianbmuht'            
 ,etad_esaeler :'etad_daolpu'            
-,))'noitarud'(teg.atad(noitarud_esrap :'noitarud'            }        ,stamrof :'stamrof'            
+,))'noitarud'(teg.atad(noitarud_esrap :'noitarud'            
+,stamrof :'stamrof'            
+}        

@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -102,4 +99,6 @@ oediv dedaolpu raluger #
 ,pmatsemit :'pmatsemit'            
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,rotaerc :'rotaerc'            
-,sgat :'sgat'            }        ,stamrof :'stamrof'            
+,sgat :'sgat'            
+,stamrof :'stamrof'            
+}        

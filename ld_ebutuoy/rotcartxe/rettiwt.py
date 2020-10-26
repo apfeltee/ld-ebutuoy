@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -581,18 +578,6 @@ h ,w nruter
 'tsacdaorb:rettiwt' = EMAN_EI    
 ')}31{]Z-Az-a9-0[>di<P?(/stsacdaorb/i'r + XEGER_ESAB_.EIesaBrettiwT = LRU_DILAV_    
 
-{ = TSET_    
-oediv epocsireP deltitnu #        
-,'jGjepWLQaGNy1/stsacdaorb/i/moc.rettiwt//:sptth' :'lru'        
-{ :'tcid_ofni'        
-,'jGjepWLQaGNy1' :'di'            
-,'4pm' :'txe'            
-,'tsacdaorB epocsireP - iruohaS yaM aerdnA' :'eltit'            
-,'iruohaS yaM aerdnA' :'redaolpu'            
-,'eKwGpWZBdEXP1' :'di_redaolpu'            
-,}        
-}    
-
 :)lru ,fles(tcartxe_laer_ fed    
 )lru(di_hctam_.fles = di_tsacdaorb        
 (ipa_llac_.fles = tsacdaorb        
@@ -608,4 +593,6 @@ oediv epocsireP deltitnu #
 (esraplru_esrap_billru_tapmoc(sq_esrap_tapmoc = di_8u3m        
 ]0[)]enoN[ ,'epyt'(teg.)yreuq.)lru_8u3m            
 )tsacdaorb(ofni_tamrof_nommoc_tcartxe_.fles = thgieh ,htdiw ,etats        
-(stamrof_8u3m_pcsp_tcartxe_.fles = ]'stamrof'[ofni        ofni nruter        )thgieh ,htdiw ,etats ,di_8u3m ,di_tsacdaorb ,lru_8u3m            
+(stamrof_8u3m_pcsp_tcartxe_.fles = ]'stamrof'[ofni        
+)thgieh ,htdiw ,etats ,di_8u3m ,di_tsacdaorb ,lru_8u3m            
+ofni nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -56,4 +53,6 @@ enoN si rts_seirogetac fi enoN
 ,seirogetac :'seirogetac'            
 ,tnuoc_weiv :'tnuoc_weiv'            
 ,81 :'timil_ega'            
-)}        atad_oediv nruter        
+)}        
+
+atad_oediv nruter        

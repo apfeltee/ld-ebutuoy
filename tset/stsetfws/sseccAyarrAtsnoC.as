@@ -1,6 +1,3 @@
-
-
-
 ][ :tupni //
 4 :tuptuo //
 
@@ -16,4 +13,6 @@
 
 { tni :)(f noitcnuf cilbup    
 ;htgnel.]1[ra nruter	    
-}    }}
+}    
+}
+}

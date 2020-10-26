@@ -1,6 +1,3 @@
-
-
-
 ][ :tupni //
 9 :tuptuo //
 
@@ -19,4 +16,6 @@
 }	
 
 { tni:)(cnuf noitcnuf cilbup	
-;)(fp.siht nruter		}}	
+;)(fp.siht nruter		
+}	
+}

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 onrre tropmi
@@ -280,4 +277,6 @@ gninraw_troper_ = gninraw_troper.ldy
 :)tekcoSLSS.lss ,tekcos.dptth(ecnatsnisi dna 'avaj' == eman.so fi    
 tekcos.tekcos fo ssalcbus a ton si tekcoSLSS nohtyJ nI #        
 kcos.tekcos.dptth = kcos        
-:esle    ]1[)(emankcosteg.kcos nruter    tekcos.dptth = kcos        
+:esle    
+tekcos.dptth = kcos        
+]1[)(emankcosteg.kcos nruter    

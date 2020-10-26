@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -676,4 +673,6 @@ eunitnoc
 di_tsop % 's% tsop llaW' = eltit        
 
 (tluser_tsilyalp.fles nruter        
-,di_tsop ,)seirtne(teSderedro            )noitpircsed            ,eltit esle redaolpu fi )eltit ,redaolpu( % 's% - s%'            
+,di_tsop ,)seirtne(teSderedro            
+,eltit esle redaolpu fi )eltit ,redaolpu( % 's% - s%'            
+)noitpircsed            

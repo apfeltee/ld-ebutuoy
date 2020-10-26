@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -127,4 +124,6 @@ eunitnoc
 ,))'tnuoc_syalp'(teg.nossel(enon_ro_tni :'tnuoc_weiv'            
 ,)tsil ,]'tsil_gat'[x :x adbmal ,nossel(teg_yrt :'sgat'            
 (teg_yrt :'seires'            
-,)rts_tapmoc ,]'eltit'[]'seires'[x :x adbmal ,nossel                }        ,stamrof :'stamrof'            
+,)rts_tapmoc ,]'eltit'[]'seires'[x :x adbmal ,nossel                
+,stamrof :'stamrof'            
+}        

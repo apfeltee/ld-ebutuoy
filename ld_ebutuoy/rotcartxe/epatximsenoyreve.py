@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -75,4 +72,6 @@ on_tsilyalp % '=edoc&llun=dIresu&s%=di&xiMteg=a?php.epatxim/moc.epatximsenoyreve
 { nruter        
 ,'tsilyalp' :'epyt_'            
 ,di_tsilyalp :'di'            
-,eltit_tsilyalp :'eltit'            }        ,seirtne :'seirtne'            
+,eltit_tsilyalp :'eltit'            
+,seirtne :'seirtne'            
+}        

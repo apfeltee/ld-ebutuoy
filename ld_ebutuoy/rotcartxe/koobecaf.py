@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -469,18 +466,15 @@ lru esle )':koobecaf'(htiwstrats.lru fi di_oediv % ETALPMET_EGAP_OEDIV_.fles = l
 tcid_ofni nruter            
 
 :lru ni '/stsop/' fi        
-(xeger_hcraes_.fles = nosj_di_oediv            
-,'sdi'=puorg ,'sdi oediv' ,egapbew ,')]\?+.[\>sdi<P?(*s\:*s\1\sdi_oediv)]'\"[('r                
-)''=tluafed                
-:nosj_di_oediv fi            
-[ = seirtne                
-))(yek_ei.EIkoobecaF ,div % 's%:koobecaf'(tluser_lru.fles                    
-])di_oediv ,nosj_di_oediv(nosj_esrap_.fles ni div rof                    
-)di_oediv ,seirtne(tluser_tsilyalp.fles nruter                
+[ = seirtne            
+))(yek_ei.EIkoobecaF ,div % 's%:koobecaf'(tluser_lru.fles                
+(nosj_esrap_.fles ni div rof                
+(xeger_hcraes_.fles                    
+,')]\?+.[\>sdi<P?(*s\:*s\1\sdi_oediv)]'\"[('r                        
+,)'sdi'=puorg ,'sdi oediv' ,egapbew                        
+])di_oediv                    
 
-?oediV elgniS #            
-)'di oediv elgnis' ,egapbew ,'")+]9-0[("*s\:di_oediv'r(xeger_hcraes_.fles = di_oediv            
-))(yek_ei.EIkoobecaF ,di_oediv % 's%:koobecaf'(tluser_lru.fles nruter            
+)di_oediv ,seirtne(tluser_tsilyalp.fles nruter            
 :esle        
 (lru_morf_tcartxe_.fles = tcid_ofni ,_            
 ,di_oediv % ETALPMET_EGAP_OEDIV_.fles                
@@ -512,4 +506,6 @@ tcid_ofni nruter
 ]}    
 
 :)lru ,fles(tcartxe_laer_ fed    
-(tluser_lru.fles nruter        ))(yek_ei.EIkoobecaF            ,))lru(di_hctam_.fles(etouqnu_esrap_billru_tapmoc            
+(tluser_lru.fles nruter        
+,))lru(di_hctam_.fles(etouqnu_esrap_billru_tapmoc            
+))(yek_ei.EIkoobecaF            

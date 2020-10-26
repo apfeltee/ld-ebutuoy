@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -21,7 +18,7 @@ rotcartxEofnI tropmi nommoc. morf
 )yreuq=yreuq ,di_meti            
 
 :)di_oediv ,tsacdaorb ,fles(atad_tsacdaorb_esrap_ fed    
-'tsacdaorB epocsireP' ro )'sutats'(teg.tsacdaorb = eltit        
+]'sutats'[tsacdaorb = eltit        
 )'emanresu'(teg.tsacdaorb ro )'eman_yalpsid_resu'(teg.tsacdaorb = redaolpu        
 eltit esle redaolpu fi )eltit ,redaolpu( % 's% - s%' = eltit        
 'gninnur' == )(rewol.)'etats'(teg.tsacdaorb = evil_si        
@@ -187,4 +184,6 @@ eman_resu ro )'emanresu'(teg.resu ro )'eman_yalpsid'(teg.resu = eltit
 [ = seirtne        
 (tluser_lru.fles            
 ))di_tsacdaorb ,eman_resu( % 's%/s%/vt.epocsirep.www//:sptth'                
-]sdi_tsacdaorb ni di_tsacdaorb rof            )noitpircsed ,eltit ,di_resu ,seirtne(tluser_tsilyalp.fles nruter        
+]sdi_tsacdaorb ni di_tsacdaorb rof            
+
+)noitpircsed ,eltit ,di_resu ,seirtne(tluser_tsilyalp.fles nruter        

@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -78,4 +75,6 @@ etadrts_deifinu
 ,lru_oediv :'lru'            
 ,lianbmuht :'lianbmuht'            
 ,noitpircsed :'noitpircsed'            
-,etad_hsilbup :'etad_daolpu'            }        ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+,etad_hsilbup :'etad_daolpu'            
+,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
+}        

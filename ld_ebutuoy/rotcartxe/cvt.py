@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -107,4 +104,6 @@ eunitnoc
 ,'CVT' :'yek_ei'            
 ,)egapbew(lru_oediv_hcraes_go_.fles :'lru'            
 ,))egapbew(eltit_hcraes_go_.fles(lmth_naelc :'eltit'            
-,))egapbew(noitpircsed_hcraes_go_.fles(lmth_naelc :'noitpircsed'            }        ,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+,))egapbew(noitpircsed_hcraes_go_.fles(lmth_naelc :'noitpircsed'            
+,)egapbew(lianbmuht_hcraes_go_.fles :'lianbmuht'            
+}        

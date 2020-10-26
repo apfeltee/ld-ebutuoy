@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -205,4 +202,6 @@ eunitnoc
 ,)'egami'(teg.ofni_oediv :'lianbmuht'            
 ,stamrof :'stamrof'            
 ,)di_oediv ,htap_bus(seltitbus_tcartxe.fles :'seltitbus'            
-,)'eltiToediv'(teg.ofni_oediv ro )'eltitbus'(teg.satem :'edosipe'            }        ,)'eltiTtsilyalp'(teg.ofni_oediv :'seires'            
+,)'eltiToediv'(teg.ofni_oediv ro )'eltitbus'(teg.satem :'edosipe'            
+,)'eltiTtsilyalp'(teg.ofni_oediv :'seires'            
+}        

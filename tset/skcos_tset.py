@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
@@ -116,4 +113,6 @@ nruter
 :)fles(5skcos_tset fed    
 ))rts_tapmoc ,)'5skcos'(pi_teg_.fles(ecnatsnisi(eurTtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

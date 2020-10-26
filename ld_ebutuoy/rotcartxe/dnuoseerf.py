@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -77,4 +74,6 @@ enoN esle rts_sgat fi )rts_sgat ,')+]<^[(>+]>^[a<'r(lladnif.er = sgat
 ,noitarud :'noitarud'            
 ,redaolpu :'redaolpu'            
 ,etad_daolpu :'etad_daolpu'            
-,sgat :'sgat'            }        ,stamrof :'stamrof'            
+,sgat :'sgat'            
+,stamrof :'stamrof'            
+}        

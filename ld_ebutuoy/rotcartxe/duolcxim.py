@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 slootreti tropmi
@@ -349,4 +346,6 @@ guls''' = ETALPMET_EDON_
 guls            
 lru            
 '''}          
-}{ ro )'tsacduolc'(teg.edon nruter        :)edon ,fles(tsacduolc_teg_ fed    
+
+:)edon ,fles(tsacduolc_teg_ fed    
+}{ ro )'tsacduolc'(teg.edon nruter        

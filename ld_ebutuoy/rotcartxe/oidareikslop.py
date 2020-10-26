@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -178,4 +175,6 @@ kaerb
 (xeger_hcraes_lmth_.fles = eltit        
 ,'>eltit/<+]<^[ - +]<^[ - )+]<^[(>eltit<'r            
 )eslaF=lataf ,'eltit' ,egapbew            
-(tluser_tsilyalp.fles nruter        )eltit ,di_yrogetac            ,)di_yrogetac ,egapbew ,lru(seirtne_.fles            
+(tluser_tsilyalp.fles nruter        
+,)di_yrogetac ,egapbew ,lru(seirtne_.fles            
+)eltit ,di_yrogetac            

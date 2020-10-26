@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -60,4 +57,6 @@ rts_tapmoc tropmi tapmoc.. morf
 ,)'resaet'(teg.klat :'noitpircsed'            
 ,)'lru_egami'(teg.klat :'lianbmuht'            
 ,))'noitarud_devihcra'(teg.klat(enon_ro_tni :'noitarud'            
-,))'tnuoc_yalp'(teg.klat(enon_ro_tni :'tnuoc_weiv'            }        ,stamrof :'stamrof'            
+,))'tnuoc_yalp'(teg.klat(enon_ro_tni :'tnuoc_weiv'            
+,stamrof :'stamrof'            
+}        

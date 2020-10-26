@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -102,4 +99,6 @@ daolnwod 8u3m #
 {(etadpu.tcid_ofni        
 ,di_yalpsid :'di_yalpsid'            
 ,pmatsemit :'pmatsemit'            
-)}        tcid_ofni nruter        
+)}        
+
+tcid_ofni nruter        

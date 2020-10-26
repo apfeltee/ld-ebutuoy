@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -32,4 +29,6 @@ eurT :'daolnwod_piks'
 
 :)lru ,fles(tcartxe_laer_ fed    
 )lru ,LRU_DILAV_.fles(hctam.er = jbom        
-]0[)]1-[)'/'(tilps.lru(txetilps.htap.so = di_oediv        )di_oediv=di_oediv ,)'lru'(puorg.jbom(tluser_lru.fles nruter        
+]0[)]1-[)'/'(tilps.lru(txetilps.htap.so = di_oediv        
+
+)di_oediv=di_oediv ,)'lru'(puorg.jbom(tluser_lru.fles nruter        

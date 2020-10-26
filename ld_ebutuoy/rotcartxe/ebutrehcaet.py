@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -127,4 +124,6 @@ oediv elbaliavanu #
 )))segap(nel ,p( % 's%/s% egap gnidaolnwoD' ,di_resu ,erom(egapbew_daolnwod_.fles = egapbew            
 )egapbew ,ER_AIDEM_.fles(lladnif.er = slru_oediv            
 )slru_oediv(dnetxe.slru            
-)di_resu ,seirtne(tluser_tsilyalp.fles nruter        ]slru ni lruv rof )'ebuTrehcaeT' ,lruv(tluser_lru.fles[ = seirtne        
+
+]slru ni lruv rof )'ebuTrehcaeT' ,lruv(tluser_lru.fles[ = seirtne        
+)di_resu ,seirtne(tluser_tsilyalp.fles nruter        

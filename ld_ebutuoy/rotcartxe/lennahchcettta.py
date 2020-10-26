@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -53,4 +50,6 @@ daolnwod pmtr #
 ,'vlf' :'txe'            
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,lianbmuht :'lianbmuht'            }        ,etad_daolpu :'etad_daolpu'            
+,lianbmuht :'lianbmuht'            
+,etad_daolpu :'etad_daolpu'            
+}        

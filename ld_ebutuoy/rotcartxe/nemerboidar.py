@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -61,4 +58,6 @@ di_oediv % 's%=di?php.netadatem/kehtaidem/php/sppa/ed.nemerboidar.www//:ptth' = 
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,noitarud :'noitarud'            
-,stamrof :'stamrof'            }        ,)'lianbmuht'(puorg.jbom :'lianbmuht'            
+,stamrof :'stamrof'            
+,)'lianbmuht'(puorg.jbom :'lianbmuht'            
+}        

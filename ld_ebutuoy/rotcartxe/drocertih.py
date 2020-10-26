@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -66,4 +63,6 @@ tsil_sgat ni t rof
 ,))]'di'[]'resu'[x(rts_tapmoc :x adbmal ,oediv                
 ,))'tnuoc_sweiv_latot'(teg.oediv(enon_ro_tni :'tnuoc_weiv'            
 ,))'tnuoc_straeh'(teg.oediv(enon_ro_tni :'tnuoc_ekil'            
-,))'tnuoc_stnemmoc'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            }        ,sgat :'sgat'            
+,))'tnuoc_stnemmoc'(teg.oediv(enon_ro_tni :'tnuoc_tnemmoc'            
+,sgat :'sgat'            
+}        

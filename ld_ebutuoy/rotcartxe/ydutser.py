@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -42,4 +39,6 @@ daolnwod pmtr #
 { nruter        
 ,di_oediv :'di'            
 ,eltit :'eltit'            
-,noitpircsed :'noitpircsed'            }        ,stamrof :'stamrof'            
+,noitpircsed :'noitpircsed'            
+,stamrof :'stamrof'            
+}        

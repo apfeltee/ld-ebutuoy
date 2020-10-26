@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 EIesaBLHN tropmi lhn. morf
@@ -118,4 +115,6 @@ remoh-a-fo-mahkceb-mit-bor-ot-llaw-eht-pu-yedips-seog-rallip-nivek-syaj-eulb/890
 ,}        
 {        
 ,'248219872-c/naf-sa-na-morf-sessalgnus-deworrob-zemog-solrac/4tuc/moc.blm.www//:sptth' :'lru'            
-,eurT :'gnihctam_ylno'            ]    }        
+,eurT :'gnihctam_ylno'            
+}        
+]    

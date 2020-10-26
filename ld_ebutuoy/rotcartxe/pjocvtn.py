@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -47,4 +44,6 @@ daolnwod 8u3m #
 ,di_yalpsid :'di_yalpsid'            
 ,)(pirts.)'eltit' ,egapbew ,')+]<^[(>*]>^["eltit"=ssalc+]>^[1h<'r(xeger_hcraes_.fles :'eltit'            
 ,)egapbew ,]'noitpircsed:go' ,'noitpircsed'[(atem_hcraes_lmth_.fles :'noitpircsed'            
-,)}]'PJ'[ :'seirtnuoc_oeg'{ ,)di_oediv ,di_tnuocca( % ETALPMET_LRU_EVOCTHGIRB.fles(lru_elggums :'lru'            }        ,'weNevocthgirB' :'yek_ei'            
+,)}]'PJ'[ :'seirtnuoc_oeg'{ ,)di_oediv ,di_tnuocca( % ETALPMET_LRU_EVOCTHGIRB.fles(lru_elggums :'lru'            
+,'weNevocthgirB' :'yek_ei'            
+}        

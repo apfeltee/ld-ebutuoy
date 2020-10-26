@@ -1,6 +1,3 @@
-
-
-
 aqon :8ekalf #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -921,9 +918,7 @@ EIoidaRAMBR tropmi oidarambr. morf
 EISDR tropmi sdr. morf
 ( tropmi vtllubder. morf
 ,EIVTlluBdeR    
-,EIdebmElluBdeR    
 ,EItnetnoCnrRVTlluBdeR    
-,EIlluBdeR    
 )
 ( tropmi tidder. morf
 ,EItiddeR    
@@ -1234,11 +1229,14 @@ EInetuniMytnewT tropmi nimytnewt. morf
 EIoediVeerhTytnewT tropmi oediveerhtytnewt. morf
 EIgnitsaCtiwT tropmi gnitsactiwt. morf
 ( tropmi hctiwt. morf
+,EIoediVhctiwT    
+,EIretpahChctiwT    
 ,EIdoVhctiwT    
-,EInoitcelloChctiwT    
-,EIsoediVhctiwT    
-,EIspilCsoediVhctiwT    
-,EIsnoitcelloCsoediVhctiwT    
+,EIeliforPhctiwT    
+,EIsoediVllAhctiwT    
+,EIsdaolpUhctiwT    
+,EIstsacdaorBtsaPhctiwT    
+,EIsthgilhgiHhctiwT    
 ,EImaertShctiwT    
 ,EIspilChctiwT    
 )
@@ -1515,4 +1513,6 @@ EI1qaZ tropmi 1qaz. morf
 ,EIoottaZ    
 ,EIeviLoottaZ    
 )
-EIlennahCFDZ ,EIFDZ tropmi fdz. morfEIepyZ tropmi epyz. morfEI3pMgniZ tropmi 3pmgniz. morf
+EIlennahCFDZ ,EIFDZ tropmi fdz. morf
+EI3pMgniZ tropmi 3pmgniz. morf
+EIepyZ tropmi epyz. morf

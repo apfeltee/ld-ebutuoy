@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 nosj tropmi
@@ -62,4 +59,6 @@ yreuq + '?xhsa.noitarugifnoc/6/reyalp/ten.evihcraoedivtenretni.oediv//:ptth' nru
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,stamrof :'stamrof'            
-,)'lrUretsoP'(teg.atad :'lianbmuht'            }        ,)'noitpircseD'(teg.atad :'noitpircsed'            
+,)'lrUretsoP'(teg.atad :'lianbmuht'            
+,)'noitpircseD'(teg.atad :'noitpircsed'            
+}        

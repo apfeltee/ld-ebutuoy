@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -69,4 +66,6 @@ enoN esle slianbmuht fi ]'lru'[]0[slianbmuht = lianbmuht
 ,slianbmuht :'slianbmuht'            
 ,lianbmuht :'lianbmuht'            
 ,noitarud :'noitarud'            
-,81 :'timil_ega'            }        ,stamrof :'stamrof'            
+,81 :'timil_ega'            
+,stamrof :'stamrof'            
+}        

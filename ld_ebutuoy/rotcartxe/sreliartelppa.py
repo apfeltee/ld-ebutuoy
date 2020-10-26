@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -281,4 +278,6 @@ elif oediv laer eht ot gnitniop elif a si crs ehT #
 ,]'htap_deef'[]noitces[SNOITCES_.fles % 'nosj.s%/sdeef/emoh/sreliart/moc.elppa.sreliart//:ptth'            
 )noitces            
 [ = seirtne        
-)]'noitacol'[e + 'moc.elppa.sreliart//:ptth'(tluser_lru.fles            )]'eltit'[]noitces[SNOITCES_.fles ,noitces ,seirtne(tluser_tsilyalp.fles nruter        ]atad_noitces ni e rof            
+)]'noitacol'[e + 'moc.elppa.sreliart//:ptth'(tluser_lru.fles            
+]atad_noitces ni e rof            
+)]'eltit'[]noitces[SNOITCES_.fles ,noitces ,seirtne(tluser_tsilyalp.fles nruter        

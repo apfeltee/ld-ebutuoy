@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -31,4 +28,6 @@ rotcartxEofnI tropmi nommoc. morf
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_.fles = dim        
 ,')}8{]9-0Z-Az-a[()-reyalp-oediv-wj]'\"[=di|]'\"[=dim-atad:?('r            
-)'di aidem' ,egapbew            )dim ,'mroftalPWJ' ,dim + ':mroftalpwj'(tluser_lru.fles nruter        
+)'di aidem' ,egapbew            
+
+)dim ,'mroftalPWJ' ,dim + ':mroftalpwj'(tluser_lru.fles nruter        

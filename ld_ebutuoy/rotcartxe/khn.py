@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -91,4 +88,6 @@ eunitnoc
 ,htap_oidua % '8u3m.retsam/s%i/ten.dhiamaka.hv-dlrowkhn//:sptth'                
 ,'evitan_8u3m'=locotorp_yrtne ,'a4m' ,di_edosipe                
 )eslaF=lataf ,'slh'=di_8u3m                
-:]'stamrof'[ofni ni f rof            ofni nruter        gnal = ]'egaugnal'[f                
+:]'stamrof'[ofni ni f rof            
+gnal = ]'egaugnal'[f                
+ofni nruter        

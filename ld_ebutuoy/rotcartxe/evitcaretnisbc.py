@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -101,4 +98,6 @@ enoN = di_redaolpu
 ,eltit :'eltit'            
 ,))'noitarud'(teg.atadv(enon_ro_tni :'noitarud'            
 ,redaolpu :'redaolpu'            
-,di_redaolpu :'di_redaolpu'            ofni nruter        )}        
+,di_redaolpu :'di_redaolpu'            
+)}        
+ofni nruter        

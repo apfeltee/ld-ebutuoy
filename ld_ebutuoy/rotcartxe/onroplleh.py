@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -74,4 +71,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,seirogetac :'seirogetac'            
 ,noitarud :'noitarud'            
 ,pmatsemit :'pmatsemit'            
-,tnuoc_weiv :'tnuoc_weiv'            )}        ,81 :'timil_ega'            
+,tnuoc_weiv :'tnuoc_weiv'            
+,81 :'timil_ega'            
+)}        

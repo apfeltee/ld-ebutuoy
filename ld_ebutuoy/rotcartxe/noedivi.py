@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -81,4 +78,6 @@ enoN ,enoN = noitpircsed ,eman_aremac
 ,di_revres :'di'            
 ,)di_revres ro eman_aremac(eltit_evil_.fles :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,eurT :'evil_si'            }        ,stamrof :'stamrof'            
+,eurT :'evil_si'            
+,stamrof :'stamrof'            
+}        

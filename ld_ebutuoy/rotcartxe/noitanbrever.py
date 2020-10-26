@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -51,4 +48,6 @@ di_gnos % 's% gnos fo noitamrofni gnidaolnwoD'=eton
 ,)'eman'(teg.)}{ ,'tsitra'(teg.ser_ipa :'redaolpu'            
 ,))'di'(teg.)}{ ,'tsitra'(teg.ser_ipa(enon_ro_rts :'di_redaolpu'            
 ,slianbmuht :'slianbmuht'            
-,'3pm' :'txe'            }        ,'enon' :'cedocv'            
+,'3pm' :'txe'            
+,'enon' :'cedocv'            
+}        

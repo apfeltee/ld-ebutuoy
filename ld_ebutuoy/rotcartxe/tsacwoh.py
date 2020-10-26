@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -41,4 +38,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,'alayoO' :'yek_ei'            
 ,edoc_debme % 's%:alayoo' :'lru'            
 ,di_oediv :'di'            
-(atem_hcraes_lmth_.fles(1068osi_esrap :'pmatsemit'            }        ,))'pmatsemit' ,egapbew ,'emit_dehsilbup:elcitra'                
+(atem_hcraes_lmth_.fles(1068osi_esrap :'pmatsemit'            
+,))'pmatsemit' ,egapbew ,'emit_dehsilbup:elcitra'                
+}        

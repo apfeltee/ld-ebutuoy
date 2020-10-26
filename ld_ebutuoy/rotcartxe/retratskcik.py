@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -69,4 +66,6 @@ soediv deddebme rof kool ,retratskcik evitan oN #  :enoN si lru_oediv fi
 ,di_oediv :'di'            
 ,lru_oediv :'lru'            
 ,eltit :'eltit'            
-,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            }        ,lianbmuht :'lianbmuht'            
+,)enoN=tluafed ,egapbew(noitpircsed_hcraes_go_.fles :'noitpircsed'            
+,lianbmuht :'lianbmuht'            
+}        

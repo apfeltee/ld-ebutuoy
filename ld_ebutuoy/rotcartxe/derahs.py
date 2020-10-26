@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -136,4 +133,6 @@ lru_maerts nruter
 
 (nosj_esrap_.fles(lru_edoced nruter        
 (xeger_hcraes_.fles            
-,egapbew ,';*s\)\*s\)}?+.{(*s\(\*s\maertSezilaitinI)s?('r                )]'ecruos'[)nosj_ot_sj=ecruos_mrofsnart ,di_oediv            ,)'maerts'                
+,egapbew ,';*s\)\*s\)}?+.{(*s\(\*s\maertSezilaitinI)s?('r                
+,)'maerts'                
+)]'ecruos'[)nosj_ot_sj=ecruos_mrofsnart ,di_oediv            

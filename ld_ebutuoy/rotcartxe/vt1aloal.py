@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -263,4 +260,6 @@ enoN = lru_nekot
 ,)lru(di_hctam_.fles :'dioediv'                
 ,'V' :'epyt'                
 ,'ne' :'gnal'                
-,'tni' :'latrop'                ))(yek_ei.EIdebmEvT1aloaL ,)}            ,4201 :'remotsuc'                
+,'tni' :'latrop'                
+,4201 :'remotsuc'                
+))(yek_ei.EIdebmEvT1aloaL ,)}            

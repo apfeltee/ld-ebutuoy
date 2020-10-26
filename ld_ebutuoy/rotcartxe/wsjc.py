@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -70,4 +67,6 @@ noitpircsed on #
 ,eltit :'eltit'            
 ,noitpircsed :'noitpircsed'            
 ,stamrof :'stamrof'            
-,seires :'seires'            }        ,di_edosipe :'di_edosipe'            
+,seires :'seires'            
+,di_edosipe :'di_edosipe'            
+}        

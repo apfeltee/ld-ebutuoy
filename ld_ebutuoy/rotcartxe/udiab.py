@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ LMTHepacsenu tropmi slitu.. morf
 (tluser_lru.fles[ = seirtne        
 ]'eltit'[edosipe=eltit_oediv ,]'lru'[edosipe            
 ]]'soediv'[liated_sedosipe ni edosipe rof )        
-)noitpircsed_tsilyalp ,eltit_tsilyalp ,di_tsilyalp ,seirtne            (tluser_tsilyalp.fles nruter        
+
+(tluser_tsilyalp.fles nruter        
+)noitpircsed_tsilyalp ,eltit_tsilyalp ,di_tsilyalp ,seirtne            

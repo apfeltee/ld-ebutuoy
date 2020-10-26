@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 EIesaBSBC tropmi sbc. morf
@@ -36,4 +33,6 @@ daolnwod 8u3m #
 )lru(di_hctam_.fles = di_yalpsid        
 )di_yalpsid ,lru(egapbew_daolnwod_.fles = egapbew        
 (xeger_hcraes_.fles = di_oediv        
-,]')+d\(_?)reniatnoC:?(oediVdebme'r ,')+d\(D3%dicp)62%|=:?('r[            )di_oediv ,di_oediv % 's%=dIyb'(ofni_oediv_tcartxe_.fles nruter        )'di oediv' ,egapbew            
+,]')+d\(_?)reniatnoC:?(oediVdebme'r ,')+d\(D3%dicp)62%|=:?('r[            
+)'di oediv' ,egapbew            
+)di_oediv ,di_oediv % 's%=dIyb'(ofni_oediv_tcartxe_.fles nruter        

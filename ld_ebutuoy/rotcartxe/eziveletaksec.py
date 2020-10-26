@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -287,4 +284,6 @@ debme emarfi #
 ,)'1\)?*.php.\reyalPemarFi/debme/inalisyvi/zc.\eziveletaksec?).\www:?(//?):?sptth:?(>lru<P?()]'\"[(=crsb\+]>^[emarfi<'r             
 {=yreuq ,))'lru'=puorg ,'lru reyalp emarfi' ,egapbew            
 ,'eurt' :'tratSotua'                
-)}        ))(yek_ei.EIeziveleTakseC=ei ,lru_atad(tluser_lru.fles nruter        
+)}        
+
+))(yek_ei.EIeziveleTakseC=ei ,lru_atad(tluser_lru.fles nruter        

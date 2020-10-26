@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -54,4 +51,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)' ' ,)'emitaerc'(teg.deef(1068osi_esrap :'pmatsemit'            
 ,)'emankcin' ,'rohtua'(teg :'redaolpu'            
 ,)'diu' ,'rohtua'(teg :'di_redaolpu'            
-(stamrof_8u3m_tcartxe_.fles :'stamrof'            }        ,)'evitan_8u3m' ,'4pm' ,di_oediv ,]'8u3m'[]'deef'[deef                
+(stamrof_8u3m_tcartxe_.fles :'stamrof'            
+,)'evitan_8u3m' ,'4pm' ,di_oediv ,]'8u3m'[]'deef'[deef                
+}        

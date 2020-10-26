@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -49,4 +46,6 @@ seirtne elif eikooc demroflam lla ecnis ytpme eb dluohs seikooC #
 derongi eb lliw #        
 )seikooc_.rajeikooc(eslaFtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

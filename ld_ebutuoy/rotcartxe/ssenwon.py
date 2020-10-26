@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -145,4 +142,6 @@ enoN = noitpircsed_seires
 )][ ,'snoitalsnart'(teg.seires = snoitalsnart        
 :snoitalsnart fi        
 ]'eltiToes'[]0[snoitalsnart ro )'eltit'(teg.]0[snoitalsnart = eltit_seires            
-)'noitpircseDoes'(teg.]0[snoitalsnart = noitpircsed_seires            )noitpircsed_seires ,eltit_seires ,)]'di'[seires(rts_tapmoc ,seirtne            (tluser_tsilyalp.fles nruter        
+)'noitpircseDoes'(teg.]0[snoitalsnart = noitpircsed_seires            
+(tluser_tsilyalp.fles nruter        
+)noitpircsed_seires ,eltit_seires ,)]'di'[seires(rts_tapmoc ,seirtne            

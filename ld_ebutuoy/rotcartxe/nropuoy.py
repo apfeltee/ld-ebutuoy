@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -201,4 +198,6 @@ atadatem emos gnitcartxe yb ti morf tifeneb lliw eW #
 ,tnuoc_tnemmoc :'tnuoc_tnemmoc'            
 ,seirogetac :'seirogetac'            
 ,sgat :'sgat'            
-,timil_ega :'timil_ega'            }        ,stamrof :'stamrof'            
+,timil_ega :'timil_ega'            
+,stamrof :'stamrof'            
+}        

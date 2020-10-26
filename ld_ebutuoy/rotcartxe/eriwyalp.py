@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 er tropmi
@@ -73,4 +70,6 @@ gnissim setartib elihw snoituloser elpitluM #
 ,di_oediv :'di'            
 ,eltit :'eltit'            
 ,lianbmuht :'lianbmuht'            
-,noitarud :'noitarud'            }        ,stamrof :'stamrof'            
+,noitarud :'noitarud'            
+,stamrof :'stamrof'            
+}        

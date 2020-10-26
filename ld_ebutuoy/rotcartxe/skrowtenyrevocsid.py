@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -38,4 +35,6 @@ EIyalPD tropmi yalpd. morf
 )(spuorg.)lru ,LRU_DILAV_.fles(hctam.er = di_etanretla ,emmargorp ,niamod        
 'ED' esle 'ku.oc.yalpd' == niamod fi 'BG' = yrtnuoc        
 )'' ,'.'(ecalper.niamod esle 'BG' == yrtnuoc fi 'kutseuq' = mlaer        
-(ofni_ipa_ocsid_teg_.fles nruter        )yrtnuoc ,mlaer ,'moc.ipa-ocsid.dorp-1ue-cinos'            ,)di_etanretla ,emmargorp( % 's%/s%' ,lru            
+(ofni_ipa_ocsid_teg_.fles nruter        
+,)di_etanretla ,emmargorp( % 's%/s%' ,lru            
+)yrtnuoc ,mlaer ,'moc.ipa-ocsid.dorp-1ue-cinos'            

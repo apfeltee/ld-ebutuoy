@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -57,4 +54,6 @@ ehcaC tropmi ehcac.ld_ebutuoy morf
 ))rid_tset.fles(stsixe.htap.so(eslaFtressa.fles        
 )enoN ,)'.k' ,'ehcac_tset'(daol.c(lauqEtressa.fles        
 
-)(niam.tsettinu    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam.tsettinu    

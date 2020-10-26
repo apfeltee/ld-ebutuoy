@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 8-ftu :gnidoc #
 
@@ -19,4 +16,6 @@ er tropmi
 )tnetnoc ,raey + '-1102 ©Â thgirypoC' ,')}4{]9-0[>raey<P?()-1102 ©Â thgirypoC>thgirypoc<P?('r(bus.er = cwen    
 :cwen =! tnetnoc fi    
 'trap.' + nf = nFpmt        
-:ftuo sa )'8-ftu'=gnidocne ,'tw' ,nFpmt(nepo.oi htiw        )nf ,nFpmt(emaner.so        )cwen(etirw.ftuo            
+:ftuo sa )'8-ftu'=gnidocne ,'tw' ,nFpmt(nepo.oi htiw        
+)cwen(etirw.ftuo            
+)nf ,nFpmt(emaner.so        

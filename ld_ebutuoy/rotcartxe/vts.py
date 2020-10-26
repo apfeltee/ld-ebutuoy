@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -65,4 +62,6 @@ rotcartxEofnI tropmi nommoc. morf
 ,)0001 ,)'htgnel'(teg.oediv(enon_ro_taolf :'noitarud'            
 ,seltitbus :'seltitbus'            
 ,))'sweiv'(teg.tluser(enon_ro_tni :'tnuoc_weiv'            
-,)'emaNtrohs'(teg.emmargorp ro )'eman'(teg.emmargorp :'seires'            }        ,'weNevocthgirB' :'yek_ei'            
+,)'emaNtrohs'(teg.emmargorp ro )'eman'(teg.emmargorp :'seires'            
+,'weNevocthgirB' :'yek_ei'            
+}        

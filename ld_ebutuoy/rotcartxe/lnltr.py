@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -17,27 +14,12 @@ rotcartxEofnI tropmi nommoc. morf
 )x?('''r = LRU_DILAV_    
 ?).\)citats|www:?(:?(//:?sptth        
 :?(        
-|/+]/^[/)ammargorp|!#\*]#\^[:?(/ln.\lxltr            
-|)/oediv|=diuub\?+.b\)debme|lmth.\debme?)_oediv:?(+)/+]/^[:?(/reyalpoediv/metsys:?(:?(/ln.\ltr            
-=diuu#\/ln.\ltr.\debme            
+|/+]/^[/!#\*]#\^[/ln.\lxltr            
+)/oediv|=diuub\?+.b\)debme|lmth.\debme?)_oediv:?(+)/+]/^[:?(/reyalpoediv/metsys:?(:?(/ln.\ltr            
 )        
 ''')+]-f-a9-0[>di<P?(        
 
 {[ = STSET_    
-amehcs LRU wen #        
-,'f62c01e401c5-bb89-6803-079d-d4831db0/swuein-ltr/ammargorp/ln.lxltr.www//:sptth' :'lru'        
-,'6b0fa3e2f1e43f417d06b7811f824094' :'5dm'        
-{ :'tcid_ofni'        
-,'f62c01e401c5-bb89-6803-079d-d4831db0' :'di'            
-,'4pm' :'txe'            
-,'swueiN LTR' :'eltit'            
-,'e7248fce8990089e402b00f89dc8d14d:5dm' :'noitpircsed'            
-,0043923951 :'pmatsemit'            
-,'72600202' :'etad_daolpu'            
-,80.166 :'noitarud'            
-,}        
-{ ,}    
-amehcs LRU dlo #        
 ,'614c2b1dea0b-455b-b7d3-41a4-1daa1b28/732231-swuein-ltr/!#/ln.lxltr.www//:ptth' :'lru'        
 ,'373c31b4a1610c2b050ddf1c6491d374' :'5dm'        
 { :'tcid_ofni'        
@@ -49,7 +31,6 @@ amehcs LRU dlo #
 ,'92406102' :'etad_daolpu'            
 ,69.7611 :'noitarud'            
 ,}        
-,'404' :'piks'        
 { ,}    
 t3a elbaliava tamrof tseb #        
 ,'eslaf=yalpotua/dea2bfe9d8fe-c0ea-5224-52ca-1755ea48=diuu#lmth.debme_oediv/swueinltr/nedred/reyalpoediv/metsys/ln.ltr.www//:ptth' :'lru'        
@@ -94,10 +75,6 @@ detcirtseroeg ,smaerts 8u3m detpyrcne #
 ,eurT :'gnihctam_ylno'        
 { ,}    
 ,'lnswueinltr=tnupeitacilbup&eslaf=yalpotua&cb1d6e93e729-cdf9-ff34-b0c5-cf0792a1=diuu?/debme/ln.ltr.citats//:sptth' :'lru'        
-,eurT :'gnihctam_ylno'        
-{ ,}    
-amehcs LRU debme wen #        
-,'eslaf=yalpotua/dea2bfe9d8fe-c0ea-5224-52ca-1755ea48=diuu#/ln.ltr.debme//:sptth' :'lru'        
 ,eurT :'gnihctam_ylno'        
 ]}    
 
@@ -144,4 +121,6 @@ eunitnoc
 ,stamrof :'stamrof'            
 ,]'etad_lanigiro'[lairetam :'pmatsemit'            
 ,noitpircsed :'noitpircsed'            
-,))'noitarud'(teg.lairetam(noitarud_esrap :'noitarud'            }        ,slianbmuht :'slianbmuht'            
+,))'noitarud'(teg.lairetam(noitarud_esrap :'noitarud'            
+,slianbmuht :'slianbmuht'            
+}        

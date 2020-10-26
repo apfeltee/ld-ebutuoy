@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 
 slaretil_edocinu tropmi __erutuf__ morf
@@ -145,4 +142,6 @@ ssap
 ,))'tnuoCyalp'(teg.pilc(enon_ro_tni :'tnuoc_weiv'            
 ,))'tnuoCekil'(teg.pilc(enon_ro_tni :'tnuoc_ekil'            
 ,))'tnuoCtnemmoc'(teg.pilc(enon_ro_tni :'tnuoc_tnemmoc'            
-,stamrof :'stamrof'            }        ,)'tsiLgat'(teg.pilc :'sgat'            
+,stamrof :'stamrof'            
+,)'tsiLgat'(teg.pilc :'sgat'            
+}        

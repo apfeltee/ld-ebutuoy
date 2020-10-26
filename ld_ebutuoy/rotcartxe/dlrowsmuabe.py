@@ -1,6 +1,3 @@
-
-
-
 slaretil_edocinu tropmi __erutuf__ morf
 
 rotcartxEofnI tropmi nommoc. morf
@@ -31,4 +28,6 @@ txet.)'elif'(dnif.gifnoc = lru_oediv
 ,txet.)'eltit'(dnif.gifnoc :'eltit'            
 ,lru_oediv :'lru'            
 ,txet.)'noitpircsed'(dnif.gifnoc :'noitpircsed'            
-,txet.)'egami'(dnif.gifnoc :'lianbmuht'            }        ,txet.)'emanresu'(dnif.gifnoc :'redaolpu'            
+,txet.)'egami'(dnif.gifnoc :'lianbmuht'            
+,txet.)'emanresu'(dnif.gifnoc :'redaolpu'            
+}        

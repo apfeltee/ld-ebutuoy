@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -200,4 +197,6 @@ eslaF( nruter
 ))lru(elbatius.)slc ,EItnemoMwoNuoY(repus esle                
 
 :)lru ,fles(tcartxe_laer_ fed    
-)lru(di_hctam_.fles = di_oediv        )]'meti'[meti(tnemom_tcartxe_ nruter        )di_oediv ,di_oediv % TAMROF_LRU_TNEMOM(nosj_daolnwod_.fles = meti        
+)lru(di_hctam_.fles = di_oediv        
+)di_oediv ,di_oediv % TAMROF_LRU_TNEMOM(nosj_daolnwod_.fles = meti        
+)]'meti'[meti(tnemom_tcartxe_ nruter        

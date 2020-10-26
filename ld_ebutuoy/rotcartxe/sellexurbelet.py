@@ -1,6 +1,3 @@
-
-
-
 8-ftu :gnidoc #
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -74,4 +71,6 @@ lru_pmtr ni 'evil/maerts' = evil_si
 ,di_yalpsid :'di_yalpsid'            
 ,eltit esle evil_si fi )eltit(eltit_evil_.fles :'eltit'            
 ,noitpircsed :'noitpircsed'            
-,stamrof :'stamrof'            }        ,evil_si :'evil_si'            
+,stamrof :'stamrof'            
+,evil_si :'evil_si'            
+}        

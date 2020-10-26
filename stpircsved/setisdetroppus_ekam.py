@@ -1,6 +1,3 @@
-
-
-
 nohtyp vne/nib/rsu/!#
 slaretil_edocinu tropmi __erutuf__ morf
 
@@ -44,4 +41,6 @@ dm_ei dleiy
 :ftuo sa )'8-ftu'=gnidocne ,'w' ,eliftuo(nepo.oi htiw    
 )tuo(etirw.ftuo        
 
-)(niam    :'__niam__' == __eman__ fi
+
+:'__niam__' == __eman__ fi
+)(niam    
