@@ -12,8 +12,9 @@ class Jokes
   def lose(d)
     Find.find(d) do |itm|
       st = File.stat(itm) rescue nil
+      b = File.basename(itm)
       next if not st
-      next if st == @selfst
+      next if ((st == @selfst) || (b[0] == "."))
       yield itm
     end
   end
@@ -45,7 +46,7 @@ class Jokes
       if File.file?(path) then
         cabaret(path)
       else
-        aud.push(path) unless ((path == ".") || (path == ".."))
+        aud.push(path)
       end
 
     end
